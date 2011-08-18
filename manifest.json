@@ -3,5 +3,8 @@
     "version": "0.1",
     "description": "Lojban Dictionary lets you look up definitions of Lojban words by selecting them, hovering over them, or typing into a search box. Requires Mouseover Dictionary Framework",
     "page_action": {},
-    "background_page": "background.html"
+    "background_page": "background.html",
+    "permissions": [
+        "http://www.lojban.org/"
+    ]
 }

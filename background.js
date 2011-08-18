@@ -8,9 +8,9 @@ var info = {
     first: 1,
     badge: "JBO",
     items: {
-        classes: ['type', 'eng', 'def'],
+        classes: ['loj', 'eng', 'def', 'raf1', 'raf2', 'raf3'],
         //        names: [i18n('char'), i18n('charcode')],
-        name: ['type', 'eng', 'def'],
+        name: ['loj', 'eng', 'def', 'raf1', 'raf2', 'raf3'],
         samples: ['A', '65']
     },
     wordDef: {
@@ -25,10 +25,10 @@ var info = {
             borderColor:        "#51b320",
             borderWidth:        3,
         },
-        "type": {
+        "loj": {
             fontSize:           20,
             fontFamily:         "sans-serif",
-            color:    "#ff0000",
+            color:  "#ffff00",
         },
         "eng": {
             fontSize:           20,
@@ -37,7 +37,19 @@ var info = {
         "def": {
             color:              "#b3e6b3",
             fontSize:           14,
-        }
+        },
+        "raf1": {
+            fontSize: 14,
+            fontFamily: "sans-serif",
+        },
+        "raf2": {
+            fontSize: 14,
+            fontFamily: "sans-serif",
+        },
+        "raf3": {
+            fontSize: 14,
+            fontFamily: "sans-serif",
+        },
     }
         
 };
@@ -46,7 +58,6 @@ var info = {
 // it's the extension id of Mouseover Dictionary Framework
 if (chrome.extension) {
     chrome.extension.sendRequest('fcabdhekhndgdciilfhbmiepfnjabeda', info);
-
 
     chrome.extension.onRequestExternal.addListener(
         function(request, sender, sendResponse) {
@@ -57,6 +68,14 @@ if (chrome.extension) {
             case 'load':
                 // load external data if needed
                 // *might* happen more than once before unload...
+                //alert('load');
+                try {
+                    window.lojbanDictionary = new LojbanDictionary();
+                    //alert('ok');
+                } catch (bad) {
+                    //alert('bad');
+                }
+                //alert('done');
                 sendResponse({complete: true});
                 break;
             case 'unload':
@@ -72,140 +91,4 @@ if (chrome.extension) {
             }
         }
     );
-}
-
-// regexes
-
-function formToRegexStringSimple(form) {
-    // TODO: is Y a vowel???
-    // TODO: what is h???
-    var alpha = "['abcdefgijklmnoprstuvxyz]";
-    var vowel = "[aeiou]";
-    var consonant = "[bcdfgjklmnprstvxz]";
-    var apos = "[']";
-    var schwa = "[y]";
-    var letters = form.split('');
-    var prefix = '';
-    var regexes = [];
-    for (var i=0; i<letters.length; i++) {
-        switch (letters[i]) {
-        case 'C':
-        case 'c':
-            regexes.push(consonant);
-            break;
-        case 'V':
-        case 'v':
-            regexes.push(vowel);
-            // 1st letter is vowel implies can start with full stop?
-            if (i===0) prefix = '\\.?'; 
-            break;
-        case 'h':
-        case "'":
-            regexes.push(apos);
-            break;
-        case 'Y':
-        case 'y':
-            regexes.push(schwa);
-            break;
-        case '|':
-            regexes.push("|");
-            break;
-        default:
-            throw 'error: formToRegexString: bad lojban form';
-            break;
-        }
-    }
-    return prefix + regexes.join('');
-}
-
-function formToRegexStringComplex(form) {
-    return "("
-        + (form
-           .split("|")
-           .map(formToRegexStringSimple)
-           .join(")|("))
-        + ")";
-}
-
-function formToRegex(form) {
-    return new RegExp("^(" + formToRegexStringComplex(form) + ")$");
-}
-
-function formToRegexSequence(form) {
-    return new RegExp("^(" + formToRegexStringComplex(form) + ")+$");
-}
-
-var lojregex = {};
-window.lojregex = lojregex;
-lojregex.gismuForms = [
-    'CVCCV',
-    'CCVCV',
-];
-lojregex.cmavoForms = [
-    'V',
-    'VV',
-    'VhV',
-    'CV',
-    'CVV',
-    'CVhV',
-];
-// match a whole gismu
-lojregex.gismu = formToRegex(lojregex.gismuForms.join("|"));
-// match a whole cmavo
-lojregex.cmavo = formToRegex(lojregex.cmavoForms.join("|"));
-// match a sequence of cmavo
-lojregex.cmavoSeq = formToRegexSequence(lojregex.cmavoForms.join("|"));
-// match each cmavo in a sequence
-lojregex.cmavoSplitter = new RegExp(
-    formToRegexStringComplex(lojregex.cmavoForms.join("|")),
-    'g');
-
-                           
-
-function query(text) {
-    // TODO: determine if text is gismu, lujvo, or cmavo
-    // if lujvo, split into rafsi
-
-    if (text.match(lojregex.gismu)) {
-        return {result:[lookup(text, 'gismu')], select: 1};
-    } else if (text.match(lojregex.cmavo)) {
-        // TODO: remove this redundant case (cmavo seq covers it)
-        type = 'cmavo';
-        return {result:[lookup(text, 'cmavo')], select: 1};
-    } else if (text.match(lojregex.cmavoSeq)) {
-        return { select: 1,
-                 result: ( text
-                           .match(lojregex.cmavoSplitter)
-                           .map(lookupCmavo)
-                         )
-               };
-    } else {
-        return { result: [['cannot', 'lex', 'selection']], select: 1 };
-    }
-}
-
-function lookupCmavo(text) {
-    return lookupCmavo(text, 'cmavo');
-}
-function lookup(text, type) {
-    // lookup a single basic word and return its definition
-    var eng;
-    var def;
-    if (typeof lojbanDictionary == 'undefined') {
-        // BIG fail: where is the dictionary???
-        eng = '---';
-        def = '(no dictionary found!!!)';
-    } else {
-        var entry = lojbanDictionary[text];
-        window.entry = entry;
-        if (typeof entry == 'undefined') {
-            eng = '---';
-            def = '(no definition found)';
-        } else {
-            eng = entry.english;
-            def = entry.definition;
-        }
-    }
-    return [type, eng, def];
-    
 }
