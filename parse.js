@@ -25,7 +25,7 @@ function formToRegex(form, head, tail) {
                     .replace(/[Cc]/g, '<C>')
                     .replace(/[Vv]/g, '<V>')
                     .replace(/[h']/g, '<h>')
-                    .replace(/[Yy]/g, '<Y>')
+                    .replace(/[Yy]/g, '<y>')
                     .replace(/<C>/g, "['abcdefgijklmnoprstuvxyz]")
                     .replace(/<V>/g, "[aeiou]")
                     .replace(/<h>/g, "[']")
@@ -47,9 +47,16 @@ lojregex.cmavoForms = [
     'CVhV',
     'CVV',
     'CV',
+    'CY',
     'VhV',
     'VV',
     'V',
+];
+lojregex.rafsiForms = [
+    'CVhV',
+    'CVV',
+    'CCV',
+    'CVC',
 ];
 // match a whole gismu
 lojregex.gismu = formToRegex(lojregex.gismuForms, '^', '$');
@@ -57,6 +64,8 @@ lojregex.gismu = formToRegex(lojregex.gismuForms, '^', '$');
 lojregex.cmavoSeq = formToRegex(lojregex.cmavoForms, '^', '+$');
 // match each cmavo in a sequence
 lojregex.cmavoSplitter = formToRegex(lojregex.cmavoForms, '', '');
+//
+lojregex.rafsiSplitter = formToRegex(lojregex.rafsiForms, '', '');
                            
 
 function query(text) {
@@ -64,50 +73,65 @@ function query(text) {
     // if lujvo, split into rafsi
 
     if (text.match(lojregex.gismu)) {
-        return { result: [['gismu']], select: 1 };
+        //return { result: [['gismu']], select: 1 };
         return { result:[lookupGismu(text)], select: 1 };
-    } else if (text.match(lojregex.cmavoSeq)) {
+    }
+    else if (text.match(lojregex.cmavoSeq)) {
         return { select: 1,
                  result: ( text
                            .match(lojregex.cmavoSplitter)
-                           //.map(alert)
                            .map(lookupCmavo)
                          )
                };
         // TODO: else luvjo, else rafsi sequence...
+    }
+    var result = lookupLujvo(text);
+    if (result != null) return { result: [result], select: 1 };
+    result = lookupRafsi(text);
+    if (result != null) return { result: result, select: 1 };
+    return { result: [['cannot', 'lex', 'the', 'selection']], select: 1 };
+}
+
+function lookupAny(text, func) {
+    var def = func(text);
+    if (def) {
+        return [
+            text,
+            def.english,
+            def.definition,
+        ];
     } else {
-        return { result: [['cannot', 'lex', 'the', 'selection']], select: 1 };
+        return null;
     }
 }
 
 function lookupCmavo(text) {
-    var def = lojbanDictionary.cmavo(text);
-    if (def) {
-        //alert('cmavo');
-        return [
-            text,
-            def.eng,
-            def.def,
-        ];
-    } else {
-        return null;
-    }
-}
-
-function lookupRafsi(text) {
-    alert('NOOOOOO');
-    throw 'asdfadfadsf';
+    return lookupAny(text, lojbanDictionary.cmavo);
 }
 
 function lookupGismu(text) {
-    def = lojbanDictionary.gismu(text);
-    if (def) {
-        return [
-            text,
-            def.eng,
-            def.def,
-        ];
-    } else {
-        return null;
+    return lookupAny(text, lojbanDictionary.gismu);
+}
+
+function lookupLujvo(text) {
+    return lookupAny(text, lojbanDictionary.lujvo);
+}
+
+function cleanArray(actual){
+  var newArray = new Array();
+  for(var i = 0; i<actual.length; i++){
+    if (actual[i]){
+      newArray.push(actual[i]);
     }
+  }
+  return newArray;
+}
+
+function lookupRafsi(text) {
+    var doLookup = function(str) { return lookupAny(str, lojbanDictionary.rafsi); }
+    var match = text.match(lojregex.rafsiSplitter);
+    if (match == null) return null;
+    var retVal = cleanArray(match.map(doLookup));
+    if (retVal.length > 0) return retVal;
+    return null;
 }

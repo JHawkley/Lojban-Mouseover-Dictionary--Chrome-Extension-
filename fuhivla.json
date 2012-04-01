@@ -1,0 +1,2967 @@
+{
+	"a'orne" : {
+		"word" : "a'orne",
+		"definition" : "x1 is maple of species/variety x2.",
+		"notes" : "syn. {ricrxacero}; see also {na'itsi}",
+		"english" : "maple"
+	},
+	"abniena" : {
+		"word" : "abniena",
+		"definition" : "x1 is Guaraní in aspect x2.",
+		"notes" : "see also {niengatu}",
+		"english" : "(No Gloss Word)"
+	},
+	"agbakate" : {
+		"word" : "agbakate",
+		"definition" : "x1 is an avocado (fruit or tree) of species/variety x2.",
+		"english" : "avocado"
+	},
+	"aierne" : {
+		"word" : "aierne",
+		"definition" : "x1 Armenian in aspect x2",
+		"notes" : "See also {kafkaso}, {kartuli}.",
+		"english" : "Armenian"
+	},
+	"aizdo" : {
+		"word" : "aizdo",
+		"definition" : "x1 is woad of species/variety x2.",
+		"english" : "woad"
+	},
+	"akmela" : {
+		"word" : "akmela",
+		"definition" : "x1 is a toothache plant/spotflower/paracress of species/variety x2.",
+		"english" : "toothache plant"
+	},
+	"aksiptrina" : {
+		"word" : "aksiptrina",
+		"definition" : "x1 is a hawk of species/type x2",
+		"notes" : "Subfamily Acciptrinae",
+		"english" : "hawk"
+	},
+	"alba'aka" : {
+		"word" : "alba'aka",
+		"definition" : "x1 is basil of species/variety x2.",
+		"notes" : "syn. {spatrbasiliko}",
+		"english" : "basil"
+	},
+	"alfabeta" : {
+		"word" : "alfabeta",
+		"definition" : "x1 is an alphabet used to write x2.",
+		"notes" : "see also {selyle'u}, {fu'arka}, {anbani}, {abgida}, {abjadu}, {snile'u}",
+		"english" : "alphabetic language"
+	},
+	"alminiu" : {
+		"word" : "alminiu",
+		"definition" : "x1 is a quantity of/contains/is made of aluminium.",
+		"notes" : "Cf. {jinme}.",
+		"english" : "aluminium"
+	},
+	"altamru" : {
+		"word" : "altamru",
+		"definition" : "x1 is a date (fruit or tree) of species/variety x2.",
+		"english" : "date"
+	},
+	"alzaitu" : {
+		"word" : "alzaitu",
+		"definition" : "x1 is an olive of species/variety x2.",
+		"english" : "olive"
+	},
+	"amgidala" : {
+		"word" : "amgidala",
+		"definition" : "x1 is an amygdala in organism x2, with function x3.",
+		"notes" : "As a part of the limbic system ({menbenci'e}, {besrlimbo}), it performs a primary role in the processing and memory of emotional reactions. Cf. {besna}.",
+		"english" : "amygdala"
+	},
+	"amnio" : {
+		"word" : "amnio",
+		"definition" : "x1 is the amnion of x2",
+		"notes" : "see also {amniota}",
+		"english" : "amnion"
+	},
+	"amniota" : {
+		"word" : "amniota",
+		"definition" : "x1 is an amniote of class/order/family x2",
+		"notes" : "see also {amnio}, {cipni}, {mabru}, {respa}",
+		"english" : "amniote"
+	},
+	"ampigravle" : {
+		"word" : "ampigravle",
+		"definition" : "x1 is celery.",
+		"notes" : "Cf. {spatrxapio}, {stagi}, {spati}.",
+		"english" : "celery"
+	},
+	"amsake" : {
+		"word" : "amsake",
+		"definition" : "x1 is made of/contains/is an amount of amazake from x2",
+		"notes" : "By komfo,amonan",
+		"english" : "amazake"
+	},
+	"amtisti" : {
+		"word" : "amtisti",
+		"definition" : "x1 is a quantity of/contains/is made of amethyst from source x2.",
+		"notes" : "Cf. {jadni}, {jemna}, {krili}, {rokci}.",
+		"english" : "amethyst"
+	},
+	"amxari" : {
+		"word" : "amxari",
+		"definition" : "x1 is Amharic in aspect x2.",
+		"notes" : "cf. {gurnrtefi}",
+		"english" : "Amharic"
+	},
+	"andiroba" : {
+		"word" : "andiroba",
+		"definition" : "x1 is carap of species/variety x2.",
+		"english" : "carap"
+	},
+	"angeli" : {
+		"word" : "angeli",
+		"definition" : "x1 is an angel.",
+		"english" : "(No Gloss Word)"
+	},
+	"angila" : {
+		"word" : "angila",
+		"definition" : "x1 is an eel of species x2.",
+		"notes" : "syn. {sincykaifi'e}",
+		"english" : "(No Gloss Word)"
+	},
+	"anji" : {
+		"word" : "anji",
+		"definition" : "x1 is a Chinese hanzi / Japanese kanji (logogram) with meaning x2 and radical x3.",
+		"notes" : "Cf. {lerfu}.",
+		"english" : "Chinese character"
+	},
+	"anmonia" : {
+		"word" : "anmonia",
+		"definition" : "x1 is a quantity of / contains / is made of ammonia.",
+		"notes" : "Cf. {trano}.",
+		"english" : "ammonia"
+	},
+	"ansoptera" : {
+		"word" : "ansoptera",
+		"definition" : "x1 is a dragonfly of species x2.",
+		"notes" : "Cf. {laxsfani}, {zgoptera}, {odnata}, {sfani}, {cinki}.",
+		"english" : "dragonfly"
+	},
+	"antilope" : {
+		"word" : "antilope",
+		"definition" : "x1 is an antelope of species x2.",
+		"notes" : "Cf. {bajbakni}, {mirli}, {dorkada}.",
+		"english" : "antelope"
+	},
+	"arce" : {
+		"word" : "arce",
+		"definition" : "x1 is a maple (Acer) of species/variety x2",
+		"notes" : "The genus from the Linnaean name is \"Acer\".",
+		"english" : "maple"
+	},
+	"armoraki" : {
+		"word" : "armoraki",
+		"definition" : "x1 is horseradish of variety x2.",
+		"notes" : "Cf. {cpinytsapi}, {kobli}, {stagnrafanu}, {snapisa}.",
+		"english" : "horseradish"
+	},
+	"arnika" : {
+		"word" : "arnika",
+		"definition" : "x1 is a quantity of arnica/wolfsbane of species/strain x2",
+		"english" : "arnica"
+	},
+	"arxokuna" : {
+		"word" : "arxokuna",
+		"definition" : "x1 is a raccoon of species x2",
+		"notes" : "syn. {prokioni}, {lumge'u}",
+		"english" : "racoon"
+	},
+	"atkuila" : {
+		"word" : "atkuila",
+		"definition" : "x1 is an eagle of species/breed x2.",
+		"notes" : "Cf. {cipni}.",
+		"english" : "eagle"
+	},
+	"aufklerunge" : {
+		"word" : "aufklerunge",
+		"definition" : "x1 (process/concept) is enlightenment in the sense of philosophy x2",
+		"english" : "enlightenment"
+	},
+	"avgusto" : {
+		"word" : "avgusto",
+		"definition" : "x1 is August in year x2 on calendar x3",
+		"english" : "(No Gloss Word)"
+	},
+	"axlte" : {
+		"word" : "axlte",
+		"definition" : "x1 is an axolotl of species/breed x2",
+		"english" : "axolotl"
+	},
+	"bajriga" : {
+		"word" : "bajriga",
+		"definition" : "x1 is a budgerigar (Melopsittacus undulatus) of breed x2",
+		"notes" : "Cf. {melpsita}, {cipni}.",
+		"english" : "(No Gloss Word)"
+	},
+	"banbu'enu" : {
+		"word" : "banbu'enu",
+		"definition" : "x1 is the language with ISO 639-3 code ''ben'' (Bengali).",
+		"notes" : "Cf. {begbau}.",
+		"english" : "Bengali"
+	},
+	"bancumunu" : {
+		"word" : "bancumunu",
+		"definition" : "x1 is the language with ISO 639-3 code ''cmn'' (Mandarin Chinese).",
+		"notes" : "Cf. {jugbau}, {banve'u'u}, {banje'u'e}.",
+		"english" : "Chinese Mandarin"
+	},
+	"bandu'e'u" : {
+		"word" : "bandu'e'u",
+		"definition" : "x1 is the language with ISO 639-3 code ''deu'' (German).",
+		"notes" : "Cf. {dotybau}, {baurgusuve}.",
+		"english" : "German"
+	},
+	"banfuru'a" : {
+		"word" : "banfuru'a",
+		"definition" : "x1 is the language with ISO 639-3 code ''fra'' (French).",
+		"notes" : "Cf. {fasybau}.",
+		"english" : "French"
+	},
+	"bangaru'a" : {
+		"word" : "bangaru'a",
+		"definition" : "x1 is the language with ISO 639-3 code ''ara'' (Arabic).",
+		"notes" : "Cf. {rabybau}, {bangarubu}, {djobau}.",
+		"english" : "Arabic"
+	},
+	"bangarubu" : {
+		"word" : "bangarubu",
+		"definition" : "x1 is the language with ISO 639-3 code ''arb'' (Standard Arabic).",
+		"notes" : "Cf. {rabybau}, {bangaru'a}, {djobau}.",
+		"english" : "Standard Arabic"
+	},
+	"bangenugu" : {
+		"word" : "bangenugu",
+		"definition" : "x1 is the language with ISO 639-3 code ''eng'' (English).",
+		"notes" : "Cf. {bangenugu}, {gliglibau}, {merbau}, {xinglibau}, {kadnyglibau}, {sralybau}, {kisyglibau}, {nanfi'oglibau}, {bangrnaidjiria}.",
+		"english" : "(No Gloss Word)"
+	},
+	"bangepu'o" : {
+		"word" : "bangepu'o",
+		"definition" : "x1 is the language with ISO 639-3 code ''epo'' (Esperanto).",
+		"notes" : "Cf. {esperanton}, {spranto}.",
+		"english" : "(No Gloss Word)"
+	},
+	"banginudu" : {
+		"word" : "banginudu",
+		"definition" : "x1 is the language with ISO 639-3 code ''ind'' (Indonesian).",
+		"notes" : "Cf. {bidbau}.",
+		"english" : "Bahasa Indonesia"
+	},
+	"bangitu'a" : {
+		"word" : "bangitu'a",
+		"definition" : "x1 is the language with ISO 639-3 code ''ita'' (Italian).",
+		"notes" : "Cf. {bangrtalia}.",
+		"english" : "Italian"
+	},
+	"bangrfarsi" : {
+		"word" : "bangrfarsi",
+		"definition" : "x1 is the Farsi language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "c.f. {bangrxirana}",
+		"english" : "Farsi"
+	},
+	"bangrnaidjiria" : {
+		"word" : "bangrnaidjiria",
+		"definition" : "x1 is the Nigerian English language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {glibau}, {bangenugu}.",
+		"english" : "Nigerian English"
+	},
+	"bangrpolska" : {
+		"word" : "bangrpolska",
+		"definition" : "x1 is the Polish language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {banpu'olu}, {gugdrpolska}, {gugdepulu}, {po'olska}, {slovo}.",
+		"english" : "Polish"
+	},
+	"bangrtalia" : {
+		"word" : "bangrtalia",
+		"definition" : "x1 is the Italian language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {italian}, {bangu}, {bangitu'a}.",
+		"english" : "(No Gloss Word)"
+	},
+	"bangrtcosena" : {
+		"word" : "bangrtcosena",
+		"definition" : "x1 is the Korean language of North Korea used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {bangrgogurio}, {bangrxanguke}, {xangulu}, {banku'oru}.",
+		"english" : "North Korean"
+	},
+	"bangrturkie" : {
+		"word" : "bangrturkie",
+		"definition" : "x1 is the Turkish language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {kulnrturkie}, {kulnrturko}, {tu'urki}.",
+		"english" : "Turkish"
+	},
+	"bangrvietnama" : {
+		"word" : "bangrvietnama",
+		"definition" : "x1 is the Vietnamese language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {xazdo}, {bangu}.",
+		"english" : "Vietnamese"
+	},
+	"bangrxangu" : {
+		"word" : "bangrxangu",
+		"definition" : "x1 is the Korean language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {bangu}, {bangrgogurio}, {gugdrgogurio}, {xangulu}.",
+		"english" : "(No Gloss Word)"
+	},
+	"bangrxanguke" : {
+		"word" : "bangrxanguke",
+		"definition" : "x1 is the Korean language of South Korea used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {bangrgogurio}, {bangrtcosena}, {xangulu}, {banku'oru}.",
+		"english" : "South Korean"
+	},
+	"bangrxirana" : {
+		"word" : "bangrxirana",
+		"definition" : "x1 is the Iranian Farsi language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
+		"notes" : "Cf. {bangrfarsi}.",
+		"english" : "Iranian Farsi"
+	},
+	"bangukuru" : {
+		"word" : "bangukuru",
+		"definition" : "x1 is the language with ISO 639-3 code ''ukr'' (Ukrainian).",
+		"notes" : "Cf. {vurbau}.",
+		"english" : "Ukrainian"
+	},
+	"bangurudu" : {
+		"word" : "bangurudu",
+		"definition" : "x1 is the language with ISO 639-3 code ''urd'' (Urdu).",
+		"notes" : "Cf. {xurbau}.",
+		"english" : "(No Gloss Word)"
+	},
+	"banje'u'e" : {
+		"word" : "banje'u'e",
+		"definition" : "x1 is the language with ISO 639-3 code ''yue'' (Yue Chinese).",
+		"notes" : "Cf. {jugbau}, {bancumunu}.",
+		"english" : "Yue Chinese"
+	},
+	"banjubu'o" : {
+		"word" : "banjubu'o",
+		"definition" : "x1 is the language with ISO 639-3 code ''jbo'' (Lojban).",
+		"notes" : "Cf. {lojban}.",
+		"english" : "(No Gloss Word)"
+	},
+	"banjupunu" : {
+		"word" : "banjupunu",
+		"definition" : "x1 is the language with ISO 639-3 code ''jpn'' (Japanese).",
+		"notes" : "Cf. {ponbau}.",
+		"english" : "(No Gloss Word)"
+	},
+	"banku'anu" : {
+		"word" : "banku'anu",
+		"definition" : "x1 is the language with ISO 639-3 code ''kan'' (Kannada).",
+		"english" : "Kannada"
+	},
+	"banku'oru" : {
+		"word" : "banku'oru",
+		"definition" : "x1 is the language with ISO 639-3 code ''kor'' (Korean).",
+		"notes" : "Cf. {bangrgogurio}, {bangrxangu}, {bangrxanguke}, {bangrtcosena}, {xangulu}.",
+		"english" : "Korean "
+	},
+	"banpu'olu" : {
+		"word" : "banpu'olu",
+		"definition" : "x1 is the language with ISO 639-3 code ''pol'' (Polish).",
+		"notes" : "Cf. {bangrpolska}.",
+		"english" : "(No Gloss Word)"
+	},
+	"banpu'oru" : {
+		"word" : "banpu'oru",
+		"definition" : "x1 is the language with ISO 639-3 code ''por'' (Portuguese).",
+		"notes" : "Cf. {razbau}, {potybau}.",
+		"english" : "Portuguese"
+	},
+	"banru'usu" : {
+		"word" : "banru'usu",
+		"definition" : "x1 is the language with ISO 639-3 code ''rus'' (Russian).",
+		"notes" : "Cf. {rukybau}.",
+		"english" : "(No Gloss Word)"
+	},
+	"bansupu'a" : {
+		"word" : "bansupu'a",
+		"definition" : "x1 is the language with ISO 639-3 code ''spa'' (Spanish).",
+		"notes" : "Cf. {sanbau}, {getybau}.",
+		"english" : "Spanish"
+	},
+	"banve'u'u" : {
+		"word" : "banve'u'u",
+		"definition" : "x1 is the language with ISO 639-3 code ''wuu'' (Wu Chinese).",
+		"notes" : "Cf. {jugbau}, {bancumunu}.",
+		"english" : "Wu Chinese"
+	},
+	"banxe'inu" : {
+		"word" : "banxe'inu",
+		"definition" : "x1 is the language with ISO 639-3 code ''hin'' (Hindi).",
+		"notes" : "Cf. {xinbau}.",
+		"english" : "(No Gloss Word)"
+	},
+	"baurgusuve" : {
+		"word" : "baurgusuve",
+		"definition" : "x1 is the language with ISO 639-3 code ''gsw'' (Swiss German).",
+		"notes" : "Cf. {dotybau}, {bandu'e'u}.",
+		"english" : "Swiss German"
+	},
+	"bergamia" : {
+		"word" : "bergamia",
+		"definition" : "x1 is a bergamot orange of variety/cultivar x2",
+		"english" : "bergamot"
+	},
+	"birkoku" : {
+		"word" : "birkoku",
+		"definition" : "x1 is an apricot of variety x2.",
+		"notes" : "see also {flaume}, {ricrceraso}, {ricrprunu}",
+		"english" : "(No Gloss Word)"
+	},
+	"bolgaro" : {
+		"word" : "bolgaro",
+		"definition" : "x1 is Bulgarian in aspect x2.",
+		"notes" : "Cf. {slovo}, {nanslovo}.",
+		"english" : "Bulgarian"
+	},
+	"braxiura" : {
+		"word" : "braxiura",
+		"definition" : "j1 is a crab of species/section j2.",
+		"notes" : "Cf. {cakyjukni}. From linnaean Brachyura.\n",
+		"english" : "crab"
+	},
+	"bre'one" : {
+		"word" : "bre'one",
+		"definition" : "x1 is Breton in aspect x2.",
+		"notes" : "Syn. {fasko'o}.",
+		"english" : "Breton"
+	},
+	"breveto" : {
+		"word" : "breveto",
+		"definition" : "x1 is a patent on invention x2 by inventor x3 valid in jurisdiction x4 for time interval x5.",
+		"english" : "patent"
+	},
+	"bromeli" : {
+		"word" : "bromeli",
+		"definition" : "x1 is a bromeliad/pineapple of species x2.",
+		"notes" : "Cf. {grutrxananase}.",
+		"english" : "bromeliad"
+	},
+	"campania" : {
+		"word" : "campania",
+		"definition" : "x1 is a champagne made from grapes x2.",
+		"notes" : "Cf. {vanju}, {fomvanju}, {risyvanju}, {xalka}, {koinka}.  For sparkling wines without an AOC designation, use {fomvanju}.",
+		"english" : "champagne"
+	},
+	"catnrpepiskopo" : {
+		"word" : "catnrpepiskopo",
+		"definition" : "j1 is the bishop/archbishop of j2 of religion l1.",
+		"notes" : "Cf. {catni}, {jdatro}.",
+		"english" : "metroploitan"
+	},
+	"caxmati" : {
+		"word" : "caxmati",
+		"definition" : "x1 is a game of chess between x2 (white) and x3 (black).",
+		"english" : "chess"
+	},
+	"cekrpolo" : {
+		"word" : "cekrpolo",
+		"definition" : "x1 is a polo shirt of material x2.",
+		"notes" : "A T-shaped shirt with a collar, typically a two- or three-button placket, and an optional pocket. Cf. {creka}.",
+		"english" : "polo shirt"
+	},
+	"ciblrmoru" : {
+		"word" : "ciblrmoru",
+		"definition" : "x1 is myrrh from tree species x2.",
+		"notes" : "Cf. {ciblu}.",
+		"english" : "myrrh"
+	},
+	"cidjrburito" : {
+		"word" : "cidjrburito",
+		"definition" : "x1 is a burrito/Mexican dish of ingredients wrapped in a tortilla including ingredients x2.",
+		"english" : "(No Gloss Word)"
+	},
+	"cidjrkusku" : {
+		"word" : "cidjrkusku",
+		"definition" : "x1 is a quantity of couscous of ingredients including x2",
+		"english" : "couscous"
+	},
+	"cidjrpitsa" : {
+		"word" : "cidjrpitsa",
+		"definition" : "x1 is a pizza with topping/ingredients x2.",
+		"notes" : "Cf. {cidja}, {iptsa}, {pitnanba}, {nabypalne}.",
+		"english" : "(No Gloss Word)"
+	},
+	"cidjrxametsa" : {
+		"word" : "cidjrxametsa",
+		"definition" : "x1 is chometz.",
+		"notes" : "see also {fomymledi}, {nanbrmatsa}",
+		"english" : "chometz"
+	},
+	"cionmau" : {
+		"word" : "cionmau",
+		"definition" : "x1 is a panda of genus/species x2.",
+		"notes" : "Cf. {latcribe}, {cribe}, {jungo}, {mabru}.",
+		"english" : "panda"
+	},
+	"cipnrbuteo" : {
+		"word" : "cipnrbuteo",
+		"definition" : "x1 is a buzzard of species/type x2",
+		"notes" : "Genus Buteo",
+		"english" : "hawk"
+	},
+	"cipnrdodo" : {
+		"word" : "cipnrdodo",
+		"definition" : "x1 is a dodo of species x2.",
+		"english" : "dodo"
+	},
+	"cipnrdromai" : {
+		"word" : "cipnrdromai",
+		"definition" : "x1 is an emu of variety/species x2.",
+		"notes" : "This could also be used for any member of the Dromaius genus, of which there is currently only one surviving species.",
+		"english" : "emu"
+	},
+	"cipnrfalko" : {
+		"word" : "cipnrfalko",
+		"definition" : "x1 is a falcon (genus 'falco').",
+		"notes" : "see {falkoni}",
+		"english" : "falcon"
+	},
+	"cipnrfasani" : {
+		"word" : "cipnrfasani",
+		"definition" : "x1 is a pheasant/partridge/quail/peafowl of species/type x2",
+		"notes" : "Family Phasianidae ",
+		"english" : "quail"
+	},
+	"cipnrkanario" : {
+		"word" : "cipnrkanario",
+		"definition" : "x1 is a canary.",
+		"notes" : "Cf. {cipni}. Linnaean 'Serinus canaria'.\n",
+		"english" : "canary"
+	},
+	"cipnrkorvo" : {
+		"word" : "cipnrkorvo",
+		"definition" : "x1 is a crow/raven of species x2.",
+		"notes" : "Cf. {xekcpi}, {cipnrpika}.",
+		"english" : "crow"
+	},
+	"cipnrkuku" : {
+		"word" : "cipnrkuku",
+		"definition" : "x1 is a cuckoo of species x2.",
+		"notes" : "Cf. {cipni}, {parji}, {krotofaga}, {cipnrxuazine}, {sutybajycpi}.",
+		"english" : "cuckoo"
+	},
+	"cipnrlaridei" : {
+		"word" : "cipnrlaridei",
+		"definition" : "x1 is a gull of species x2",
+		"notes" : "Family Laridae",
+		"english" : "sea gull"
+	},
+	"cipnrlori" : {
+		"word" : "cipnrlori",
+		"definition" : "x1 is a lory/lorikeet of species x2.",
+		"notes" : "Cf. {spitaki}.",
+		"english" : "lorikeet"
+	},
+	"cipnrpika" : {
+		"word" : "cipnrpika",
+		"definition" : "x1 is a European magpie of subspecies x1.",
+		"notes" : "Cf. {cipnrkorvo}, {xekcpi}.",
+		"english" : "magpie"
+	},
+	"cipnrsikonia" : {
+		"word" : "cipnrsikonia",
+		"definition" : "x1 is a stork of species/type x2",
+		"notes" : "Genus Ciconia",
+		"english" : "(No Gloss Word)"
+	},
+	"cipnrxuazine" : {
+		"word" : "cipnrxuazine",
+		"definition" : "x1 is a hoatzin of breed x2.",
+		"notes" : "Cf. {cipnrkuku}, {cipni}.",
+		"english" : "hoatzin"
+	},
+	"cistrxaioliano" : {
+		"word" : "cistrxaioliano",
+		"definition" : "x1 is the minor key of tonic x2 of/with type/notes x3.",
+		"notes" : "Cf. {cistrxioniano}, {zgike}.",
+		"english" : "minor"
+	},
+	"cistrxioniano" : {
+		"word" : "cistrxioniano",
+		"definition" : "x1 is the major key of tonic x2 of/with type/notes x3.",
+		"notes" : "Cf. {cistrxaioliano}, {zgike}, {zgika'u}.",
+		"english" : "major key"
+	},
+	"ckinoje" : {
+		"word" : "ckinoje",
+		"definition" : "x1 is a muskellunge of species/breed x2",
+		"english" : "muskellunge"
+	},
+	"ckiptare" : {
+		"word" : "ckiptare",
+		"definition" : "x1 is Albanian (Balkan) in aspect x2.",
+		"notes" : "Cf. {ckiipyris}, {ropno}.",
+		"english" : "Albanian"
+	},
+	"cmacnrekursi" : {
+		"word" : "cmacnrekursi",
+		"definition" : "x1 is a recursive function with arguments x2",
+		"english" : "recursive function"
+	},
+	"crenzue" : {
+		"word" : "crenzue",
+		"definition" : "x1 practices/exercises/drills/trains in/for action/event/performance x2",
+		"notes" : "This is a zi'evla made from crezenzu'e",
+		"english" : "(No Gloss Word)"
+	},
+	"danseke" : {
+		"word" : "danseke",
+		"definition" : "$x1$ pertains to Denmark/Danish culture/nationality/language is aspect $x2$",
+		"english" : "Denmark"
+	},
+	"dapsodi" : {
+		"word" : "dapsodi",
+		"definition" : "x1 is an armadillo of species/breed x2.",
+		"notes" : "Cf. {mabru}, {foldota}.",
+		"english" : "armadillo"
+	},
+	"de'emni" : {
+		"word" : "de'emni",
+		"definition" : "x1 is denim of material x2.",
+		"notes" : "Cf. {bukpu}.",
+		"english" : "denim"
+	},
+	"delfinu" : {
+		"word" : "delfinu",
+		"definition" : "x1 is a dolphin of species/breed x2.",
+		"notes" : "Cf. {mabru}, {xamsi}, {flecu}.",
+		"english" : "dolphin"
+	},
+	"dembrciceri" : {
+		"word" : "dembrciceri",
+		"definition" : "x1 is a garbanzo/chickpea of species/variety x2.",
+		"notes" : "see also {boldembi}",
+		"english" : "chickpea"
+	},
+	"detrgregori" : {
+		"word" : "detrgregori",
+		"definition" : "x1 is the date [day,{week},{month},year] of event/state x2, at location x3, by the Gregorian calendar.",
+		"english" : "Gregorian date"
+	},
+	"dinkrnite" : {
+		"word" : "dinkrnite",
+		"definition" : "x1 is a rivet of type x2 made of x3",
+		"english" : "rivet"
+	},
+	"dinsauru" : {
+		"word" : "dinsauru",
+		"definition" : "x1 is a dinosaur of type x2 living in era x3.",
+		"english" : "dinosaur"
+	},
+	"dja'aza" : {
+		"word" : "dja'aza",
+		"definition" : "d1 is jazz music performed at/by z2 (event) with characteristics z3.",
+		"notes" : "Cf. {te'ekno}, {naizgi}, {sopselneizgi}, {nolzgi}.",
+		"english" : "jazz"
+	},
+	"djaule" : {
+		"word" : "djaule",
+		"definition" : "g1 is g2 joule(s) of energy (default is 1) by standard g3.",
+		"notes" : "Cf. Cf. {klanrdjuli}, {klanrniut,ni}, {klanrxuati}.",
+		"english" : "joule"
+	},
+	"djekuole" : {
+		"word" : "djekuole",
+		"definition" : "x1 is a quoll of species x2",
+		"english" : "quoll"
+	},
+	"djoguro" : {
+		"word" : "djoguro",
+		"definition" : "x1 is a quantity of yogurt made from x2 milk by process x3.",
+		"notes" : "Cf. {ladru}, {cirla}, {kruji}.",
+		"english" : "yogurt"
+	},
+	"dorkada" : {
+		"word" : "dorkada",
+		"definition" : "x1 is a gazelle of species x2.",
+		"notes" : "see also {bajbakni}, {antilope}",
+		"english" : "gazelle"
+	},
+	"driomedeida" : {
+		"word" : "driomedeida",
+		"definition" : "x1 is an albatross [member of the family Diomedeidae] of species/breed x2",
+		"english" : "albatross"
+	},
+	"durkuli" : {
+		"word" : "durkuli",
+		"definition" : "x1 is a douroucouli of species x2.",
+		"notes" : "see also {smani}, {kermipri}",
+		"english" : "douroucouli"
+	},
+	"dzizani" : {
+		"word" : "dzizani",
+		"definition" : "x1 is tares of species/variety x2.",
+		"notes" : "see also {cicyrismi}",
+		"english" : "tares"
+	},
+	"enri" : {
+		"word" : "enri",
+		"definition" : "g1 is g2 henry/henries of inductance (default is 1) by standard g3.",
+		"notes" : "Cf. {klanrxenri}, {klanrvolta}, {xampo}.",
+		"english" : "henry"
+	},
+	"enzima" : {
+		"word" : "enzima",
+		"definition" : "x1 in an enzyme that catalyzes chemical reactions x2.",
+		"notes" : "Cf. {selfusra}, {sutri'a}.",
+		"english" : "chemical reaction"
+	},
+	"ermine" : {
+		"word" : "ermine",
+		"definition" : "x1 is a stoat/ermine of subspecies x2.",
+		"notes" : "Cf. {mustlei}, {mabrnfuru}.",
+		"english" : "stoat"
+	},
+	"ernace" : {
+		"word" : "ernace",
+		"definition" : "x1 is a hedgehog of species x2.",
+		"notes" : "see also {jesymabru}",
+		"english" : "hedgehog"
+	},
+	"ersokso" : {
+		"word" : "ersokso",
+		"definition" : "x1 is a pike of species/breed x2",
+		"english" : "pike"
+	},
+	"ertso" : {
+		"word" : "ertso",
+		"definition" : "g1 is g2 hertz of frequency (default is 1) by standard g3.",
+		"notes" : "Cf. {klanrxertsi}.",
+		"english" : "hertz"
+	},
+	"estre" : {
+		"word" : "estre",
+		"definition" : "x1 is an ester derived from acid x2 and alcohol x3",
+		"notes" : "c.f. {xumsle},{slami}, {xalka}.",
+		"english" : "ester"
+	},
+	"estrema" : {
+		"word" : "estrema",
+		"definition" : "x1 is x2 dunams in area by standard x3",
+		"notes" : "1000 m², except for the Iraqi dunam and the former Turkish dönüm.",
+		"english" : "dunam"
+	},
+	"falkoni" : {
+		"word" : "falkoni",
+		"definition" : "x1 is a falcon (genus 'falco').",
+		"notes" : "see {cipnrfalko}",
+		"english" : "(No Gloss Word)"
+	},
+	"fi'ikca" : {
+		"word" : "fi'ikca",
+		"definition" : "x1 takes a fika [social institution]/coffee break together with x2 consuming food/beverage x3.",
+		"notes" : "From the swedish word \"fika\". Both \"fika\" and \"fi'ikca\" are also derived from the word for coffee in respectively language (kaffi respectively {ckafi}).\nfi'ikca describes the event where you socialize with others, perhaps over a cup of coffee. \nIn a swedish context x2 might often be friends or fellow workers, and x3 usually is coffee/squash/(tea) together with a cinnamon roll, cookie, cake, a sandwich etc. But fi'ikca could also be used in a more universal, cultural neutral sense.\nSee also http://en.wikipedia.org/wiki/Fika_%28coffee_break%29",
+		"english" : "fika"
+	},
+	"filcina" : {
+		"word" : "filcina",
+		"definition" : "x1 is a fern of family/genus/species x2.",
+		"english" : "kind of fern"
+	},
+	"finprtruto" : {
+		"word" : "finprtruto",
+		"definition" : "x1 is a trout of species/breed x2",
+		"english" : "trout"
+	},
+	"finprvandeli" : {
+		"word" : "finprvandeli",
+		"definition" : "x1 is a candirú of species/variety x2.",
+		"notes" : "syn. {kandiru}, {pincyfi'e}; see also {latfi'e}",
+		"english" : "(No Gloss Word)"
+	},
+	"finprxipoglosu" : {
+		"word" : "finprxipoglosu",
+		"definition" : "x1 is a halibut of species x2.",
+		"notes" : "syn. {polgosu}; see also {flundero}, {cucyzbefi'e}, {mlafi'e}",
+		"english" : "(No Gloss Word)"
+	},
+	"fiorso" : {
+		"word" : "fiorso",
+		"definition" : "x1 is an aspect of / a part of The Force connecting / within x2",
+		"notes" : "No attempt at good fu'ivla making was harmed in the creation of this word.",
+		"english" : "The Force"
+	},
+	"flanrdizi" : {
+		"word" : "flanrdizi",
+		"definition" : "x1 is a dizi.",
+		"notes" : "Cf. {flani}, {pinflani}, {zgica'a}.",
+		"english" : "dizi"
+	},
+	"flaume" : {
+		"word" : "flaume",
+		"definition" : "x1 is a plum of variety x2.",
+		"notes" : "see also {persika}, {rutrprunu}",
+		"english" : "(No Gloss Word)"
+	},
+	"flundero" : {
+		"word" : "flundero",
+		"definition" : "x1 is a flounder of species x2.",
+		"notes" : "Cf. {mlafi'e}.",
+		"english" : "flounder"
+	},
+	"foldota" : {
+		"word" : "foldota",
+		"definition" : "x1 is a pangolin of species/breed x2.",
+		"notes" : "Cf. {mabru}, {manti}, {mudyctijalra}.",
+		"english" : "scaly anteater"
+	},
+	"fragari" : {
+		"word" : "fragari",
+		"definition" : "x1 is a strawberry of species/breed x2.",
+		"notes" : "Cf. {frambesi}, {grute}, {jbari}, {rozgu}.",
+		"english" : "strawberry"
+	},
+	"fraksino" : {
+		"word" : "fraksino",
+		"definition" : "x1 is an ash of species/variety x2.",
+		"english" : "ash"
+	},
+	"frambesi" : {
+		"word" : "frambesi",
+		"definition" : "x1 is a blackberry/raspberry/bramble of species x2.",
+		"notes" : "Cf. {fragari}, {grute}, {jbari}, {rozgu}.",
+		"english" : "raspberry"
+	},
+	"frangula" : {
+		"word" : "frangula",
+		"definition" : "x1 is a buckthorn of species/variety x2.",
+		"english" : "buckthorn"
+	},
+	"frebuari" : {
+		"word" : "frebuari",
+		"definition" : "x1 is February in year x2 on calendar x3",
+		"english" : "(No Gloss Word)"
+	},
+	"frufengalu" : {
+		"word" : "frufengalu",
+		"definition" : "x1 is a bandersnatch of species x2",
+		"english" : "bandersnatch"
+	},
+	"furfuru" : {
+		"word" : "furfuru",
+		"definition" : "x1 is dandruff in/on x2 caused by x3.",
+		"english" : "(No Gloss Word)"
+	},
+	"gamguata" : {
+		"word" : "gamguata",
+		"definition" : "x1 is a kumquat of species/variety x2.",
+		"notes" : "see also {nimre}",
+		"english" : "kumquat"
+	},
+	"gejrdauko" : {
+		"word" : "gejrdauko",
+		"definition" : "x1 is a carrot of variety x2.",
+		"notes" : "See also {najgenja}, {rulsantyspa}, {spatrdauko}, {spatrxapio}.",
+		"english" : "variety of carrot"
+	},
+	"glangala" : {
+		"word" : "glangala",
+		"definition" : "x1 is galangal of variety x2.",
+		"english" : "galangal"
+	},
+	"glauka" : {
+		"word" : "glauka",
+		"definition" : "x1 is an owl of species x2.",
+		"notes" : "see also {cipni}, {cipnrstrigi}, {cipnrtito}",
+		"english" : "(No Gloss Word)"
+	},
+	"gombesa" : {
+		"word" : "gombesa",
+		"definition" : "x1 is a gombessa (coelacanth) of species x2.",
+		"notes" : "see {finpe}, {finprkoilakanto}",
+		"english" : "(No Gloss Word)"
+	},
+	"gredile" : {
+		"word" : "gredile",
+		"definition" : "x1 is a grill/grid/graticle consisting of lines x2",
+		"english" : "grid"
+	},
+	"grutrxananase" : {
+		"word" : "grutrxananase",
+		"definition" : "x1 is a pineapple of species/variety x2.",
+		"notes" : "see also {bromeli}, {grute}",
+		"english" : "pineapple"
+	},
+	"gugde'aru" : {
+		"word" : "gugde'aru",
+		"definition" : "x1 is the country with the code ISO-3166 AR (Argentina) for people x2. ",
+		"notes" : "Cf. {getygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'e'u" : {
+		"word" : "gugde'e'u",
+		"definition" : "x1 is the country with the code ISO-3166 EU (European Union) for people x2.",
+		"notes" : "EU is an exceptionally reserved ISO-3166 code. Cf. {rongunma}, {ropno}, {rontu'a}",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'egu" : {
+		"word" : "gugde'egu",
+		"definition" : "x1 is the country with the code ISO-3166 EG (Egypt) for people x2. ",
+		"notes" : "Cf. {misrygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'esu" : {
+		"word" : "gugde'esu",
+		"definition" : "x1 is the country with the code ISO-3166 ES (Spain) for people x2. ",
+		"notes" : "Cf. {sangu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'idu" : {
+		"word" : "gugde'idu",
+		"definition" : "x1 is the country with the code ISO-3166 ID (Indonesia) for people x2.",
+		"notes" : "Cf. {bidgu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'ike" : {
+		"word" : "gugde'ike",
+		"definition" : "x1 is the country with the code ISO-3166 IQ (Iraq) for people x2.",
+		"notes" : "Cf. {raksygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'ilu" : {
+		"word" : "gugde'ilu",
+		"definition" : "x1 is the country with the code ISO-3166 IL (Israel) for people x2. ",
+		"notes" : "Cf. {brogu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'inu" : {
+		"word" : "gugde'inu",
+		"definition" : "x1 is the country with the code ISO-3166 IN (India) for people x2. ",
+		"notes" : "Cf. {xingu'e}.",
+		"english" : "India"
+	},
+	"gugde'iru" : {
+		"word" : "gugde'iru",
+		"definition" : "x1 is the country with the code ISO-3166 IR (Iran, Islamic Republic Of) for people x2. ",
+		"notes" : "Cf. {gugdrxirana}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'itu" : {
+		"word" : "gugde'itu",
+		"definition" : "x1 is the country with the code ISO-3166 IT (Italy) for people x2.",
+		"notes" : "Ch. {italian}, {gugdrtalia}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'u'a" : {
+		"word" : "gugde'u'a",
+		"definition" : "x1 is the country with the code ISO-3166 UA (Ukraine) for people x2. ",
+		"notes" : "Cf. {vurgu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugde'usu" : {
+		"word" : "gugde'usu",
+		"definition" : "x1 is the country with the code ISO-3166 US (United States) for people x2. ",
+		"notes" : "Cf. {mergu'e}.",
+		"english" : "United Staes of America"
+	},
+	"gugdebudu" : {
+		"word" : "gugdebudu",
+		"definition" : "x1 is the country with the code ISO-3166 ''BD'' (Bangladesh) for people x2.",
+		"notes" : "Cf. {gugde}, {begygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdeburu" : {
+		"word" : "gugdeburu",
+		"definition" : "x1 is the country with the code ISO-3166 BR (Brazil) for people x2. ",
+		"notes" : "Cf. {razgu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdecu'a" : {
+		"word" : "gugdecu'a",
+		"definition" : "x1 is the country with the code ISO-3166 CA (Canada) for people x2. ",
+		"notes" : "Cf. {kadnygu'e}, {KEnydys}, {kenyDAS}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdecunu" : {
+		"word" : "gugdecunu",
+		"definition" : "x1 is the country with the code ISO-3166 CN (China) for people x2. ",
+		"notes" : "Cf. {jugygu'e}, {djunguos}, {xa'anzu}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdecuxe" : {
+		"word" : "gugdecuxe",
+		"definition" : "x1 is the country with the code ISO-3166 ''CH'' (Switzerland) for people x2.",
+		"notes" : "Cf. {gugdrxelvo}, {xelvet}, {xelvetik}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdedu'e" : {
+		"word" : "gugdedu'e",
+		"definition" : "x1 is the country with the code ISO-3166 DE (Germany) for people x2. ",
+		"notes" : "Cf. {dotygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdefuru" : {
+		"word" : "gugdefuru",
+		"definition" : "x1 is the country with the code ISO-3166 FR (France) for people x2. ",
+		"notes" : "Cf. {fasygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdegubu" : {
+		"word" : "gugdegubu",
+		"definition" : "x1 is the country with the code ISO-3166 GB (United Kingdom) for people x2. ",
+		"notes" : "Cf. {ritygu'e}, {gligu'e}.",
+		"english" : "United Kingdom"
+	},
+	"gugdeguru" : {
+		"word" : "gugdeguru",
+		"definition" : "x1 is the country with the code ISO-3166 GR (Greece) for people x2. ",
+		"notes" : "Cf. {xesygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdejupu" : {
+		"word" : "gugdejupu",
+		"definition" : "x1 is the country with the code ISO-3166 JP (Japan) for people x2. ",
+		"notes" : "Cf. {pongu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdekupu" : {
+		"word" : "gugdekupu",
+		"definition" : "x1 is the country with the code ISO-3166 KP (Korea, Democratic People'S Republic Of) for people x2. ",
+		"notes" : "Cf. {gugdrtcosena}, {gugdrgogurio}.",
+		"english" : "Noth Korea"
+	},
+	"gugdekuru" : {
+		"word" : "gugdekuru",
+		"definition" : "x1 is the country with the code ISO-3166 KR (Korea, Republic Of) for people x2. ",
+		"notes" : "Cf. {gugdrxanguke}, {gugdrgogurio}.",
+		"english" : "Republic of South Korea"
+	},
+	"gugdemuxu" : {
+		"word" : "gugdemuxu",
+		"definition" : "x1 is the country with the code ISO-3166 MX (Mexico) for people x2. ",
+		"notes" : "Cf. {mexygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdenugu" : {
+		"word" : "gugdenugu",
+		"definition" : "x1 is the country with the code ISO-3166 NG (Nigeria) for people x2. ",
+		"notes" : "Cf. {gugdrnaidjiria}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdepuku" : {
+		"word" : "gugdepuku",
+		"definition" : "x1 is the country with the code ISO-3166 ''PK'' (Pakistan) for people x2.",
+		"notes" : "Cf. {kisygu'e}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdepulu" : {
+		"word" : "gugdepulu",
+		"definition" : "x1 is the country with the code ISO-3166 PL (Poland) for people x2. ",
+		"notes" : "Cf. {gugdrpolska}, {polskas}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugderu'u" : {
+		"word" : "gugderu'u",
+		"definition" : "x1 is the country with the code ISO-3166 RU (Russian Federation) for people x2. ",
+		"notes" : "Cf. {rukygu'e}.",
+		"english" : "Russian Federation"
+	},
+	"gugdesu'u" : {
+		"word" : "gugdesu'u",
+		"definition" : "x1 is the country with the code ISO-3166 SU (USSR) for people x2.",
+		"notes" : "SU is a ISO-3166 code exceptionally reserved from June 2008. Cf. {sofygu'e}, {softo}, {sesre}",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdeturu" : {
+		"word" : "gugdeturu",
+		"definition" : "x1 is the country with the code ISO-3166 TR (Turkey) for people x2. ",
+		"notes" : "Cf. {gugdrturkie}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdetuve" : {
+		"word" : "gugdetuve",
+		"definition" : "x1 is the country with the code ISO-3166 TW (Taiwan) for people x2. ",
+		"notes" : "Cf. {xa'anzu}.",
+		"english" : "Taiwan"
+	},
+	"gugdezu'a" : {
+		"word" : "gugdezu'a",
+		"definition" : "x1 is the country with the code ISO-3166 ZA (South Africa) for people x2. ",
+		"notes" : "Cf. {nanfi'ogu'e}.",
+		"english" : "RSA"
+	},
+	"gugdrgogurio" : {
+		"word" : "gugdrgogurio",
+		"definition" : "x1 is Korea.",
+		"notes" : "Cf. {gugdrtcosena}, {gugdrxanguke}.",
+		"english" : "Korea"
+	},
+	"gugdrnaidjiria" : {
+		"word" : "gugdrnaidjiria",
+		"definition" : "x1 is Nigeria.",
+		"notes" : "Cf. {gugdenugu}.",
+		"english" : "Nigeria"
+	},
+	"gugdrnorge" : {
+		"word" : "gugdrnorge",
+		"definition" : "g1 is Norway.",
+		"english" : "Norway"
+	},
+	"gugdrpolska" : {
+		"word" : "gugdrpolska",
+		"definition" : "x1 is Poland.",
+		"notes" : "Cf. {polskas}, {gugdepulu}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdrtcosena" : {
+		"word" : "gugdrtcosena",
+		"definition" : "x1 is North Korea.",
+		"notes" : "Cf. {gugdekupu}, {gugdrgogurio}, {gugdrxanguke}.",
+		"english" : "(No Gloss Word)"
+	},
+	"gugdrturkie" : {
+		"word" : "gugdrturkie",
+		"definition" : "x1 is Turkey",
+		"notes" : "Cf. {gugdeturu}, {kulnrturkie}, {kulnrturko}.",
+		"english" : "Turkey"
+	},
+	"gugdrvietnama" : {
+		"word" : "gugdrvietnama",
+		"definition" : "x1 is Vietnam",
+		"english" : "Vietnam"
+	},
+	"gugdrxanguke" : {
+		"word" : "gugdrxanguke",
+		"definition" : "x1 is South Korea.",
+		"notes" : "Cf. {gugdekuru}, {gugdrgogurio}, {gugdrtcosena}.",
+		"english" : "ROK"
+	},
+	"gugdrxelvo" : {
+		"word" : "gugdrxelvo",
+		"definition" : "g1 is Switzerland.",
+		"notes" : "Cf. {gugdecuxe}, {xelvet}, {xelvetik}.",
+		"english" : "Switzerland"
+	},
+	"gugdrxirana" : {
+		"word" : "gugdrxirana",
+		"definition" : "x1 is Iran.",
+		"notes" : "Cf. {gugde'iru}.",
+		"english" : "Iran"
+	},
+	"gurnrtefi" : {
+		"word" : "gurnrtefi",
+		"definition" : "x1 is teff of variety x2.",
+		"notes" : "cf. {gurni}, {pamsrasu}, {amxari}",
+		"english" : "teff"
+	},
+	"guzmrkukurbita" : {
+		"word" : "guzmrkukurbita",
+		"definition" : "x1 is a squash/pumpkin of species/strain x2.",
+		"notes" : "Cf. {guzme}, {clazme}, {tityzme}.",
+		"english" : "squash"
+	},
+	"iedra" : {
+		"word" : "iedra",
+		"definition" : "x1 is ivy of species/variety x2.",
+		"english" : "ivy"
+	},
+	"iklki" : {
+		"word" : "iklki",
+		"definition" : "x1 clicks (press and release) button/switch x2 to cause x3 (nu).",
+		"notes" : "Cf. {batke}, {danre}.",
+		"english" : "click"
+	},
+	"io'imbe" : {
+		"word" : "io'imbe",
+		"definition" : "x1 is yohimbe of variety x2.",
+		"english" : "yohimbe"
+	},
+	"ionti" : {
+		"word" : "ionti",
+		"definition" : "x1 is an ion of radical/(atom of element)x2 with x3 charges",
+		"notes" : "c.f. {ma'u zei ionti}, {ni'u zei ionti}, {lektoni}, {xumsle}.",
+		"english" : "ion"
+	},
+	"iptsa" : {
+		"word" : "iptsa",
+		"definition" : "x1 is a pizza with topping/ingredients x2.",
+		"notes" : "Cf. {cidjrpitsa}, {pitnanba}, {nabypalne}, {fomymledi}, {cirla}, {toknu}, {tamca}, {cidja}.",
+		"english" : "pizza"
+	},
+	"irci" : {
+		"word" : "irci",
+		"definition" : "x1 is an IRC user on channel x2 in network x3.",
+		"notes" : "Add a {me'e} place for nickname, or a fi'o {tcana} place for server, if needed. Erase x2 using {zi'o} if no channel is involved.",
+		"english" : "network"
+	},
+	"itlgu'e" : {
+		"word" : "itlgu'e",
+		"definition" : "x1 is Italy.",
+		"notes" : "See {itlo}, {gugde'itu}.",
+		"english" : "(No Gloss Word)"
+	},
+	"itlo" : {
+		"word" : "itlo",
+		"definition" : "x1 pertains to Italy/Italian culture/nationality/dialect in aspect x2.",
+		"notes" : "From the Italian prefix \"italo\". See also {brito}, {bemro}, {ketco}, {xispo}, {glico}, {fraso}, {merko}, {latmo}.",
+		"english" : "Italy"
+	},
+	"jatnrpapa" : {
+		"word" : "jatnrpapa",
+		"definition" : "x1 is a pope of religion/patriarchy x2.",
+		"notes" : "Cf. {jatna}, {jdaja'a}.",
+		"english" : "pope"
+	},
+	"jbepibnafei" : {
+		"word" : "jbepibnafei",
+		"definition" : "x1 (du'u) is the biological sex of x2.",
+		"notes" : "Talking about sexuality, gender, biological sex, sexual orientation, gender, gender identity, or any such topics is extremely difficult in Lojban, given that these topics have very narrow definitions, which are very hard to capture in Lojban. \"Biological sex\" had been narrowed down to \"which parts were you born with?\" which is encapsulated by an indirect question asking \"male [or?] female, at time of birth\", in Lojban. cf. lojban definition for additional clarifications, (the lojban definition defines all the ramifications and implications,) {jbena}, {plibu}, {nakni}, {fetsi}, {je'i}, and {kau}",
+		"english" : "sex"
+	},
+	"jboia" : {
+		"word" : "jboia",
+		"definition" : "x1 is a boa of species x2.",
+		"notes" : "see also {since}, {sincrxenakanda}",
+		"english" : "boa"
+	},
+	"jbonobo" : {
+		"word" : "jbonobo",
+		"definition" : "x1 is a bonobo of species/breed x2.",
+		"notes" : "See {tcimpazi}, {smani}.",
+		"english" : "bonobo"
+	},
+	"jbopomofo" : {
+		"word" : "jbopomofo",
+		"definition" : "x1 is a jbopomofo orthography (bopomofo orthography adapted for lojban)",
+		"notes" : "Cf. {ciska}, {lerfu}, la .{tenguar}.",
+		"english" : "(No Gloss Word)"
+	},
+	"jerjelino" : {
+		"word" : "jerjelino",
+		"definition" : "x1 is sesame of species/variety x2.",
+		"notes" : "syn. {simsimu}, {xonxoli}",
+		"english" : "(No Gloss Word)"
+	},
+	"jgitrgitara" : {
+		"word" : "jgitrgitara",
+		"definition" : "x1 is guitar with plectrum x2.",
+		"notes" : "Cf. {jgita}, {jgitrsita}, {jgitrpipa}, {zgica'a}.",
+		"english" : "(No Gloss Word)"
+	},
+	"jgitrnikelarpa" : {
+		"word" : "jgitrnikelarpa",
+		"definition" : "x1 is a nyckelharpa [traditional swedish string instrument] with bow x2.",
+		"english" : "nyckelharpa"
+	},
+	"jgitrpipa" : {
+		"word" : "jgitrpipa",
+		"definition" : "x$_1$ is a pipa.",
+		"notes" : "Cf. {jgita}, {jgitrgitara}, {zgica'a}, {jgitrsita}.",
+		"english" : "pipa"
+	},
+	"jgitrsita" : {
+		"word" : "jgitrsita",
+		"definition" : "x1 is sitar with plectrum x2.",
+		"notes" : "Cf. {jgita}, {jgitrgitara}, {jgitrpipa}, {zgica'a}.",
+		"english" : "sitar"
+	},
+	"jgitrviolino" : {
+		"word" : "jgitrviolino",
+		"definition" : "x$_1$ is violin/fiddle/ with bow x2.      ",
+		"notes" : "Cf. {jgita}, {jgitrxu}, {mosyjgita}, {zgica'a}.",
+		"english" : "violin"
+	},
+	"jgitrxu" : {
+		"word" : "jgitrxu",
+		"definition" : "x$_1$ is an erhu with bow x2.      ",
+		"notes" : "Cf. {jgita}, {jgitrviolino}, {jgitrpipa}, {mosyjgita}, {zgica'a}.",
+		"english" : "erhu"
+	},
+	"jglandi" : {
+		"word" : "jglandi",
+		"definition" : "x1 is a walnut of species x2.",
+		"notes" : "see also {nargu}, {tricu}",
+		"english" : "walnut"
+	},
+	"jinmrberilo" : {
+		"word" : "jinmrberilo",
+		"definition" : "x1 is beryllium.",
+		"notes" : "see also {jinme}, {xukmi}",
+		"english" : "(No Gloss Word)"
+	},
+	"jinmrniobi" : {
+		"word" : "jinmrniobi",
+		"definition" : "x1 is niobium.",
+		"english" : "niobium"
+	},
+	"jinmrplati" : {
+		"word" : "jinmrplati",
+		"definition" : "x1 is platinum.",
+		"english" : "platinum"
+	},
+	"jinmrtitani" : {
+		"word" : "jinmrtitani",
+		"definition" : "x1 is titanium (metal).",
+		"notes" : "See also: {jinme}",
+		"english" : "titanium"
+	},
+	"jinmrtuli" : {
+		"word" : "jinmrtuli",
+		"definition" : "x1 is thulium.",
+		"english" : "thulium"
+	},
+	"jinmrxafni" : {
+		"word" : "jinmrxafni",
+		"definition" : "x1 is hafnium.",
+		"english" : "(No Gloss Word)"
+	},
+	"junkace" : {
+		"word" : "junkace",
+		"definition" : "x1 is a rush of species x2.",
+		"english" : "rush"
+	},
+	"junpero" : {
+		"word" : "junpero",
+		"definition" : "x1 is a juniper/cedar of species/variety x2.",
+		"notes" : "some trees called \"cedar\" are actually juniper; see {ricrcedro}, {ckunu}",
+		"english" : "juniper"
+	},
+	"kalmari" : {
+		"word" : "kalmari",
+		"definition" : "x1 is a squid/cuttlefish of species x2.",
+		"notes" : "see also {sedjmacurnu}",
+		"english" : "cuttlefish"
+	},
+	"kamfora" : {
+		"word" : "kamfora",
+		"definition" : "x1 is made of/contains/is a quantity of camphor (chemical compound)",
+		"english" : "camphor"
+	},
+	"kandiru" : {
+		"word" : "kandiru",
+		"definition" : "x1 is a candirú of species/variety x2.",
+		"notes" : "syn. {finprvandeli}, {pincyfi'e}; see also {latfi'e}",
+		"english" : "candirú"
+	},
+	"kanguru" : {
+		"word" : "kanguru",
+		"definition" : "x1 is a kangaroo of species/breed x2.",
+		"notes" : "Cf. {daskymabru}, {daskycribe}, {sralo}, {plipe}.",
+		"english" : "kangaroo"
+	},
+	"kapsiku" : {
+		"word" : "kapsiku",
+		"definition" : "x1 is a chili/bell pepper (Capsicum) of species/variety x2.",
+		"notes" : "cf. {cpina}, {spatrpiperi}, {tamca}, {patlu}, {tanko}, {mlongena}",
+		"english" : "chili pepper"
+	},
+	"karkade" : {
+		"word" : "karkade",
+		"definition" : "x1 is hibiscus of species/variety x2.",
+		"english" : "hibiscus"
+	},
+	"karkaju" : {
+		"word" : "karkaju",
+		"definition" : "k1 is a wolverine of variety k2.",
+		"english" : "wolverine"
+	},
+	"kartamo" : {
+		"word" : "kartamo",
+		"definition" : "x1 is safflower of species/variety x2.",
+		"english" : "safflower"
+	},
+	"kartuli" : {
+		"word" : "kartuli",
+		"definition" : "x1 is Georgian (Caucasus) in aspect x2.",
+		"notes" : "see also {sakartulos}",
+		"english" : "Georgian"
+	},
+	"karvana" : {
+		"word" : "karvana",
+		"definition" : "x1 is a caravan consisting of x2 traveling across/through x3",
+		"notes" : "Cf. {bende}, {girzu}, {gunma}.",
+		"english" : "caravan"
+	},
+	"katkana" : {
+		"word" : "katkana",
+		"definition" : "x1 is a katakana (Japanese syllabary) of sound x2.",
+		"notes" : "Cf. {lerfu}.",
+		"english" : "katakana"
+	},
+	"kaurdata" : {
+		"word" : "kaurdata",
+		"definition" : "x1 is a salamander of family/genus/species x2.",
+		"notes" : "Cf. {banfi}.",
+		"english" : "salamander"
+	},
+	"kelcrkroke" : {
+		"word" : "kelcrkroke",
+		"definition" : "x1 plays croquet against x2 in competition x3 for prize/title x4.",
+		"notes" : "Cf. {krokete}, {kroke}, {kriketi}, {ga'arboijvi}, {bolci}, {mruli}. ",
+		"english" : "croquet"
+	},
+	"kelvrfarenxaito" : {
+		"word" : "kelvrfarenxaito",
+		"definition" : "x1 is x2 degrees Fahrenheit in temperature by standard x3.",
+		"notes" : "Cf. {jacke'o}, {glare}, {lenku}, {dunja}, {febvi}.",
+		"english" : "Fahrenheit"
+	},
+	"ketlete" : {
+		"word" : "ketlete",
+		"definition" : "x1 has a body mass index of x2 by standard x3.",
+		"english" : "body mass index"
+	},
+	"klanrbeli" : {
+		"word" : "klanrbeli",
+		"definition" : "x1 measures x2 bels on scale x3 (si'o).",
+		"notes" : "One bel is equal to 10 decibels. Cf. {klani}, {sance}, {cladu}.",
+		"english" : "(No Gloss Word)"
+	},
+	"klanrdjuli" : {
+		"word" : "klanrdjuli",
+		"definition" : "g1 is g2 joule(s) of energy (default is 1) by standard g3.",
+		"notes" : "Cf. {djaule}, {klanrniut,ni}, {klanrxuati}.",
+		"english" : "(No Gloss Word)"
+	},
+	"klanrfaradi" : {
+		"word" : "klanrfaradi",
+		"definition" : "g1 is g2 farad(s) of capacitance (default is 1) by standard g3.",
+		"notes" : "Cf. {terdikca}, {xampo}.",
+		"english" : "farad"
+	},
+	"klanrniut,ni" : {
+		"word" : "klanrniut,ni",
+		"definition" : "g1 is g2 newton (s) of force (default is 1) by standard g3.",
+		"notes" : "Cf. {niutni}, {ki'orgratretrefrinynidysnidu}.",
+		"english" : "Newton"
+	},
+	"klanrpaskali" : {
+		"word" : "klanrpaskali",
+		"definition" : "x1 is x2 pascal(s) of pressure (default is 1) by standard x3.",
+		"notes" : "Cf. {klanrniut,ni}.",
+		"english" : "pascal"
+	},
+	"klanrtesla" : {
+		"word" : "klanrtesla",
+		"definition" : "g1 is g2 tesla(s) of magnetic field B (default is 1) by standard g3.",
+		"notes" : "Cf. {maksi}.",
+		"english" : "tesla"
+	},
+	"klanrvolta" : {
+		"word" : "klanrvolta",
+		"definition" : "g1 is g2 volt(s) of electromotive force (default is 1) by standard g3.",
+		"notes" : "Cf. {xampo}, {klanrxomi}, {klanrxuati}, {klanrdjuli}, {terdikca}.",
+		"english" : "volt"
+	},
+	"klanrxenri" : {
+		"word" : "klanrxenri",
+		"definition" : "g1 is g2 henry/henries of inductance (default is 1) by standard g3.",
+		"notes" : "Cf. {enri}, {klanrvolta}, {xampo}.",
+		"english" : "(No Gloss Word)"
+	},
+	"klanrxertsi" : {
+		"word" : "klanrxertsi",
+		"definition" : "g1 is g2 hertz of frequency (default is 1) by standard g3.",
+		"notes" : "Cf. {ertso}, {klani}",
+		"english" : "frequency"
+	},
+	"klanrxomi" : {
+		"word" : "klanrxomi",
+		"definition" : "g1 is g2 ohm(s) of electrical impedance/resistance (default is 1) by standard g3.",
+		"notes" : "Cf. {omso}, {xampo}, {klanrvolta}, {klanrxuati}, {klanrzimenzi}.",
+		"english" : "ohm"
+	},
+	"klanrxuati" : {
+		"word" : "klanrxuati",
+		"definition" : "g1 is g2 watt(s) of power (default is 1) by standard g3.",
+		"notes" : "Cf. {klanrdjuli}, {klanrvolta}, {xampo}.",
+		"english" : "watt"
+	},
+	"klanrzimenzi" : {
+		"word" : "klanrzimenzi",
+		"definition" : "g1 is g2 siemens of electrical conductance (default is 1) by standard g3.",
+		"notes" : "{klanrxomi}, {klanrvolta}, {xampo}.",
+		"english" : "siemens"
+	},
+	"klaunji" : {
+		"word" : "klaunji",
+		"definition" : "x1 is blackseed/nigella of species/variety x2",
+		"english" : "nigella"
+	},
+	"ko'otli" : {
+		"word" : "ko'otli",
+		"definition" : "x1 is a coyote of subspecies/breed x2.",
+		"notes" : "Cf. {gerku}, {labno}, {lorxu}, {tcakali}.",
+		"english" : "coyote"
+	},
+	"koblrsinapi" : {
+		"word" : "koblrsinapi",
+		"definition" : "x1 is mustard of species/variety x2.",
+		"notes" : "especially mustard greens; see also {spatrsinapi}, {tsijrsinapi}, {sansrmustardo}",
+		"english" : "(No Gloss Word)"
+	},
+	"koinka" : {
+		"word" : "koinka",
+		"definition" : "x1 is a cognac distilled from grapes x2.",
+		"notes" : "Cf. {xalka}, {jikru}, {vanjyjikru}, {vanju}. For brandies without an AOC designation use {vanjyjikru}.",
+		"english" : "cognac"
+	},
+	"kokcinela" : {
+		"word" : "kokcinela",
+		"definition" : "x1 is a ladybug/ladybird/lady beetle of genus/species x2.",
+		"notes" : "see {cakcinki}, {spacivla}",
+		"english" : "lady beetle"
+	},
+	"kolbasa" : {
+		"word" : "kolbasa",
+		"definition" : "x1 is a sausage made of x2.",
+		"notes" : "Not necessarily with a gut skin; see also {tisycanti}.",
+		"english" : "sausage"
+	},
+	"kolmba" : {
+		"word" : "kolmba",
+		"definition" : "x1 is a pigeon/dove of genus/species x2.",
+		"notes" : "more general than {tcacpi}",
+		"english" : "dove"
+	},
+	"konceto" : {
+		"word" : "konceto",
+		"definition" : "x1 is concerto number x2 in key x3 composed by x4 performed by/at x5( event).",
+		"notes" : "Cf. {zgike}, {nolzgi}, {konceto zei pagbu}, {pipnrpaino zei konceto}, {jgitrviolino zei konceto}, {simfoni}, {zgifi'i}.",
+		"english" : "(No Gloss Word)"
+	},
+	"kondomo" : {
+		"word" : "kondomo",
+		"definition" : "x1 is a condom of x2 size for x3 sex and x4 material",
+		"english" : "condom"
+	},
+	"konfuzi" : {
+		"word" : "konfuzi",
+		"definition" : "x1 pertains to the Confucist culture/religion/ethos in aspect x2",
+		"english" : "Confucist"
+	},
+	"konjaku" : {
+		"word" : "konjaku",
+		"definition" : "x1 is konjac of species/variety x2.",
+		"notes" : "see also {samcrtaro}, {samcu}",
+		"english" : "(No Gloss Word)"
+	},
+	"kotledona" : {
+		"word" : "kotledona",
+		"definition" : "x1 is a cotyledon of seed x2 of plant x3.",
+		"english" : "cotyledon"
+	},
+	"krambola" : {
+		"word" : "krambola",
+		"definition" : "x1 is a starfruit/carambola of variety x2.",
+		"english" : "starfruit"
+	},
+	"krataigo" : {
+		"word" : "krataigo",
+		"definition" : "x1 is a hawthorn of species/variety x2.",
+		"english" : "hawthorn"
+	},
+	"kriketi" : {
+		"word" : "kriketi",
+		"definition" : "x1 plays cricket against x2 in competition x3 for prize/title x4.",
+		"notes" : "Cf. {ga'arboijvi}, {krokete}, {kelcrkroke}.",
+		"english" : "cricket player"
+	},
+	"krilami" : {
+		"word" : "krilami",
+		"definition" : "x1 is a krill of genus/species x2",
+		"english" : "krill"
+	},
+	"kriofla" : {
+		"word" : "kriofla",
+		"definition" : "x1 is a clove bud/tree of species/variety x2.",
+		"notes" : "see also {cifxrula}, {baljypau}",
+		"english" : "clove"
+	},
+	"kro'oke" : {
+		"word" : "kro'oke",
+		"definition" : "x1 croquets x2's ball.",
+		"notes" : "Cf. {kelcrkroke}, {krokete}, {bolci}, {mruli}.",
+		"english" : "(No Gloss Word)"
+	},
+	"krokete" : {
+		"word" : "krokete",
+		"definition" : "x1 plays croquet against x2 in competition x3 for prize/title x4.",
+		"notes" : "Cf. {kelcrkroke}, {kroke}, {kriketi}, {ga'arboijvi}, {bolci}, {mruli}.",
+		"english" : "(No Gloss Word)"
+	},
+	"krokodilo" : {
+		"word" : "krokodilo",
+		"definition" : "x1 is a crocodile (family Crocodylidae) of breed x2",
+		"english" : "crocodile"
+	},
+	"krotofaga" : {
+		"word" : "krotofaga",
+		"definition" : "x1 is an ani of species x2.",
+		"notes" : "see also {cipnrkuku}",
+		"english" : "ani"
+	},
+	"kuarka" : {
+		"word" : "kuarka",
+		"definition" : "x1 is a quark with flavor x2.",
+		"notes" : "Cf. {kantu}, {guska'u}, {lektoni}.",
+		"english" : "quark"
+	},
+	"kuinke" : {
+		"word" : "kuinke",
+		"definition" : "x1 reflects Seri culture/language in aspect x2",
+		"english" : "Seri"
+	},
+	"kulnrnorge" : {
+		"word" : "kulnrnorge",
+		"definition" : "x1 is Norwegian/pertains to Norwegian culture in aspect x2.",
+		"english" : "Norwegian"
+	},
+	"kulnrturkie" : {
+		"word" : "kulnrturkie",
+		"definition" : "x1 is Turkish/pertains to Turkish culture in aspect x2.",
+		"notes" : "Cf. {kulnrturko}, {bangrturkie}, {tu'urki}.",
+		"english" : "(No Gloss Word)"
+	},
+	"kulnrturko" : {
+		"word" : "kulnrturko",
+		"definition" : "x1 is Turkic/pertains to Turkic culture in aspect x2",
+		"notes" : "c.f. {kulnrturkie}",
+		"english" : "Turkic"
+	},
+	"kumtrguanako" : {
+		"word" : "kumtrguanako",
+		"definition" : "x1 is a guanaco of breed x2.",
+		"notes" : "Cf. {kumte}, {tcokumte}, {kumtrvalpaka}, {kumtrlama}, {kumtrvikunia}.",
+		"english" : "guanaco"
+	},
+	"kumtrlama" : {
+		"word" : "kumtrlama",
+		"definition" : "x1 is a llama of breed x2.",
+		"notes" : "Cf. {kumte}, {tcokumte}, {kumtrvalpaka}, {kumtrvikunia}, {kumtrguanako}.",
+		"english" : "llama"
+	},
+	"kumtrvalpaka" : {
+		"word" : "kumtrvalpaka",
+		"definition" : "x1 is an alpaca of breed x2.",
+		"notes" : "Cf. {kumte}, {tcokumte}, {kumtrvikunia}, {kumtrlama}, {kumtrguanako}.",
+		"english" : "alpaca"
+	},
+	"kumtrvikunia" : {
+		"word" : "kumtrvikunia",
+		"definition" : "x1 is a vicuna of breed x2.",
+		"notes" : "Cf. {kumte}, {tcokumte}, {kumtrvalpaka}, {kumtrlama}, {kumtrguanako}.",
+		"english" : "vicuna"
+	},
+	"kunrlazuli" : {
+		"word" : "kunrlazuli",
+		"definition" : "x1 is/contains/is made from lapis lazuli of type/grade x2 mined from location x3.",
+		"english" : "lapis"
+	},
+	"kunrmarmaro" : {
+		"word" : "kunrmarmaro",
+		"definition" : "x1 is/contains/is made from marble of type x2 mined from location x3.",
+		"english" : "marble"
+	},
+	"kunrxalabastre" : {
+		"word" : "kunrxalabastre",
+		"definition" : "x1 is/contains/is made from alabaster of type x2 mined from location x3.",
+		"english" : "Mexican onyx"
+	},
+	"kurkuli" : {
+		"word" : "kurkuli",
+		"definition" : "x1 is a weevil of genus/species x2.",
+		"notes" : "see also {cakcinki}",
+		"english" : "weevil"
+	},
+	"kurkuma" : {
+		"word" : "kurkuma",
+		"definition" : "x1 is turmeric of species/variety x2.",
+		"english" : "turmeric"
+	},
+	"kusnkusu" : {
+		"word" : "kusnkusu",
+		"definition" : "x1 is a quantity of couscous of ingredients including x2",
+		"english" : "(No Gloss Word)"
+	},
+	"lartodektu" : {
+		"word" : "lartodektu",
+		"definition" : "l1 is a widow spider of species l2.",
+		"notes" : "cf. {malminiata}, {jukni}",
+		"english" : "widow spider"
+	},
+	"lektoni" : {
+		"word" : "lektoni",
+		"definition" : "x1 is an electron in quantum state x2",
+		"notes" : "Cf. {protoni}, {nurtoni}, {xumsle}, {dicka'u}, {guska'u}, {kuarka}. ",
+		"english" : "quantum state"
+	},
+	"lerldjamo" : {
+		"word" : "lerldjamo",
+		"definition" : "x1 is a jamo in syllable x2 in writing system x3 (default Hangul)",
+		"english" : "jamo"
+	},
+	"lijdrba'a,i" : {
+		"word" : "lijdrba'a,i",
+		"definition" : "l1 is the Bahai religion with beliefs/practices/tenets including l3",
+		"english" : "Bahaism"
+	},
+	"lijdrdjaina" : {
+		"word" : "lijdrdjaina",
+		"definition" : "l1 is the Jain religion with beliefs/practices/tenets including l3",
+		"english" : "Jainism"
+	},
+	"lindari" : {
+		"word" : "lindari",
+		"definition" : "x1 measures x2 lindars in social context x3.",
+		"notes" : "The lindar is a measure of social inappropriatenes. One Lindar roughly equals the average social inappropriateness of {lindar} (a Lojban central community member).\n\nOne centiLindar = Mentally laughing at something childish / lavatoriously humorous.\nFive centiLindars = Chuckling out loud at something when it isn't appropriate (i.e. \"I'll be working under you for the duration of this project.\").\nOne Lindar = Doing something completely socially inappropriate.\nOne and a half lds. = Being offensive enough to get in trouble and / or get reprimanded.\nTwo lds. = Sufficient to get punched in the face on the spot.\nThree lds. = Sufficient to get stabbed.\nFour lds. = Sufficient to be a target of assassination.",
+		"english" : "(No Gloss Word)"
+	},
+	"linlani" : {
+		"word" : "linlani",
+		"definition" : "x1 is a lily-of-the-valley / may-lily (Convallaria) of species/strain x2",
+		"english" : "may-lily"
+	},
+	"liunko" : {
+		"word" : "liunko",
+		"definition" : "x1 is a lynx (Felis lynx)",
+		"notes" : "See {mlatu}",
+		"english" : "lynx"
+	},
+	"lorvera" : {
+		"word" : "lorvera",
+		"definition" : "x1 is a quantity of aloe vera of species/strain x2",
+		"english" : "aloe vera"
+	},
+	"lumbrinki" : {
+		"word" : "lumbrinki",
+		"definition" : "x1 is an earthworm of species x2.",
+		"notes" : "Cf. {curnu}, {dertu}, {carvi}.",
+		"english" : "earthworm"
+	},
+	"ma'agni" : {
+		"word" : "ma'agni",
+		"definition" : "x1 is a mahogany of species x2.",
+		"english" : "mahogany"
+	},
+	"mabrnfuru" : {
+		"word" : "mabrnfuru",
+		"definition" : "x1 is a ferret.",
+		"notes" : "Cf. {mustlei}, {ermine}.",
+		"english" : "ferret"
+	},
+	"makpapi" : {
+		"word" : "makpapi",
+		"definition" : "x1 is a poppy of species x2",
+		"english" : "poppy"
+	},
+	"malgaci" : {
+		"word" : "malgaci",
+		"definition" : "x1 is Malagasy in aspect x2.",
+		"english" : "Malagasy"
+	},
+	"malminiata" : {
+		"word" : "malminiata",
+		"definition" : "m1 is a black widow spider of variety m2.",
+		"notes" : "cf. {lartodektu}",
+		"english" : "black widow"
+	},
+	"mandala" : {
+		"word" : "mandala",
+		"definition" : "x1 is a mandala",
+		"english" : "mandala"
+	},
+	"mandioka" : {
+		"word" : "mandioka",
+		"definition" : "x1 is manioc of species/variety x2.",
+		"notes" : "syn. {samcrkasava}; see also {samcu}",
+		"english" : "manioc"
+	},
+	"marbela" : {
+		"word" : "marbela",
+		"definition" : "x1 is dodder of species/variety x2 parasitic on x3.",
+		"english" : "dodder"
+	},
+	"margosa" : {
+		"word" : "margosa",
+		"definition" : "x1 is neem/margosa/azedarac of species/variety x2.",
+		"notes" : "See also {zdiraxa}, {andiroba}. \"Azedarach\" and variants have referred to both this tree and the {zdiraxa}.",
+		"english" : "margosa"
+	},
+	"markuja" : {
+		"word" : "markuja",
+		"definition" : "x1 is a passionfruit/passionflower of species/variety x2.",
+		"english" : "passionfruit"
+	},
+	"marlari" : {
+		"word" : "marlari",
+		"definition" : "x1 is malaria caused by Plasmodium species x2.",
+		"notes" : "Cf. {blusfani}, {paludizm}.",
+		"english" : "malaria"
+	},
+	"marmota" : {
+		"word" : "marmota",
+		"definition" : "x1 is a marmot/woodchuck/groundhog of species x2.",
+		"notes" : "see also {ratcu}, {smacu}",
+		"english" : "marmot"
+	},
+	"me'andi" : {
+		"word" : "me'andi",
+		"definition" : "x1 is henna of species/variety x2.",
+		"notes" : "see also {larcu}, {cinta}",
+		"english" : "henna"
+	},
+	"melpsita" : {
+		"word" : "melpsita",
+		"definition" : "x1 is a budgerigar (Melopsittacus undulatus) of breed x2.",
+		"notes" : "Cf. {bajriga}, {cipni}, {sralo}.",
+		"english" : "budgie"
+	},
+	"mentapiperita" : {
+		"word" : "mentapiperita",
+		"definition" : "x1 is a quantity of peppermint of species/strain x2",
+		"english" : "peppermint"
+	},
+	"merfiti" : {
+		"word" : "merfiti",
+		"definition" : "x1 is a skunk of genus/species x2.",
+		"notes" : "Cf. {ckankua}, {cribe}, {prokioni}, {mabru}.",
+		"english" : "skunk"
+	},
+	"merlanu" : {
+		"word" : "merlanu",
+		"definition" : "x1 is a whiting of species x2.",
+		"notes" : "Cf. {finpe}, {merluci}, {finprgado}, {sperlanu}, {labyfi'e}.",
+		"english" : "ray-finned fish"
+	},
+	"mernta" : {
+		"word" : "mernta",
+		"definition" : "x1 is a quantity of mint (member of the genus Mentha) of species/strain x2",
+		"english" : "mint species"
+	},
+	"mianma" : {
+		"word" : "mianma",
+		"definition" : "x1 is Burmese in aspect x2.",
+		"english" : "Burmese"
+	},
+	"miksini" : {
+		"word" : "miksini",
+		"definition" : "m1 is a hagfish of species m2.",
+		"english" : "(No Gloss Word)"
+	},
+	"miptera" : {
+		"word" : "miptera",
+		"definition" : "x1 is a bug of species x2.",
+		"notes" : "see also {cinki}, {ckacinki}, {moptera}, {miptinytci}, {cfila}, {fanza}",
+		"english" : "bug"
+	},
+	"mlaluka" : {
+		"word" : "mlaluka",
+		"definition" : "x1 is a paperbark/tea tree of species/variety x2.",
+		"english" : "tea tree"
+	},
+	"mlibdena" : {
+		"word" : "mlibdena",
+		"definition" : "x1 is molybdenum.",
+		"english" : "molybdenum"
+	},
+	"mlongena" : {
+		"word" : "mlongena",
+		"definition" : "x1 is eggplant of variety x2.",
+		"notes" : "see also {patlu}, {tamca}, {kapsiku}, {labnyjba}",
+		"english" : "eggplant"
+	},
+	"mraigo" : {
+		"word" : "mraigo",
+		"definition" : "m1 is Welsh in aspect m2.",
+		"english" : "Welsh"
+	},
+	"mustlei" : {
+		"word" : "mustlei",
+		"definition" : "x1 is a weasel of species/variety x2.",
+		"notes" : "Cf. {mabrnfuru}, {ermine}.",
+		"english" : "weasel"
+	},
+	"namcrgogolo" : {
+		"word" : "namcrgogolo",
+		"definition" : "x1 is a googol [$10^{100}$] of x2 in dimension/aspect x3 (default units).",
+		"english" : "(No Gloss Word)"
+	},
+	"namcrgogolplexu" : {
+		"word" : "namcrgogolplexu",
+		"definition" : "x1 is a googolplex [$10^{googol}$] of x2 in dimension/aspect x3 (default units).",
+		"english" : "(No Gloss Word)"
+	},
+	"nanbrmatsa" : {
+		"word" : "nanbrmatsa",
+		"definition" : "x1 is a matzo made from grain x2.",
+		"notes" : "see {fomcau}, {nanba}, {fomymledi}",
+		"english" : "(No Gloss Word)"
+	},
+	"nargile" : {
+		"word" : "nargile",
+		"definition" : "x1 is a nargileh/hookah for smoking x2.",
+		"english" : "(No Gloss Word)"
+	},
+	"nargrkaju" : {
+		"word" : "nargrkaju",
+		"definition" : "x1 is a cashew of species x2.",
+		"english" : "cashew"
+	},
+	"nargrkaria" : {
+		"word" : "nargrkaria",
+		"definition" : "x1 is pecan/hickory of species/variety x2.",
+		"english" : "hickory"
+	},
+	"nargrpistaco" : {
+		"word" : "nargrpistaco",
+		"definition" : "x1 is a pistachio of species x2.",
+		"english" : "pistachio"
+	},
+	"nerfopi" : {
+		"word" : "nerfopi",
+		"definition" : "x1 is a lobster of species x2.",
+		"notes" : "Cf. {xasyjukni}, {cakyjukni}. From linnaean Nephropidae.",
+		"english" : "lobster"
+	},
+	"niengatu" : {
+		"word" : "niengatu",
+		"definition" : "x1 is Nheengatu/Tupi/Lingua Geral in aspect x2.",
+		"notes" : "see also {brazo}, {abniena}",
+		"english" : "Tupi"
+	},
+	"nimfaia" : {
+		"word" : "nimfaia",
+		"definition" : "x1 is a water-lily (Nymphaea) of species/strain x2",
+		"english" : "water-lily"
+	},
+	"niutni" : {
+		"word" : "niutni",
+		"definition" : "g1 is g2 newton (s) of force (default is 1) by standard g3.",
+		"notes" : "Cf. {klanrniut,ni}, {ki'orgratretrefrinynidysnidu}.",
+		"english" : "newton"
+	},
+	"noljedai" : {
+		"word" : "noljedai",
+		"definition" : "x1 is a Jedi of power / level / rank x2",
+		"english" : "Jedi"
+	},
+	"normano" : {
+		"word" : "normano",
+		"definition" : "x1 reflects Norman culture/nationality/language in aspect x2.",
+		"english" : "Norman"
+	},
+	"norvokovidru" : {
+		"word" : "norvokovidru",
+		"definition" : "x1 is a norovirus of species/breed/defining property x2 capable of infecting [at] x3.",
+		"notes" : "From the city of Norwalk, Ohio, and {vidru}. The scientific name of the virus was first \"Norwalk agent\" and then shortened to \"norovirus\". See also {xilvidru}, {remjinkytoldu'evidru} and {vidru}.",
+		"english" : "norovirus"
+	},
+	"nurtoni" : {
+		"word" : "nurtoni",
+		"definition" : "x1 is a neutron in quantum state x2.",
+		"notes" : "Cf. {lektoni}, {protoni}, {kuarka}, {xumsle}.",
+		"english" : "neutron"
+	},
+	"odbenu" : {
+		"word" : "odbenu",
+		"definition" : "x1 is a walrus of breed x2.",
+		"notes" : "Cf. {mabru}, {arktik}, {xamsi}.",
+		"english" : "walrus"
+	},
+	"odnata" : {
+		"word" : "odnata",
+		"definition" : "x1 is a dragonfly/damselfly (order Odonata) of species x2.",
+		"notes" : "Cf. {ansoptera}, {zgoptera}, {laxsfani}, {sfani}, {cinki}.",
+		"english" : "dragonfly"
+	},
+	"oktopoda" : {
+		"word" : "oktopoda",
+		"definition" : "x1 is an octopus of species x2",
+		"notes" : "see also {tu'urbirka}",
+		"english" : "octopus"
+	},
+	"omso" : {
+		"word" : "omso",
+		"definition" : "g1 is g2 ohm(s) of electrical impedance/resistance (default is 1) by standard g3.",
+		"notes" : "Cf. {klanrxomi}, {xampo}, {klanrvolta}, {klanrxuati}, {klanrzimenzi}.",
+		"english" : "(No Gloss Word)"
+	},
+	"orka" : {
+		"word" : "orka",
+		"definition" : "x1 is an orca/killer whale (Orcinus orca) of breed x2",
+		"english" : "orca"
+	},
+	"orvanxi" : {
+		"word" : "orvanxi",
+		"definition" : "x1 is broomrape of species x2.",
+		"notes" : "see also {rasykobli}",
+		"english" : "broomrape"
+	},
+	"ostreda" : {
+		"word" : "ostreda",
+		"definition" : "x1 is an oyster of species x2.",
+		"notes" : "Cf. {cakcurnu}.",
+		"english" : "oyster"
+	},
+	"oxtapodi" : {
+		"word" : "oxtapodi",
+		"definition" : "x1 is an octopus of species x2.",
+		"notes" : "See also {tu'urbirka}.",
+		"english" : "(No Gloss Word)"
+	},
+	"palsita" : {
+		"word" : "palsita",
+		"definition" : "x1 is a Sith / Dark Jedi of power / level / rank x2",
+		"english" : "Dark Jedi"
+	},
+	"pasrtunika" : {
+		"word" : "pasrtunika",
+		"definition" : "x1 is a tunic of material x2.",
+		"notes" : "A garment worn over the torso, with or without sleeves, and of various lengths reaching from the hips to the ankles. Originated in Greece and Ancien Rome. {tu'inka} for type 4. Cf. {pastu}.",
+		"english" : "tunic"
+	},
+	"paxrmari" : {
+		"word" : "paxrmari",
+		"definition" : "p1 is a double boiler/bain-marie containing p2 made of p3",
+		"english" : "bain-marie"
+	},
+	"pemcrlimriki" : {
+		"word" : "pemcrlimriki",
+		"definition" : "x1 is a limerick about subject/theme x2 by author x3.",
+		"notes" : "Cf. {pemci}, {pemcrxaiku}, {pemcrsoneto}.",
+		"english" : "limerick"
+	},
+	"pemcrsoneto" : {
+		"word" : "pemcrsoneto",
+		"definition" : "x1 is a sonnet about subject/theme x2 by author x3.",
+		"notes" : "Cf. {pemci}, {pemcrxaiku}, {pemcrlimriki}.",
+		"english" : "sonnet"
+	},
+	"pemcrxaiku" : {
+		"word" : "pemcrxaiku",
+		"definition" : "x1 is a haiku about subject/theme x2 by author x3.",
+		"notes" : "Cf. {pemci}, {pemcrsoneto}, {pemcrlimriki}.",
+		"english" : "haiku"
+	},
+	"persika" : {
+		"word" : "persika",
+		"definition" : "x1 is a peach of variety x2",
+		"notes" : "see also {flaume}, {rutrprunu}",
+		"english" : "(No Gloss Word)"
+	},
+	"persimo" : {
+		"word" : "persimo",
+		"definition" : "x1 is a persimmon/ebony of species/variety x2.",
+		"english" : "ebony"
+	},
+	"pervu'ui" : {
+		"word" : "pervu'ui",
+		"definition" : "x1 reflects Peruvian culture/nationality in aspect x2.",
+		"notes" : "Cf. {peRUV}, {ketco}, {gento}, {brazo}, {tcokumte}.",
+		"english" : "Peruvian"
+	},
+	"pinpedi" : {
+		"word" : "pinpedi",
+		"definition" : "x1 is a seal/sea lion/otary/walrus of genus/species x2.",
+		"notes" : "seal: {kermipri} pinpedi; sea lion: {kerja'o} pinpedi; see also {mabru}, {odbenu}",
+		"english" : "seal"
+	},
+	"pipnrpiano" : {
+		"word" : "pipnrpiano",
+		"definition" : "x1 is a piano.",
+		"notes" : "Cf. {pipno}, {zgica'a}.",
+		"english" : "piano"
+	},
+	"plantago" : {
+		"word" : "plantago",
+		"definition" : "x1 is a plantain (small plant with flower spike) of species x2.",
+		"notes" : "see also {jupybadna}",
+		"english" : "plantain"
+	},
+	"plargoni" : {
+		"word" : "plargoni",
+		"definition" : "x1 is a geranium of species/variety x2.",
+		"english" : "geranium"
+	},
+	"platano" : {
+		"word" : "platano",
+		"definition" : "x1 is a sycamore (Platanus) of species x2.",
+		"english" : "plane"
+	},
+	"platesa" : {
+		"word" : "platesa",
+		"definition" : "x1 is a plaice of species x2.",
+		"notes" : "Cf. {mlafi'e}.",
+		"english" : "plaice"
+	},
+	"po'olska" : {
+		"word" : "po'olska",
+		"definition" : "x1 reflects Polish culture/nationality/language in aspect x2.",
+		"notes" : "Cf. {bangrpolska}, {slovo}.",
+		"english" : "Polish"
+	},
+	"pokme'oni" : {
+		"word" : "pokme'oni",
+		"definition" : "x1 is a Pokémon/Pocket Monster of species x2.",
+		"notes" : "Cf. {daskycizda'u}, {crida}.",
+		"english" : "(No Gloss Word)"
+	},
+	"polgosu" : {
+		"word" : "polgosu",
+		"definition" : "x1 is a halibut of species x2.",
+		"notes" : "syn. {finprxipoglosu}; Cf. {flundero}, {mlafi'e}.",
+		"english" : "halibut"
+	},
+	"prokioni" : {
+		"word" : "prokioni",
+		"definition" : "x1 is a racoon of species/breed x2.",
+		"notes" : "Cf. {mlatu}, {gerku}, {lorxu}, {cribe}, {labno}, {mabru}.",
+		"english" : "(No Gloss Word)"
+	},
+	"protoni" : {
+		"word" : "protoni",
+		"definition" : " x1 is a proton in quantum state x2.",
+		"notes" : "Cf. {lektoni}, {nurtoni}, {kuarka}, {xumsle}.\n\n",
+		"english" : "proton"
+	},
+	"ragrmalpigi" : {
+		"word" : "ragrmalpigi",
+		"definition" : "x1 is a Malpighian tubule [excretory organ] of insect x2.",
+		"notes" : "see also {rutrmalpigi}",
+		"english" : "Malpighian tubule"
+	},
+	"rambutane" : {
+		"word" : "rambutane",
+		"definition" : "x1 is a rambutan (Nephelium lappaceum) of breed x2",
+		"english" : "rambutan"
+	},
+	"ramdana" : {
+		"word" : "ramdana",
+		"definition" : "x1 is the Ramadan/Ramazan of year x2.",
+		"notes" : "Cf. {ramadan}.",
+		"english" : "(No Gloss Word)"
+	},
+	"rangutano" : {
+		"word" : "rangutano",
+		"definition" : "x1 is an orangutan of variety x2.",
+		"notes" : "see also {remsmismani}",
+		"english" : "orangutan"
+	},
+	"ranmrdrakono" : {
+		"word" : "ranmrdrakono",
+		"definition" : "x1 is a dragon of species/breed x2 in mythos x3 of culture x4",
+		"english" : "dragon"
+	},
+	"ratmacu" : {
+		"word" : "ratmacu",
+		"definition" : "x1 is a mouse/rat (family \tMuridae) of species/breed x2",
+		"notes" : "Cf. {ratcu}, {smacu}, {mabru}. This term is a combination of ratcu + smacu for those speakers (Chinese, for instance) who don't usually distinguish between mice and rats.",
+		"english" : "Muridae"
+	},
+	"ravboni" : {
+		"word" : "ravboni",
+		"definition" : "x1 is a/the rabbi of/in community x2.",
+		"notes" : "Cf. {jdaca'i}.",
+		"english" : "rabbi"
+	},
+	"resrvarano" : {
+		"word" : "resrvarano",
+		"definition" : "x1 is a monitor lizard of species/variety x2.",
+		"english" : "monitor lizard"
+	},
+	"ricrceraso" : {
+		"word" : "ricrceraso",
+		"definition" : "x1 is a cherry tree of species x2.",
+		"notes" : "see also {rutrceraso}",
+		"english" : "cherry"
+	},
+	"ricrprunu" : {
+		"word" : "ricrprunu",
+		"definition" : "x1 is a plum/peach/cherry/apricot/sloe tree of species/variety x2.",
+		"notes" : "see also {rutrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {rozgu}",
+		"english" : "(No Gloss Word)"
+	},
+	"ru'urcunuje" : {
+		"word" : "ru'urcunuje",
+		"definition" : "x1 is measured in currency with code ISO-4217  ''CNY'' (China, Yuan Renminbi) as x2 (number).",
+		"notes" : "Cf. {rupnu}.",
+		"english" : "yuan"
+	},
+	"ru'urcuxefu" : {
+		"word" : "ru'urcuxefu",
+		"definition" : "x1 is measured in currency with code ISO-4217  ''CHF'' (Switzerland, Francs) as x2 (number).",
+		"notes" : "Cf. {rupnu}.",
+		"english" : "Franc"
+	},
+	"ru'urgubupu" : {
+		"word" : "ru'urgubupu",
+		"definition" : "x1 is measured in currency with code ISO-4217  ''GBP'' (United Kingdom, Pounds) as x2 (number).",
+		"notes" : "Cf. {rupnu}.",
+		"english" : "GBP"
+	},
+	"ru'urjupuje" : {
+		"word" : "ru'urjupuje",
+		"definition" : "x1 is measured in currency with code ISO-4217  ''JPY'' (Japan, Yen) as x2 (number).",
+		"notes" : "Cf. {rupnu}.",
+		"english" : "yen"
+	},
+	"rupne'uru" : {
+		"word" : "rupne'uru",
+		"definition" : "x1 is measured in currency with code ISO-4217  ''EUR'' (Euro Member Countries, Euro) as x2 (number).",
+		"notes" : "Cf. {rupnu}.",
+		"english" : "Euro"
+	},
+	"rupnusudu" : {
+		"word" : "rupnusudu",
+		"definition" : "x1 is measured in currency with code ISO-4217  ''USD'' (United States of America, Dollars) as x2 (number).",
+		"notes" : "Cf. {rupnu}.",
+		"english" : "dollar"
+	},
+	"rutrceraso" : {
+		"word" : "rutrceraso",
+		"definition" : "x1 is a cherry of species x2.",
+		"notes" : "see also {ricrceraso}",
+		"english" : "cherry"
+	},
+	"rutrkoko" : {
+		"word" : "rutrkoko",
+		"definition" : "x1 is a coconut of variety/cultivar x2",
+		"english" : "(No Gloss Word)"
+	},
+	"rutrmalpigi" : {
+		"word" : "rutrmalpigi",
+		"definition" : "x1 is an acerola of species/variety x2.",
+		"notes" : "see also {ragrmalpigi}",
+		"english" : "acerola"
+	},
+	"rutrmango" : {
+		"word" : "rutrmango",
+		"definition" : "x1 is a mango [fruit] of species/variety x2.",
+		"english" : "mango"
+	},
+	"rutrpaupau" : {
+		"word" : "rutrpaupau",
+		"definition" : "x1 is a papaya [Carica papaya] fruit of species/variety x2",
+		"notes" : "Cf. {grute}",
+		"english" : "(No Gloss Word)"
+	},
+	"rutrprunu" : {
+		"word" : "rutrprunu",
+		"definition" : "x1 is a plum/peach/cherry/apricot/sloe of species/variety x2.",
+		"notes" : "see also {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {rozgu}",
+		"english" : "(No Gloss Word)"
+	},
+	"sailce" : {
+		"word" : "sailce",
+		"definition" : "x1 is a willow of species x2.",
+		"english" : "willow"
+	},
+	"salmone" : {
+		"word" : "salmone",
+		"definition" : "x1 is a salmon/trout of species x2.",
+		"notes" : "see {finpe}, {sperlanu}",
+		"english" : "salmon"
+	},
+	"samcrkasava" : {
+		"word" : "samcrkasava",
+		"definition" : "x1 is cassava of species/variety x2.",
+		"notes" : "syn. {mandioka}; see also {samcu}",
+		"english" : "(No Gloss Word)"
+	},
+	"samcrniame" : {
+		"word" : "samcrniame",
+		"definition" : "x1 is a yam (Dioscorea) of species/variety x2.",
+		"notes" : "see also {samcu}",
+		"english" : "yam"
+	},
+	"samcrtaro" : {
+		"word" : "samcrtaro",
+		"definition" : "x1 is taro of species/variety x2.",
+		"notes" : "see also {samcu}, {konjaku}",
+		"english" : "taro"
+	},
+	"sansrmustardo" : {
+		"word" : "sansrmustardo",
+		"definition" : "x1 is mustard for use on x2 made with x3.",
+		"notes" : "see also {koblrsinapi}",
+		"english" : "mustard"
+	},
+	"sargueia" : {
+		"word" : "sargueia",
+		"definition" : "x1 is an opossum of species x2",
+		"english" : "opossum"
+	},
+	"serlaximorfa" : {
+		"word" : "serlaximorfa",
+		"definition" : "s1 is a shark of species s2.",
+		"notes" : "See also {finpe}.",
+		"english" : "shark"
+	},
+	"sfe'ero" : {
+		"word" : "sfe'ero",
+		"definition" : "x1 reflects Swedish culture/nationality/language in aspect x2",
+		"english" : "Swedish"
+	},
+	"sifnaptera" : {
+		"word" : "sifnaptera",
+		"definition" : "x1 is a flea of species x2.",
+		"notes" : "Cf. {cinki}, {blusfani}, {civla}, {gerku}.",
+		"english" : "flea"
+	},
+	"simfoni" : {
+		"word" : "simfoni",
+		"definition" : "x1 is symphony number x2 key x3 composed by x4 performed by/at x5 (event).",
+		"notes" : "Cf. {zgike}, {nolzgi}, {simfoni zei pagbu}, {konceto}, {zgifi'i}.",
+		"english" : "symphony"
+	},
+	"simsimu" : {
+		"word" : "simsimu",
+		"definition" : "x1 is sesame of species/variety x2.",
+		"notes" : "syn. {xonxoli}, {jerjelino}",
+		"english" : "sesame"
+	},
+	"skomberu" : {
+		"word" : "skomberu",
+		"definition" : "s1 is a mackerel of species s2.",
+		"notes" : "cf. finpe, finprtuna",
+		"english" : "mackerel"
+	},
+	"skorbuti" : {
+		"word" : "skorbuti",
+		"definition" : "x1 has scurvy with symptoms x2.",
+		"notes" : "see also {nimre}",
+		"english" : "scurvy"
+	},
+	"slovino" : {
+		"word" : "slovino",
+		"definition" : "x1 is Slovenian/Slovene in aspect x2.",
+		"notes" : "see also {nanslovo}, {slovo}, {slovako}",
+		"english" : "Slovenian"
+	},
+	"smacrkobaiu" : {
+		"word" : "smacrkobaiu",
+		"definition" : "x1 is a guinea pig of species x2.",
+		"notes" : "From rodent species 'Cavia cobaya'.",
+		"english" : "guinea pig"
+	},
+	"snapisa" : {
+		"word" : "snapisa",
+		"definition" : "x1 is mustard of species/breed x2.",
+		"notes" : "Cf. {armoraki}, {kobli}, {cpinytsapi}, {sansrmustardo}, {koblrsinapi}.",
+		"english" : "mustard"
+	},
+	"snidari'a" : {
+		"word" : "snidari'a",
+		"definition" : "x1 is a jellyfish/jelly/sea jelly/member of phylum Cnidaria of species/breed x2.",
+		"notes" : "See also {jdufi'e}.",
+		"english" : "jellyfish"
+	},
+	"sodnrkali" : {
+		"word" : "sodnrkali",
+		"definition" : "x1 is potassium (K).",
+		"notes" : "see {sodna}",
+		"english" : "potassium"
+	},
+	"sorpeka" : {
+		"word" : "sorpeka",
+		"definition" : "x1 is a bus/coach for carrying passengers x2, propelled by x3",
+		"notes" : "This is a zi'evla of the word {sorprekarce}.",
+		"english" : "bus"
+	},
+	"sparagusa" : {
+		"word" : "sparagusa",
+		"definition" : "x1 is a quantity of asparagus of species/strain x2",
+		"english" : "asparagus"
+	},
+	"spatnrafanu" : {
+		"word" : "spatnrafanu",
+		"definition" : "x1 is a radish (plant) of variety x2",
+		"notes" : "from {spati} and 'Rapharus sativus' c.f. {stagnrafanu}",
+		"english" : "radish"
+	},
+	"spatrbasiliko" : {
+		"word" : "spatrbasiliko",
+		"definition" : "x1 is basil of variety x2.",
+		"notes" : "syn. {alba'aka}",
+		"english" : "(No Gloss Word)"
+	},
+	"spatrdauko" : {
+		"word" : "spatrdauko",
+		"definition" : "x1 is Queen Anne's lace of species x2.",
+		"notes" : "See also {gejrdauko}, {rulsantyspa}.",
+		"english" : "Queen Anne's lace"
+	},
+	"spatrkamomili" : {
+		"word" : "spatrkamomili",
+		"definition" : "x1 is a camomile plant of species/strain/cultivar x2.",
+		"notes" : "Cf. {spati}.",
+		"english" : "chamomile"
+	},
+	"spatrleoxari" : {
+		"word" : "spatrleoxari",
+		"definition" : "x1 is a water chestnut (plant) of species/variety x2.",
+		"notes" : "see also {stagrleoxari}",
+		"english" : "(No Gloss Word)"
+	},
+	"spatrnakardiace" : {
+		"word" : "spatrnakardiace",
+		"definition" : "x1 is a cashew/mango/poison ivy/sumac of genus/species x2; x1 belongs to the Anacardiaceae.",
+		"english" : "(No Gloss Word)"
+	},
+	"spatrpiperi" : {
+		"word" : "spatrpiperi",
+		"definition" : "x1 is pepper (''Piper'') of species/variety x2.",
+		"notes" : "see also {kapsiku}, {tsaprpiperi}",
+		"english" : "(No Gloss Word)"
+	},
+	"spatrxamameli" : {
+		"word" : "spatrxamameli",
+		"definition" : "x1 is a quantity of witch-hazel/hamamelis/winterbloom of species/strain x2",
+		"english" : "winterbloom"
+	},
+	"spatrxapio" : {
+		"word" : "spatrxapio",
+		"definition" : "x1 is a celery plant of species/variety x2.",
+		"notes" : "Cf. {ampigravle}, {gejrdauko}, {najgenja}, {rulsantyspa}, {stagi}.",
+		"english" : "(No Gloss Word)"
+	},
+	"spe'ato" : {
+		"word" : "spe'ato",
+		"definition" : "x1 reflects Esperanto culture/nationality/language in aspect x2.",
+		"notes" : "Cf. {pa'arbau}. No corresponding nation exists at the moment.",
+		"english" : "(No Gloss Word)"
+	},
+	"sperlanu" : {
+		"word" : "sperlanu",
+		"definition" : "x1 is a smelt of species x2.",
+		"notes" : "see {finpe}, {salmone}, {merlanu}",
+		"english" : "smelt"
+	},
+	"spitaki" : {
+		"word" : "spitaki",
+		"definition" : "x1 is a parrot of species/breed x2.",
+		"notes" : "Cf. {cipni}, {cipnrlori}.",
+		"english" : "parrot"
+	},
+	"spranto" : {
+		"word" : "spranto",
+		"definition" : "x1 reflects Esperanto language/culture/community in aspect x2.",
+		"notes" : "Cf. {esperanton}, {bangepu'o}.",
+		"english" : "(No Gloss Word)"
+	},
+	"stagnrafanu" : {
+		"word" : "stagnrafanu",
+		"definition" : "x1 is a radish (root/bulb) of variety x2",
+		"notes" : "from {stagi} and 'Rapharus sativus' c.f. {spatnrafanu}",
+		"english" : "radish"
+	},
+	"stagrleoxari" : {
+		"word" : "stagrleoxari",
+		"definition" : "x1 is a water chestnut (corm) of variety x2.",
+		"notes" : "see also {spatrleoxari}",
+		"english" : "water chestnut"
+	},
+	"stepmania" : {
+		"word" : "stepmania",
+		"definition" : "x1 is Stepmania",
+		"notes" : "Stepmania, the \"Dance Dance Revolution\"-style game for Windows/Mac/Linux.",
+		"english" : "stepmania"
+	},
+	"strutione" : {
+		"word" : "strutione",
+		"definition" : "x1 is an ostrich of subspecies x2.",
+		"english" : "ostrich"
+	},
+	"suomne" : {
+		"word" : "suomne",
+		"definition" : "x1 is Finnish in aspect x2",
+		"english" : "Finnish"
+	},
+	"tabrntromba" : {
+		"word" : "tabrntromba",
+		"definition" : "x1 is a trumpet.",
+		"notes" : "Cf. {tabra}, {zgica'a}.",
+		"english" : "trumpet"
+	},
+	"tafrcemize" : {
+		"word" : "tafrcemize",
+		"definition" : "x1 is a chemise/shift/smock of material x2.",
+		"notes" : "Usually women's undergarments and dresses. {cmeize} for type 4. Cf. {taxfu}.",
+		"english" : "shift"
+	},
+	"tafrjerzi" : {
+		"word" : "tafrjerzi",
+		"definition" : "x1 is a jersey of material x2.",
+		"notes" : "Knitted clothing, traditionally in wool or cotton, with sleeves, worn as a pullover, as it does not open at the front, unlike a cardigan ({tafrkardiga}). Cf. {taxfu}.",
+		"english" : "jersey"
+	},
+	"tafrkardiga" : {
+		"word" : "tafrkardiga",
+		"definition" : "x1 is a cardigan of material x2.",
+		"notes" : "A type of sweater ({nivycreka}) or jumper ({luzbarcreka}) that fastens up the front with buttons or a zipper, usually machine- or hand-knitted from wool. {kardiga} for type 4. Cf. {creka}.",
+		"english" : "cardigan"
+	},
+	"taifnu" : {
+		"word" : "taifnu",
+		"definition" : "b1=c1 is a typhoon/hurricane/cyclone moving from direction b2 at speed b3 rotating around centre /eye c2 with rotational  direction c3.",
+		"notes" : "Cf. {carbi'e}, {vilti'a}.",
+		"english" : "typhoon"
+	},
+	"takside" : {
+		"word" : "takside",
+		"definition" : "x1 is a badger of species x2",
+		"english" : "badger"
+	},
+	"tarksako" : {
+		"word" : "tarksako",
+		"definition" : "x1 is dandelion of species x2.",
+		"english" : "(No Gloss Word)"
+	},
+	"tarsire" : {
+		"word" : "tarsire",
+		"definition" : "x1 is a tarsier of species x2.",
+		"notes" : "see also {smani}",
+		"english" : "tarsier"
+	},
+	"taxfrbikini" : {
+		"word" : "taxfrbikini",
+		"definition" : "x1 is a bikin/two piece skimpy woman's garment of material x2 consisting of top x3 and bottom x4",
+		"notes" : "Can be used in the sense of swimwear, or coordinated underwear, or even skimpy outerwear.  The key aspects are two piece, for women,  and covering little more than the breasts and crotch.",
+		"english" : "bikini top"
+	},
+	"tca'anka" : {
+		"word" : "tca'anka",
+		"definition" : "x1 is a jackfruit (Artocarpus heterophyllus) of breed x2",
+		"notes" : "See {tcempedake}",
+		"english" : "jackfruit"
+	},
+	"tcakali" : {
+		"word" : "tcakali",
+		"definition" : "x1 is a jackal of species/breed x2.",
+		"notes" : "Cf. {gerku}, {labno}, {lorxu}, {ko'otli}.",
+		"english" : "jackal"
+	},
+	"tcandana" : {
+		"word" : "tcandana",
+		"definition" : "x1 is sandalwood of species/variety x2.",
+		"english" : "sandalwood"
+	},
+	"tce'exo" : {
+		"word" : "tce'exo",
+		"definition" : "x1 is Czech in aspect x2.",
+		"notes" : "Cf. {slovo}, {ropno}, {tcesk}.",
+		"english" : "Czech"
+	},
+	"tcempedake" : {
+		"word" : "tcempedake",
+		"definition" : "x1 is a cempedak (Artocarpus champeden) of breed x2",
+		"notes" : "See {tca'anka}, {zduriane}",
+		"english" : "cempedak"
+	},
+	"tcikonia" : {
+		"word" : "tcikonia",
+		"definition" : "x1 is a stork of species/type x2",
+		"notes" : "Genus Ciconia",
+		"english" : "stork"
+	},
+	"tcimpazi" : {
+		"word" : "tcimpazi",
+		"definition" : "x1 is a chimpanzee of species/subspecies x2.",
+		"notes" : "Cf. {jbonobo}, {smani}.",
+		"english" : "chimpanzee"
+	},
+	"te'ekno" : {
+		"word" : "te'ekno",
+		"definition" : "x1 is a form of techno music performed/created by x2 with characteristics x3.",
+		"notes" : "Cf. {zgike}, {dja'aza}, {sopselneizgi}, {naizgi}, {nolzgi}.",
+		"english" : "techno"
+	},
+	"tilnipa" : {
+		"word" : "tilnipa",
+		"definition" : "x1 is a linden of species x2",
+		"english" : "linden"
+	},
+	"tirlasino" : {
+		"word" : "tirlasino",
+		"definition" : "x1 is a thylacine of species/breed x2.",
+		"notes" : "From \"Thylacinus\".\n\nSee also {daskymabru}.",
+		"english" : "Tasmanian tiger"
+	},
+	"tirxrpardu" : {
+		"word" : "tirxrpardu",
+		"definition" : "x1 is a leopard of species/breed x2 with coat markings x2.",
+		"notes" : "Cf. {tirxu}, {tirxrponka}, {mlatu}.",
+		"english" : "leopard"
+	},
+	"tirxrponka" : {
+		"word" : "tirxrponka",
+		"definition" : "x1 is a jaguar of species/breed with coat markings x2.",
+		"notes" : "Cf. {tirxu}, {tirxrpardu}, {mlatu}.",
+		"english" : "(No Gloss Word)"
+	},
+	"tokpona" : {
+		"word" : "tokpona",
+		"definition" : "x1 reflects Toki Pona culture/nationality/language in aspect x2",
+		"english" : "Toki Pona"
+	},
+	"tolvutu" : {
+		"word" : "tolvutu",
+		"definition" : "x1 is rabid with symptoms x2.",
+		"notes" : "See also {tolvut}.",
+		"english" : "rabid"
+	},
+	"torceli" : {
+		"word" : "torceli",
+		"definition" : "x1 is x2 torrs by standard x3.",
+		"notes" : "synonym {magmiltre}",
+		"english" : "torr"
+	},
+	"tricnrarekake" : {
+		"word" : "tricnrarekake",
+		"definition" : "x1 is a palm tree, species/strain x2.",
+		"notes" : "Cf. {tricu}.",
+		"english" : "palm tree"
+	},
+	"tricrkorilu" : {
+		"word" : "tricrkorilu",
+		"definition" : "x1 is a hazel (Corylus) of species/type x2",
+		"notes" : "cf. {tricu}, {spati}",
+		"english" : "hazel"
+	},
+	"trigonela" : {
+		"word" : "trigonela",
+		"definition" : "x1 is fenugreek of species/variety x2.",
+		"english" : "fenugreek"
+	},
+	"trixexo" : {
+		"word" : "trixexo",
+		"definition" : "x1 is a manatee of species x2.",
+		"notes" : "variant {trixexu}",
+		"english" : "(No Gloss Word)"
+	},
+	"trixexu" : {
+		"word" : "trixexu",
+		"definition" : "x1 is a manatee of species x2.",
+		"notes" : "variant {trixexo}",
+		"english" : "manatee"
+	},
+	"tromizona" : {
+		"word" : "tromizona",
+		"definition" : "x1 is a lamprey of genus/species x2.",
+		"english" : "lamprey"
+	},
+	"tropaiolo" : {
+		"word" : "tropaiolo",
+		"definition" : "x1 is a nasturtium of species x2.",
+		"english" : "(No Gloss Word)"
+	},
+	"trueno" : {
+		"word" : "trueno",
+		"definition" : "t1 is a privet of species t2.",
+		"english" : "privet"
+	},
+	"tsakura" : {
+		"word" : "tsakura",
+		"definition" : "x1 is a cherry blossom species/strain x2.",
+		"notes" : "See also {xrula}, {mudri}, {tricu}.",
+		"english" : "cherry blossom"
+	},
+	"tsalagi" : {
+		"word" : "tsalagi",
+		"definition" : "x1 reflects Cherokee culture/nationality/language in aspect x2.",
+		"english" : "Cherokee"
+	},
+	"tsaprpiperi" : {
+		"word" : "tsaprpiperi",
+		"definition" : "x1 is pepper (genus ''Piper'') with flavor x2.",
+		"notes" : "Cf. {cpinytsapi}, {spatrpiperi}, {kapsiku}.",
+		"english" : "pepper"
+	},
+	"tsesebe" : {
+		"word" : "tsesebe",
+		"definition" : "x1 is a sassaby/topi/korrigum/damalisk of species/breed x2.",
+		"notes" : "see also {bajbakni}",
+		"english" : "topi"
+	},
+	"tsukini" : {
+		"word" : "tsukini",
+		"definition" : "x1 is a zucchini squash (L. cucurbita pepo).",
+		"notes" : "A long, dark-green type of {guzme} eaten raw or cooked.",
+		"english" : "zucchini"
+	},
+	"tsunami" : {
+		"word" : "tsunami",
+		"definition" : "x1 is a tsunami caused by x2.",
+		"english" : "tsunami"
+	},
+	"tu'urki" : {
+		"word" : "tu'urki",
+		"definition" : "x1 reflects Turkish culture/nationality/language in aspect x2.",
+		"notes" : "Cf. {bangrturkie}, {kulnrturkie}, {xelso}, {ropno}, {xazdo}.",
+		"english" : "Turkish"
+	},
+	"u'imla" : {
+		"word" : "u'imla",
+		"definition" : "x1 is a lolcat/picture of animal x2 with humorous caption x3.",
+		"notes" : "Etymology: Combination of {u'i} and {mlatu} and meant to parallel {u'ivla}.",
+		"english" : "lolcat"
+	},
+	"u'ivla" : {
+		"word" : "u'ivla",
+		"definition" : "x1 is a word meaning x2 in language x3 and silly/funny/clever for reason x4 (usually etymological).",
+		"notes" : "The word {u'ivla} is itself an u'ivla, as it is an unconventional portmanteau of {u'i} and -vla- (a rafsi of {valsi}) and also a pun on the word {fu'ivla}. Another example is {u'imla}.",
+		"english" : "portmanteau"
+	},
+	"uebre" : {
+		"word" : "uebre",
+		"definition" : "x1 pertains to the world wide web in aspect x2.",
+		"notes" : "See also {ueb}, {kibro}, {kibypapri}, {kibyca'o}.",
+		"english" : "WWW aspect"
+	},
+	"uigru" : {
+		"word" : "uigru",
+		"definition" : "x1 is Uyghur in aspect x2",
+		"notes" : "See also {tirkce}, {jungo}.",
+		"english" : "Uyghur"
+	},
+	"uiski" : {
+		"word" : "uiski",
+		"definition" : "x1 is whisk(e)y distilled from x2.",
+		"notes" : "Cf. {xalka}, {jikru}, {birje}, {vanju}, {campania}, {vo'otka}, {vanjyjikru}, {koinka}.",
+		"english" : "whisky"
+	},
+	"uitki" : {
+		"word" : "uitki",
+		"definition" : "x1 is a wiki/collaborative web site with subject/theme/content x2.",
+		"english" : "(No Gloss Word)"
+	},
+	"ulmu" : {
+		"word" : "ulmu",
+		"definition" : "x1 is an elm of species/variety x2.",
+		"notes" : "see also {na'itsi}",
+		"english" : "elm"
+	},
+	"urci" : {
+		"word" : "urci",
+		"definition" : "x1 is poison ivy/oak/sumac / lacquer tree of species x2.",
+		"notes" : "see also {ponjo} {cinta}, {xalkrxuruci}, {spatrnakardiace}, {rakcro}, {srebandu}",
+		"english" : "poison oak"
+	},
+	"vandula" : {
+		"word" : "vandula",
+		"definition" : "x1 is lavender of species/variety x2.",
+		"english" : "(No Gloss Word)"
+	},
+	"varnila" : {
+		"word" : "varnila",
+		"definition" : "x1 is vanilla.",
+		"notes" : "Cf. {cakla}, {ckafi}.",
+		"english" : "vanilla"
+	},
+	"violbasu" : {
+		"word" : "violbasu",
+		"definition" : "x1 is a double bass / contrabass",
+		"english" : "contrabass"
+	},
+	"violna" : {
+		"word" : "violna",
+		"definition" : "x1 is a viola",
+		"english" : "viola"
+	},
+	"violni" : {
+		"word" : "violni",
+		"definition" : "x1 is a violin",
+		"english" : "violin"
+	},
+	"violtcelo" : {
+		"word" : "violtcelo",
+		"definition" : "x1 is a cello",
+		"english" : "cello"
+	},
+	"visnda" : {
+		"word" : "visnda",
+		"definition" : "x1 is a bison of species x2",
+		"english" : "buffalo"
+	},
+	"vlalikei" : {
+		"word" : "vlalikei",
+		"definition" : "x1 [mass/sequence] plays the Lojban word chaining game (vlalinkei) with ruleset x2 and winner x3 with resulting sentence x4 against world champion x6 for fabulous cash prize x7 and endorsement deal(s) x8 groupies x9 (except they probably go earlier), played at time x10$ at location x11$ and honorific title x12$ breaking record(s) x13$ with mindless spectators x14$ taking time x15$ [amount] containing most frequently used word x16$ (zo) and not using perfectly good words x17$ (zo) displaying new strategy/trick x18$ supervised by x19$ with referee x20$ and used message transmission system x21$ time limit per move x22$ shortest move of the game x23$ broadcast on TV network(s) x24$ with Neilson ratings x25$ supplanting previously most watched show x26$ winning new fans  x27$ who formerly played x28$ which is inferior for reasons x29$ by standard x30$ with banned words x31$ with words winning additional points x32$ with climax of suspense x33$ and best comeback x34$",
+		"english" : "vlalinkei"
+	},
+	"vo'otka" : {
+		"word" : "vo'otka",
+		"definition" : "x1 is a vodka distilled from x2.",
+		"notes" : "Cf. {xalka}, {jikru}, {birje}, {vanju}, {uiski}, {campania}, {vanjyjikru}, {koinka}.",
+		"english" : "(No Gloss Word)"
+	},
+	"vombatu" : {
+		"word" : "vombatu",
+		"definition" : "x1 is a wombat (family Vombatidae) of species/breed x2",
+		"english" : "wombat"
+	},
+	"vonpaso" : {
+		"word" : "vonpaso",
+		"definition" : "x1 swindles x2 into state/event x3 by promising x4; x1 commits 419/advance fee fraud.",
+		"notes" : "generally x1 is Nigerian, but may be in another country; see also {tcica}",
+		"english" : "deceptive promise"
+	},
+	"vraike" : {
+		"word" : "vraike",
+		"definition" : "x1 is kelp of genus/species x2",
+		"english" : "kelp"
+	},
+	"xa'anzu" : {
+		"word" : "xa'anzu",
+		"definition" : "x1 reflects Han Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2.",
+		"notes" : "Cf. {jungo}, {jugygu'e}, {jugbau}, {djunguos}, {gugdecunu}, {gugdetuve}. ",
+		"english" : "Han"
+	},
+	"xagrnklarineto" : {
+		"word" : "xagrnklarineto",
+		"definition" : "x1 is a clarinet with reed x2.",
+		"notes" : "Cf. {xagri}, {zgica'a}.",
+		"english" : "clarinet"
+	},
+	"xagrnsaksofono" : {
+		"word" : "xagrnsaksofono",
+		"definition" : "x1 is a saxophone with reed x2.",
+		"notes" : "Cf. {xagri}, {zgica'a}.",
+		"english" : "saxophone"
+	},
+	"xalsixa" : {
+		"word" : "xalsixa",
+		"definition" : "x1 pertains to the Sikh culture/religion/ethos in aspect x2",
+		"english" : "Sikh"
+	},
+	"xangulu" : {
+		"word" : "xangulu",
+		"definition" : "x1 is a hangul (Korean alphabet) of sound x2.",
+		"notes" : "Cf. {lerfu}, {lerldjamo}, {bangrxangu}, {bangrxanguke}, {bangrtcosena}, {banku'oru}.",
+		"english" : "hangul"
+	},
+	"xarcufu" : {
+		"word" : "xarcufu",
+		"definition" : "x1 is an artichoke of species/variety x2.",
+		"english" : "artichoke"
+	},
+	"xelveto" : {
+		"word" : "xelveto",
+		"definition" : "x1 is Swiss in aspect x2.",
+		"english" : "Swiss"
+	},
+	"xilbate" : {
+		"word" : "xilbate",
+		"definition" : "x1 is a gibbon of species x2.",
+		"notes" : "cf. {smani}",
+		"english" : "(No Gloss Word)"
+	},
+	"xilbati" : {
+		"word" : "xilbati",
+		"definition" : "x1 is a gibbon of species x2.",
+		"notes" : "Cf. {smani}, {birdadykla}.",
+		"english" : "gibbon"
+	},
+	"xiptamu" : {
+		"word" : "xiptamu",
+		"definition" : "x1 is a hippopotamus of species/breed x2.",
+		"notes" : "Cf. {ri'erxi'a}, {xanto}, {odbenu}, {xantydenmai}.",
+		"english" : "hippopotamus"
+	},
+	"xirgana" : {
+		"word" : "xirgana",
+		"definition" : "x1 is a hiragana (Japanese syllabary) of sound x2.",
+		"notes" : "Cf. {lerfu}.",
+		"english" : "hiragana"
+	},
+	"xomxeci" : {
+		"word" : "xomxeci",
+		"definition" : "x1 is an ocotillo of species x2",
+		"english" : "ocotillo"
+	},
+	"xonxoli" : {
+		"word" : "xonxoli",
+		"definition" : "x1 is sesame of species/variety x2.",
+		"notes" : "syn. {jerjelino}, {simsimu}",
+		"english" : "(No Gloss Word)"
+	},
+	"xorjina" : {
+		"word" : "xorjina",
+		"definition" : "x1 is a saddlebag/pair of saddlebags to use on animal/vehicle x2.",
+		"english" : "saddlebag"
+	},
+	"xrisrbiblia" : {
+		"word" : "xrisrbiblia",
+		"definition" : "x1 is the Christian Bible of Christian denomination x2",
+		"english" : "(No Gloss Word)"
+	},
+	"xrulnranunkulu" : {
+		"word" : "xrulnranunkulu",
+		"definition" : "x1 is a quantity of ranunculus/buttercup/spearwort/water crowfoot of species/strain x2",
+		"notes" : "Cf. {matnyxrula}.",
+		"english" : "spearwort"
+	},
+	"xrulrlavandula" : {
+		"word" : "xrulrlavandula",
+		"definition" : "x1 is a quantity of lavender of species/strain x2",
+		"english" : "lavender"
+	},
+	"xumrkonkreto" : {
+		"word" : "xumrkonkreto",
+		"definition" : "x1 is a quantity of concrete made from ingredients x2.",
+		"english" : "cement"
+	},
+	"xusxusu" : {
+		"word" : "xusxusu",
+		"definition" : "x1 is vetiver of species/variety x2.",
+		"english" : "vetiver"
+	},
+	"zalgosu" : {
+		"word" : "zalgosu",
+		"definition" : "x1 is a spiny anteater of species x2.",
+		"notes" : "see also {jesymabru}, {ornitorinku}",
+		"english" : "spiny anteater"
+	},
+	"zdiraxa" : {
+		"word" : "zdiraxa",
+		"definition" : "x1 is a chinaberry of variety x2.",
+		"notes" : "See also {margosa}.",
+		"english" : "chinaberry"
+	},
+	"zduriane" : {
+		"word" : "zduriane",
+		"definition" : "x1 is a durian (Durio zibethinus) of breed x2",
+		"notes" : "See {tcempedake}",
+		"english" : "durian"
+	},
+	"zermbeto" : {
+		"word" : "zermbeto",
+		"definition" : "x1 is zerumbet/shell ginger of species/variety x2.",
+		"notes" : "This is Alpinia zerumbet. Zingiber zerumbet (awapuhi) is {krelu'i} {zingibero}. See also {glangala}.",
+		"english" : "shell ginger"
+	},
+	"zgirpopu" : {
+		"word" : "zgirpopu",
+		"definition" : "x1 is a form of pop music performed by x2 with characteristics x3.",
+		"notes" : "Cf. {te'ekno}, {zgike}, {sanga}.",
+		"english" : "pop music"
+	},
+	"zgoptera" : {
+		"word" : "zgoptera",
+		"definition" : "x1 is a damselfly of species x2.",
+		"notes" : "Cf. {ansoptera}, {odnata}, {laxsfani}, {sfani}, {cinki}.",
+		"english" : "damselfly"
+	},
+	"zigzagi" : {
+		"word" : "zigzagi",
+		"definition" : "z1 is a line with the shape of a zigzag.",
+		"english" : "zigzag"
+	},
+	"zimbabu" : {
+		"word" : "zimbabu",
+		"definition" : "x1 is Zimbabwean in aspect x2.",
+		"notes" : "see also {zimbabues}",
+		"english" : "Zimbabwean"
+	},
+	"zingibero" : {
+		"word" : "zingibero",
+		"definition" : "x1 is ginger of species x2.",
+		"notes" : "see also {kurkuma}, {glangala}",
+		"english" : "ginger"
+	}
+}

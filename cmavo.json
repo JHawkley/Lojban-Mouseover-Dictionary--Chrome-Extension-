@@ -1,0 +1,3785 @@
+{
+	"a" : {
+		"word" : "a",
+		"selmaho" : "A",
+		"definition" : "logical connective: sumti afterthought or.",
+		"english" : "or"
+	},
+	"a'a" : {
+		"word" : "a'a",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: attentive - inattentive - avoiding.",
+		"notes" : "See also {jundi}, {rivbi}.",
+		"english" : "attentive"
+	},
+	"a'e" : {
+		"word" : "a'e",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: alertness - exhaustion.",
+		"notes" : "See also {sanji}, {cikna}, {tatpi}.",
+		"english" : "alertness"
+	},
+	"a'i" : {
+		"word" : "a'i",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: effort - no special effort - repose.",
+		"notes" : "See also {gunka}, {slunandu}, {guksurla}, {troci}, {selprogunka}.",
+		"english" : "effort"
+	},
+	"a'o" : {
+		"word" : "a'o",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: hope - despair.",
+		"notes" : "See also {pacna}.",
+		"english" : "hope"
+	},
+	"a'u" : {
+		"word" : "a'u",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: interest - disinterest - repulsion.",
+		"notes" : "See also {cinri}, {selcni}.",
+		"english" : "interest"
+	},
+	"ai" : {
+		"word" : "ai",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: intent - indecision - rejection/refusal.",
+		"notes" : "See also {termu'i}, {terzu'e}, {seljdi}, {selcu'a}.",
+		"english" : "intent"
+	},
+	"au" : {
+		"word" : "au",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: desire - indifference - reluctance.",
+		"notes" : "See also {djica}.",
+		"english" : "desire"
+	},
+	"ba" : {
+		"word" : "ba",
+		"selmaho" : "PU",
+		"definition" : "time tense relation/direction: will [selbri]; after [sumti]; default future tense.",
+		"english" : "after"
+	},
+	"ba'a" : {
+		"word" : "ba'a",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I expect - I experience - I remember.",
+		"notes" : "See also {bavykri}, {lifri}, {morji}.",
+		"english" : "I anticipate"
+	},
+	"ba'e" : {
+		"word" : "ba'e",
+		"selmaho" : "BAhE",
+		"definition" : "forethought emphasis indicator; indicates next word is especially emphasized.",
+		"english" : "emphasize next"
+	},
+	"ba'i" : {
+		"word" : "ba'i",
+		"selmaho" : "BAI",
+		"definition" : "basti modal, 1st place                            replaced by ...",
+		"english" : "replaced by"
+	},
+	"ba'o" : {
+		"word" : "ba'o",
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: in the aftermath of ...; since ...; perfective              |     |----.",
+		"english" : "perfective"
+	},
+	"ba'u" : {
+		"word" : "ba'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: exaggeration - accuracy - understatement.",
+		"notes" : "See also {satci}, {dukse}.",
+		"english" : "exaggeration"
+	},
+	"bai" : {
+		"word" : "bai",
+		"selmaho" : "BAI",
+		"definition" : "bapli modal, 1st place (forced by)                forcedly; compelled by force ...",
+		"english" : "compelled by"
+	},
+	"bau" : {
+		"word" : "bau",
+		"selmaho" : "BAI",
+		"definition" : "bangu modal, 1st place                            in language ...",
+		"english" : "in language"
+	},
+	"be" : {
+		"word" : "be",
+		"selmaho" : "BE",
+		"definition" : "sumti link to attach sumti (default x2) to a selbri; used in descriptions.",
+		"english" : "link sumti"
+	},
+	"be'a" : {
+		"word" : "be'a",
+		"selmaho" : "FAhA1",
+		"definition" : "location tense relation/direction; north of.",
+		"english" : "north of"
+	},
+	"be'e" : {
+		"word" : "be'e",
+		"selmaho" : "COI",
+		"definition" : "vocative: request to send/speak.",
+		"english" : "request to send"
+	},
+	"be'i" : {
+		"word" : "be'i",
+		"selmaho" : "BAI",
+		"definition" : "benji modal, 1st place (sender)                   sent by ...",
+		"english" : "sent by"
+	},
+	"be'o" : {
+		"word" : "be'o",
+		"selmaho" : "BEhO",
+		"definition" : "elidable terminator: end linked sumti in specified description.",
+		"english" : "end linked sumti"
+	},
+	"be'u" : {
+		"word" : "be'u",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: lack/need - presence/satisfaction - satiation.",
+		"notes" : "See also {claxu}, {nitcu}, {mansa}.",
+		"english" : "lack"
+	},
+	"bei" : {
+		"word" : "bei",
+		"selmaho" : "BEI",
+		"definition" : "separates multiple linked sumti within a selbri; used in descriptions.",
+		"english" : "link more sumti"
+	},
+	"bi" : {
+		"word" : "bi",
+		"rafsi" : ["biv"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 8 (digit) [eight].",
+		"english" : "8"
+	},
+	"bi'e" : {
+		"word" : "bi'e",
+		"selmaho" : "BIhE",
+		"definition" : "prefixed to a mex operator to indicate high priority.",
+		"english" : "hi priority operator"
+	},
+	"bi'i" : {
+		"word" : "bi'i",
+		"rafsi" : ["biz"],
+		"selmaho" : "BIhI",
+		"definition" : "non-logical interval connective: unordered between ... and ...",
+		"english" : "unordered interval"
+	},
+	"bi'o" : {
+		"word" : "bi'o",
+		"selmaho" : "BIhI",
+		"definition" : "non-logical interval connective: ordered from ... to ...",
+		"english" : "ordered interval"
+	},
+	"bi'u" : {
+		"word" : "bi'u",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: newly introduced information - previously introduced information.",
+		"notes" : "See also {nindatni}, {saurdatni}.",
+		"english" : "new information"
+	},
+	"bo" : {
+		"word" : "bo",
+		"rafsi" : ["bor"],
+		"selmaho" : "BO",
+		"definition" : "short scope joiner; joins various constructs with shortest scope and right grouping.",
+		"notes" : "Cf. {ke}, {ke'e}.",
+		"english" : "short scope link"
+	},
+	"boi" : {
+		"word" : "boi",
+		"selmaho" : "BOI",
+		"definition" : "elidable terminator: terminate numeral or letteral string.",
+		"english" : "end number or lerfu"
+	},
+	"bu" : {
+		"word" : "bu",
+		"rafsi" : ["bus", "bu'i"],
+		"selmaho" : "BU",
+		"definition" : "convert any single word to BY.",
+		"english" : "word to lerfu"
+	},
+	"bu'a" : {
+		"word" : "bu'a",
+		"rafsi" : ["bul"],
+		"selmaho" : "GOhA",
+		"definition" : "logically quantified predicate variable: some selbri 1.",
+		"english" : "some selbri 1"
+	},
+	"bu'e" : {
+		"word" : "bu'e",
+		"selmaho" : "GOhA",
+		"definition" : "logically quantified predicate variable: some selbri 2.",
+		"english" : "some selbri 2"
+	},
+	"bu'i" : {
+		"word" : "bu'i",
+		"selmaho" : "GOhA",
+		"definition" : "logically quantified predicate variable: some selbri 3.",
+		"english" : "some selbri 3"
+	},
+	"bu'o" : {
+		"word" : "bu'o",
+		"selmaho" : "UI7",
+		"definition" : "attitudinal contour: start emotion - continue emotion - end emotion.",
+		"english" : "start emotion"
+	},
+	"bu'u" : {
+		"word" : "bu'u",
+		"selmaho" : "FAhA3",
+		"definition" : "location tense relation/direction; coincident with/at the same place as; space equivalent of ca.",
+		"english" : "at"
+	},
+	"by" : {
+		"word" : "by",
+		"selmaho" : "BY2",
+		"definition" : "letteral for b.",
+		"english" : "b"
+	},
+	"ca" : {
+		"word" : "ca",
+		"selmaho" : "PU",
+		"definition" : "time tense relation/direction: is [selbri]; during/simultaneous with [sumti]; present tense.",
+		"english" : "when"
+	},
+	"ca'a" : {
+		"word" : "ca'a",
+		"rafsi" : ["caz"],
+		"selmaho" : "CAhA",
+		"definition" : "modal aspect: actuality/ongoing event.",
+		"english" : "actually is"
+	},
+	"ca'e" : {
+		"word" : "ca'e",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I define.",
+		"notes" : "See also {mitcu'a}, {mitsmu}.",
+		"english" : "I define"
+	},
+	"ca'i" : {
+		"word" : "ca'i",
+		"selmaho" : "BAI",
+		"definition" : "catni modal, 1st place                            by authority of ...",
+		"english" : "by authority of"
+	},
+	"ca'o" : {
+		"word" : "ca'o",
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: during ...; continuative                                    |-----|.",
+		"english" : "while"
+	},
+	"ca'u" : {
+		"word" : "ca'u",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; forwards/to the front of ...",
+		"english" : "in front of"
+	},
+	"cai" : {
+		"word" : "cai",
+		"selmaho" : "CAI",
+		"definition" : "attitudinal: strong intensity attitude modifier.",
+		"english" : "intense emotion"
+	},
+	"cau" : {
+		"word" : "cau",
+		"selmaho" : "BAI",
+		"definition" : "claxu modal, 1st place                            lacked by ...",
+		"english" : "lacked by"
+	},
+	"ce" : {
+		"word" : "ce",
+		"rafsi" : ["cec"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: set link, unordered; \"and also\", but forming a set.",
+		"english" : "in a set with"
+	},
+	"ce'a" : {
+		"word" : "ce'a",
+		"selmaho" : "LAU",
+		"definition" : "2-word letteral/shift: the word following indicates a new font (e.g. italics, manuscript).",
+		"english" : "font shift"
+	},
+	"ce'e" : {
+		"word" : "ce'e",
+		"selmaho" : "CEhE",
+		"definition" : "links terms into an afterthought termset.",
+		"english" : "afterthought termset"
+	},
+	"ce'i" : {
+		"word" : "ce'i",
+		"rafsi" : ["cez"],
+		"selmaho" : "PA3",
+		"definition" : "digit/number: % percentage symbol, hundredths.",
+		"english" : "percent"
+	},
+	"ce'o" : {
+		"word" : "ce'o",
+		"rafsi" : ["ce'o"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: ordered sequence link; \"and then\", forming a sequence.",
+		"english" : "in a sequence with"
+	},
+	"ce'u" : {
+		"word" : "ce'u",
+		"selmaho" : "KOhA8",
+		"definition" : "pseudo-quantifier binding a variable within an abstraction that represents an open place.",
+		"english" : "lambda"
+	},
+	"cei" : {
+		"word" : "cei",
+		"selmaho" : "CEI",
+		"definition" : "selbri variable assignment; assigns broda series pro-bridi to a selbri.",
+		"english" : "pro-bridi assign"
+	},
+	"ci" : {
+		"word" : "ci",
+		"rafsi" : ["cib"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 3 (digit) [three].",
+		"english" : "3"
+	},
+	"ci'e" : {
+		"word" : "ci'e",
+		"selmaho" : "BAI",
+		"definition" : "ciste modal, 1st place used in scalar negation    in system/context ...",
+		"english" : "in system"
+	},
+	"ci'i" : {
+		"word" : "ci'i",
+		"selmaho" : "PA5",
+		"definition" : "digit/number: infinity; followed by digits => aleph cardinality.",
+		"english" : "infinity"
+	},
+	"ci'o" : {
+		"word" : "ci'o",
+		"selmaho" : "BAI",
+		"definition" : "cinmo modal, 1st place                            emotionally felt by ...",
+		"english" : "emotionally felt by"
+	},
+	"ci'u" : {
+		"word" : "ci'u",
+		"selmaho" : "BAI",
+		"definition" : "ckilu modal, 1st place                            on the scale ...",
+		"english" : "on the scale"
+	},
+	"co" : {
+		"word" : "co",
+		"rafsi" : ["col"],
+		"selmaho" : "CO",
+		"definition" : "tanru inversion operator; \"... of type ...\"; allows modifier trailing sumti without sumti links.",
+		"english" : "tanru inversion"
+	},
+	"co'a" : {
+		"word" : "co'a",
+		"rafsi" : ["co'a"],
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: at the starting point of ...; initiative                   >|<    |.",
+		"english" : "initiative"
+	},
+	"co'e" : {
+		"word" : "co'e",
+		"rafsi" : ["com", "co'e"],
+		"selmaho" : "GOhA",
+		"definition" : "elliptical/unspecified bridi relationship.",
+		"english" : "unspecif bridi"
+	},
+	"co'i" : {
+		"word" : "co'i",
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: at the instantaneous point of ...; achievative; point event   >|<.",
+		"english" : "achievative"
+	},
+	"co'o" : {
+		"word" : "co'o",
+		"selmaho" : "COI",
+		"definition" : "vocative: partings/good-bye.",
+		"english" : "partings"
+	},
+	"co'u" : {
+		"word" : "co'u",
+		"rafsi" : ["co'u"],
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: at the ending point of ... even if not done; cessative      |  >< |.",
+		"english" : "cessative"
+	},
+	"coi" : {
+		"word" : "coi",
+		"selmaho" : "COI",
+		"definition" : "vocative: greetings/hello.",
+		"english" : "greetings"
+	},
+	"cu" : {
+		"word" : "cu",
+		"selmaho" : "CU",
+		"definition" : "elidable marker: separates selbri from preceding sumti, allows preceding terminator elision.",
+		"english" : "selbri separator"
+	},
+	"cu'a" : {
+		"word" : "cu'a",
+		"selmaho" : "VUhU3",
+		"definition" : "unary mathematical operator: absolute value/norm  |a|.",
+		"english" : "absolute value"
+	},
+	"cu'e" : {
+		"word" : "cu'e",
+		"selmaho" : "CUhE",
+		"definition" : "tense/modal question.",
+		"english" : "modal ?"
+	},
+	"cu'i" : {
+		"word" : "cu'i",
+		"selmaho" : "CAI",
+		"definition" : "attitudinal: neutral scalar attitude modifier.",
+		"english" : "neutral emotion"
+	},
+	"cu'o" : {
+		"word" : "cu'o",
+		"selmaho" : "MOI",
+		"definition" : "convert number to probability selbri; event x1 has probability (n) of occurring under cond. x2.",
+		"english" : "probability selbri"
+	},
+	"cu'u" : {
+		"word" : "cu'u",
+		"selmaho" : "BAI",
+		"definition" : "cusku modal, 1st place (attribution/quotation)    as said by source ...; used for quotation.",
+		"english" : "as said by"
+	},
+	"cy" : {
+		"word" : "cy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for c.",
+		"english" : "c"
+	},
+	"da" : {
+		"word" : "da",
+		"rafsi" : ["dav", "dza"],
+		"selmaho" : "KOhA1",
+		"definition" : "logically quantified existential pro-sumti: there exists something 1 (usually restricted).",
+		"english" : "something 1"
+	},
+	"da'a" : {
+		"word" : "da'a",
+		"rafsi" : ["daz"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: all except n; all but n; default 1.",
+		"english" : "except"
+	},
+	"da'e" : {
+		"word" : "da'e",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: remote future utterance; \"He'll tell you tomorrow. IT will be a doozy.\".",
+		"english" : "eventual utterance"
+	},
+	"da'i" : {
+		"word" : "da'i",
+		"selmaho" : "UI3",
+		"definition" : "discursive: supposing - in fact.",
+		"notes" : "See also {sruma}.",
+		"english" : "would"
+	},
+	"da'o" : {
+		"word" : "da'o",
+		"selmaho" : "DAhO",
+		"definition" : "discursive: cancel pro-sumti/pro-bridi assignments.",
+		"english" : "cancel pro-assigns"
+	},
+	"da'u" : {
+		"word" : "da'u",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: a remote past utterance; \"She couldn't have known that IT would be true.\".",
+		"english" : "earlier utterance"
+	},
+	"dai" : {
+		"word" : "dai",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: marks empathetic use of preceding attitudinal; shows another's feelings.",
+		"notes" : "See also {cnijmi}.",
+		"english" : "empathy"
+	},
+	"dau" : {
+		"word" : "dau",
+		"selmaho" : "PA2",
+		"definition" : "digit/number: hex digit A (decimal 10) [ten].",
+		"english" : "hex digit A"
+	},
+	"de" : {
+		"word" : "de",
+		"selmaho" : "KOhA1",
+		"definition" : "logically quantified existential pro-sumti: there exists something 2 (usually restricted).",
+		"english" : "something 2"
+	},
+	"de'a" : {
+		"word" : "de'a",
+		"selmaho" : "ZAhO",
+		"definition" : "event contour for a temporary halt and ensuing pause in a process.",
+		"english" : "pausative"
+	},
+	"de'e" : {
+		"word" : "de'e",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: a near future utterance.",
+		"english" : "soon utterance"
+	},
+	"de'i" : {
+		"word" : "de'i",
+		"selmaho" : "BAI",
+		"definition" : "detri modal, 1st place (for letters)              dated ... ; attaches date stamp.",
+		"english" : "dated"
+	},
+	"de'o" : {
+		"word" : "de'o",
+		"selmaho" : "VUhU3",
+		"definition" : "binary mathematical operator: logarithm; [log/ln a to base b]; default base 10 or e.",
+		"english" : "logarithm"
+	},
+	"de'u" : {
+		"word" : "de'u",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: a recent utterance.",
+		"english" : "recent utterance"
+	},
+	"dei" : {
+		"word" : "dei",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: this utterance.",
+		"english" : "this utterance"
+	},
+	"di" : {
+		"word" : "di",
+		"selmaho" : "KOhA1",
+		"definition" : "logically quantified existential pro-sumti: there exists something 3 (usually restricted).",
+		"english" : "something 3"
+	},
+	"di'a" : {
+		"word" : "di'a",
+		"selmaho" : "ZAhO",
+		"definition" : "event contour for resumption of a paused process.",
+		"english" : "resumptitive"
+	},
+	"di'e" : {
+		"word" : "di'e",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: the next utterance.",
+		"english" : "next utterance"
+	},
+	"di'i" : {
+		"word" : "di'i",
+		"selmaho" : "TAhE",
+		"definition" : "tense interval modifier: regularly; subjective tense/modal; defaults as time tense.",
+		"english" : "regularly"
+	},
+	"di'o" : {
+		"word" : "di'o",
+		"selmaho" : "BAI",
+		"definition" : "diklo modal, 1st place                            at the locus of ...",
+		"english" : "at the locus of"
+	},
+	"di'u" : {
+		"word" : "di'u",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: the last utterance.",
+		"english" : "last utterance"
+	},
+	"do" : {
+		"word" : "do",
+		"rafsi" : ["don", "doi"],
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: you listener(s); identified by vocative.",
+		"english" : "you"
+	},
+	"do'a" : {
+		"word" : "do'a",
+		"selmaho" : "UI3",
+		"definition" : "discursive: generously - parsimoniously.",
+		"notes" : "See also {dunda}.",
+		"english" : "generously"
+	},
+	"do'e" : {
+		"word" : "do'e",
+		"selmaho" : "BAI",
+		"definition" : "elliptical/unspecified modal.",
+		"english" : "unspecif modal"
+	},
+	"do'i" : {
+		"word" : "do'i",
+		"selmaho" : "KOhA2",
+		"definition" : "pro-sumti: elliptical/unspecified utterance variable.",
+		"english" : "unspecif utterance"
+	},
+	"do'o" : {
+		"word" : "do'o",
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: you the listener & others unspecified.",
+		"english" : "you and others"
+	},
+	"do'u" : {
+		"word" : "do'u",
+		"selmaho" : "DOhU",
+		"definition" : "elidable terminator: end vocative (often elidable).",
+		"english" : "end vocative"
+	},
+	"doi" : {
+		"word" : "doi",
+		"selmaho" : "DOI",
+		"definition" : "generic vocative marker; identifies intended listener; elidable after COI.",
+		"english" : "vocative marker"
+	},
+	"du" : {
+		"word" : "du",
+		"rafsi" : ["dub", "du'o"],
+		"selmaho" : "GOhA",
+		"definition" : "identity selbri; = sign; x1 identically equals x2, x3, etc.; attached sumti refer to same thing.",
+		"english" : "same identity as"
+	},
+	"du'a" : {
+		"word" : "du'a",
+		"selmaho" : "FAhA1",
+		"definition" : "location tense relation/direction; east of.",
+		"english" : "east of"
+	},
+	"du'e" : {
+		"word" : "du'e",
+		"selmaho" : "PA4",
+		"definition" : "digit/number: too many; subjective.",
+		"english" : "too many"
+	},
+	"du'i" : {
+		"word" : "du'i",
+		"selmaho" : "BAI",
+		"definition" : "dunli modal, 1st place (equalled by)              equally; as much as ...",
+		"english" : "as much as"
+	},
+	"du'o" : {
+		"word" : "du'o",
+		"selmaho" : "BAI",
+		"definition" : "djuno modal, 1st place (info source)            authoritatively; according to ...; known by ...",
+		"english" : "according to"
+	},
+	"du'u" : {
+		"word" : "du'u",
+		"rafsi" : ["dum"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: predication/bridi abstractor; x1 is predication [bridi] expressed in sentence x2.",
+		"english" : "bridi abstract"
+	},
+	"dy" : {
+		"word" : "dy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for d.",
+		"english" : "d"
+	},
+	"e" : {
+		"word" : "e",
+		"selmaho" : "A",
+		"definition" : "logical connective: sumti afterthought and.",
+		"english" : "sumti and"
+	},
+	"e'a" : {
+		"word" : "e'a",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: granting permission - prohibiting.",
+		"notes" : "See also {curmi}.",
+		"english" : "permission"
+	},
+	"e'e" : {
+		"word" : "e'e",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: competence - incompetence/inability.",
+		"notes" : "See also {kakne}, {certu}.",
+		"english" : "competence"
+	},
+	"e'i" : {
+		"word" : "e'i",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: feeling constraint - independence - challenge/resistance against constraint.",
+		"notes" : "See also {selri'u}, {seljimte}.",
+		"english" : "constraint"
+	},
+	"e'o" : {
+		"word" : "e'o",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: request - negative request.",
+		"notes" : "See also {cpedu}, {pikci}.",
+		"english" : "request"
+	},
+	"e'u" : {
+		"word" : "e'u",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: suggestion - abandon suggest - warning.",
+		"notes" : "See also {stidi}, {kajde}.",
+		"english" : "suggestion"
+	},
+	"ei" : {
+		"word" : "ei",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: obligation - freedom.",
+		"notes" : "See also {bilga}, {zifre}.",
+		"english" : "must"
+	},
+	"fa" : {
+		"word" : "fa",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: tag 1st sumti place.",
+		"english" : "1st sumti place"
+	},
+	"fa'a" : {
+		"word" : "fa'a",
+		"selmaho" : "FAhA4",
+		"definition" : "location tense relation/direction; arriving at/directly towards ...",
+		"english" : "against"
+	},
+	"fa'e" : {
+		"word" : "fa'e",
+		"selmaho" : "BAI",
+		"definition" : "fatne modal, 1st place                            backwards; reverse of ...",
+		"english" : "reverse of"
+	},
+	"fa'i" : {
+		"word" : "fa'i",
+		"selmaho" : "VUhU2",
+		"definition" : "unary mathematical operator: reciprocal; multiplicative inverse; [1/a].",
+		"english" : "reciprocal of"
+	},
+	"fa'o" : {
+		"word" : "fa'o",
+		"selmaho" : "FAhO",
+		"definition" : "unconditional end of text; outside regular grammar; used for computer input.",
+		"english" : "end of text"
+	},
+	"fa'u" : {
+		"word" : "fa'u",
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: respectively; unmixed ordered distributed association.",
+		"english" : "and respectively"
+	},
+	"fai" : {
+		"word" : "fai",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: tag a sumti moved out of numbered place structure; used in modal conversions.",
+		"english" : "extra sumti place"
+	},
+	"fau" : {
+		"word" : "fau",
+		"selmaho" : "BAI",
+		"definition" : "fasnu modal, 1st place (non-causal)               in the event of ...",
+		"english" : "in the event of"
+	},
+	"fe" : {
+		"word" : "fe",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: tag 2nd sumti place.",
+		"english" : "2nd sumti place"
+	},
+	"fe'a" : {
+		"word" : "fe'a",
+		"selmaho" : "VUhU3",
+		"definition" : "binary mathematical operator: nth root of; inverse power [a to the 1/b power].",
+		"english" : "nth root of"
+	},
+	"fe'e" : {
+		"word" : "fe'e",
+		"selmaho" : "FEhE",
+		"definition" : "mark space interval distributive aspects; labels interval tense modifiers as location-oriented.",
+		"english" : "space aspects"
+	},
+	"fe'i" : {
+		"word" : "fe'i",
+		"selmaho" : "VUhU1",
+		"definition" : "n-ary mathematical operator: divided by; division operator; [(((a / b) / c) / ...)].",
+		"english" : "divided by"
+	},
+	"fe'o" : {
+		"word" : "fe'o",
+		"selmaho" : "COI",
+		"definition" : "vocative: over and out (end discussion).",
+		"english" : "over and out"
+	},
+	"fe'u" : {
+		"word" : "fe'u",
+		"selmaho" : "FEhU",
+		"definition" : "elidable terminator: end nonce conversion of selbri to modal; usually elidable.",
+		"english" : "end modal selbri"
+	},
+	"fei" : {
+		"word" : "fei",
+		"selmaho" : "PA2",
+		"definition" : "digit/number: hex digit B (decimal 11) [eleven].",
+		"english" : "hex digit B"
+	},
+	"fi" : {
+		"word" : "fi",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: tag 3rd sumti place.",
+		"english" : "3rd sumti place"
+	},
+	"fi'a" : {
+		"word" : "fi'a",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: place structure number/tag question.",
+		"english" : "sumti place ?"
+	},
+	"fi'e" : {
+		"word" : "fi'e",
+		"selmaho" : "BAI",
+		"definition" : "finti modal, 1st place (creator)                  created by ...",
+		"english" : "created by"
+	},
+	"fi'i" : {
+		"word" : "fi'i",
+		"selmaho" : "COI",
+		"definition" : "vocative: hospitality - inhospitality; you are welcome/ make yourself at home.",
+		"english" : "hospitality"
+	},
+	"fi'o" : {
+		"word" : "fi'o",
+		"selmaho" : "FIhO",
+		"definition" : "convert selbri to nonce modal/sumti tag.",
+		"english" : "selbri to modal"
+	},
+	"fi'u" : {
+		"word" : "fi'u",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: fraction slash; default \"/n\" => 1/n, \"n/\" => n/1, or \"/\" alone => golden ratio.",
+		"english" : "fraction slash"
+	},
+	"fo" : {
+		"word" : "fo",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: tag 4th sumti place.",
+		"english" : "4th sumti place"
+	},
+	"fo'a" : {
+		"word" : "fo'a",
+		"rafsi" : ["fo'a"],
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #6 (specified by goi).",
+		"english" : "it-6"
+	},
+	"fo'e" : {
+		"word" : "fo'e",
+		"rafsi" : ["fo'e"],
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #7 (specified by goi).",
+		"english" : "it-7"
+	},
+	"fo'i" : {
+		"word" : "fo'i",
+		"rafsi" : ["fo'i"],
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #8 (specified by goi).",
+		"english" : "it-8"
+	},
+	"fo'o" : {
+		"word" : "fo'o",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #9 (specified by goi).",
+		"english" : "it-9"
+	},
+	"fo'u" : {
+		"word" : "fo'u",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #10 (specified by goi).",
+		"english" : "it-10"
+	},
+	"foi" : {
+		"word" : "foi",
+		"selmaho" : "FOI",
+		"definition" : "terminator: end composite lerfu; never elidable.",
+		"english" : "end composite lerfu"
+	},
+	"fu" : {
+		"word" : "fu",
+		"selmaho" : "FA",
+		"definition" : "sumti place tag: tag 5th sumti place.",
+		"english" : "5th sumti place"
+	},
+	"fu'a" : {
+		"word" : "fu'a",
+		"selmaho" : "FUhA",
+		"definition" : "reverse Polish mathematical expression (mex) operator flag.",
+		"english" : "reverse Polish"
+	},
+	"fu'e" : {
+		"word" : "fu'e",
+		"selmaho" : "FUhE",
+		"definition" : "begin indicator long scope.",
+		"english" : "indicator scope"
+	},
+	"fu'i" : {
+		"word" : "fu'i",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: easy - difficult.",
+		"notes" : "See also {frili}.",
+		"english" : "easy"
+	},
+	"fu'o" : {
+		"word" : "fu'o",
+		"selmaho" : "FUhO",
+		"definition" : "end indicator long scope; terminates scope of all active indicators.",
+		"english" : "end indicator scope"
+	},
+	"fu'u" : {
+		"word" : "fu'u",
+		"selmaho" : "VUhU0",
+		"definition" : "n-ary mathematical operator: elliptical/unspecified mathematical expression (mex) operator.",
+		"english" : "unspecif operator"
+	},
+	"fy" : {
+		"word" : "fy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for f.",
+		"english" : "f"
+	},
+	"ga" : {
+		"word" : "ga",
+		"selmaho" : "GA",
+		"definition" : "logical connective: forethought all but tanru-internal or (with gi).",
+		"english" : "fore or"
+	},
+	"ga'a" : {
+		"word" : "ga'a",
+		"selmaho" : "BAI",
+		"definition" : "zgana modal, 1st place                            to observer ... ; witnessed by ...",
+		"english" : "to observer"
+	},
+	"ga'e" : {
+		"word" : "ga'e",
+		"selmaho" : "BY1",
+		"definition" : "upper-case letteral shift.",
+		"english" : "upper-case shift"
+	},
+	"ga'i" : {
+		"word" : "ga'i",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of lower rank.",
+		"notes" : "See also {gapru}, {cnita}.",
+		"english" : "hauteur"
+	},
+	"ga'o" : {
+		"word" : "ga'o",
+		"selmaho" : "GAhO",
+		"definition" : "closed interval bracket marker; mod. intervals in non-logical connectives; include boundaries.",
+		"english" : "inclusive interval"
+	},
+	"ga'u" : {
+		"word" : "ga'u",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; upwards/up from ...",
+		"english" : "over"
+	},
+	"gai" : {
+		"word" : "gai",
+		"selmaho" : "PA2",
+		"definition" : "digit/number: hex digit C (decimal 12) [twelve].",
+		"english" : "hex digit C"
+	},
+	"gau" : {
+		"word" : "gau",
+		"selmaho" : "BAI",
+		"definition" : "gasnu modal, 1st place agent/actor case tag       with active agent ...",
+		"english" : "with active agent"
+	},
+	"ge" : {
+		"word" : "ge",
+		"selmaho" : "GA",
+		"definition" : "logical connective: forethought all but tanru-internal and (with gi).",
+		"english" : "fore and"
+	},
+	"ge'a" : {
+		"word" : "ge'a",
+		"selmaho" : "VUhU0",
+		"definition" : "mathematical operator: null mathematical expression (mex) operator (used in >2-ary ops).",
+		"english" : "null operator"
+	},
+	"ge'e" : {
+		"word" : "ge'e",
+		"selmaho" : "UI6",
+		"definition" : "attitudinal: elliptical/unspecified/non-specific emotion; no particular feeling.",
+		"english" : "well"
+	},
+	"ge'i" : {
+		"word" : "ge'i",
+		"selmaho" : "GA",
+		"definition" : "logical connective: forethought all but tanru-internal connective question (with gi).",
+		"english" : "fore conn ?"
+	},
+	"ge'o" : {
+		"word" : "ge'o",
+		"selmaho" : "BY1",
+		"definition" : "shift letterals to Greek alphabet.",
+		"english" : "Greek shift"
+	},
+	"ge'u" : {
+		"word" : "ge'u",
+		"selmaho" : "GEhU",
+		"definition" : "elidable terminator: end relative/modal phrases; usually elidable in non-complex phrases.",
+		"english" : "end relative phrase"
+	},
+	"gei" : {
+		"word" : "gei",
+		"selmaho" : "VUhU2",
+		"definition" : "trinary mathematical operator: order of magnitude/value/base; [b * (c to the a power)].",
+		"english" : "exponential notation"
+	},
+	"gi" : {
+		"word" : "gi",
+		"selmaho" : "GI",
+		"definition" : "logical connective: all but tanru-internal forethought connective medial marker.",
+		"english" : "connective medial"
+	},
+	"gi'a" : {
+		"word" : "gi'a",
+		"selmaho" : "GIhA",
+		"definition" : "logical connective: bridi-tail afterthought or.",
+		"english" : "bridi or"
+	},
+	"gi'e" : {
+		"word" : "gi'e",
+		"selmaho" : "GIhA",
+		"definition" : "logical connective: bridi-tail afterthought and.",
+		"english" : "bridi and"
+	},
+	"gi'i" : {
+		"word" : "gi'i",
+		"selmaho" : "GIhA",
+		"definition" : "logical connective: bridi-tail afterthought conn question.",
+		"english" : "bridi conn ?"
+	},
+	"gi'o" : {
+		"word" : "gi'o",
+		"selmaho" : "GIhA",
+		"definition" : "logical connective: bridi-tail afterthought biconditional/iff/if-and-only-if.",
+		"english" : "bridi iff"
+	},
+	"gi'u" : {
+		"word" : "gi'u",
+		"selmaho" : "GIhA",
+		"definition" : "logical connective: bridi-tail afterthought whether-or-not.",
+		"english" : "bridi whether"
+	},
+	"go" : {
+		"word" : "go",
+		"selmaho" : "GA",
+		"definition" : "logical connective: forethought all but tanru internal biconditional/iff/if-and-only-if(with gi).",
+		"english" : "fore iff"
+	},
+	"go'a" : {
+		"word" : "go'a",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: repeats a recent bridi (usually not the last 2).",
+		"english" : "recent bridi"
+	},
+	"go'e" : {
+		"word" : "go'e",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: repeats the next to last bridi.",
+		"english" : "penultimate bridi"
+	},
+	"go'i" : {
+		"word" : "go'i",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: preceding bridi; in answer to a yes/no question, repeats the claim, meaning yes.",
+		"english" : "last bridi"
+	},
+	"go'o" : {
+		"word" : "go'o",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: repeats a future bridi, normally the next one.",
+		"english" : "future bridi"
+	},
+	"go'u" : {
+		"word" : "go'u",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: repeats a remote past bridi.",
+		"english" : "earlier bridi"
+	},
+	"goi" : {
+		"word" : "goi",
+		"selmaho" : "GOI",
+		"definition" : "sumti assignment; used to define/assign ko'a/fo'a series pro-sumti; Latin 'sive'.",
+		"english" : "pro-sumti assign"
+	},
+	"gu" : {
+		"word" : "gu",
+		"selmaho" : "GA",
+		"definition" : "logical connective: forethought all but tanru-internal whether-or-not (with gi).",
+		"english" : "fore whether"
+	},
+	"gu'a" : {
+		"word" : "gu'a",
+		"selmaho" : "GUhA",
+		"definition" : "logical connective: tanru-internal forethought or (with gi).",
+		"english" : "fore tanru or"
+	},
+	"gu'e" : {
+		"word" : "gu'e",
+		"selmaho" : "GUhA",
+		"definition" : "logical connective: tanru-internal forethought and (with gi).",
+		"english" : "fore tanru and"
+	},
+	"gu'i" : {
+		"word" : "gu'i",
+		"selmaho" : "GUhA",
+		"definition" : "logical connective: tanru-internal forethought question (with gi).",
+		"english" : "fore tanru conn ?"
+	},
+	"gu'o" : {
+		"word" : "gu'o",
+		"selmaho" : "GUhA",
+		"definition" : "logical connective: tanru-internal forethought biconditional/iff/if-and-only-if (with gi).",
+		"english" : "fore tanru iff"
+	},
+	"gu'u" : {
+		"word" : "gu'u",
+		"selmaho" : "GUhA",
+		"definition" : "logical connective: tanru-internal forethought whether-or-not (with gi).",
+		"english" : "fore tanru whether"
+	},
+	"gy" : {
+		"word" : "gy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for g.",
+		"english" : "g"
+	},
+	"i" : {
+		"word" : "i",
+		"selmaho" : "I",
+		"definition" : "sentence link/continuation; continuing sentences on same topic; normally elided for new speakers.",
+		"english" : "sentence link"
+	},
+	"i'a" : {
+		"word" : "i'a",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: acceptance - blame.",
+		"notes" : "See also {nalna'e}, {nalpro}, {no'epro}, {nalzugjdi}.",
+		"english" : "acceptance"
+	},
+	"i'e" : {
+		"word" : "i'e",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: approval - non-approval - disapproval.",
+		"notes" : "See also {zanru}.",
+		"english" : "approval"
+	},
+	"i'i" : {
+		"word" : "i'i",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: togetherness - privacy.",
+		"notes" : "See also {kansa}, {gumna}, {sivni}, {sepli}.",
+		"english" : "togetherness"
+	},
+	"i'o" : {
+		"word" : "i'o",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: appreciation - envy.",
+		"notes" : "See also {ckire}, {jilra}.",
+		"english" : "appreciation"
+	},
+	"i'u" : {
+		"word" : "i'u",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: familiarity - mystery.",
+		"notes" : "See also {slabu}, {nalni'o}, {kufra}.",
+		"english" : "familiarity"
+	},
+	"ia" : {
+		"word" : "ia",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: belief - skepticism - disbelief.",
+		"notes" : "See also {krici}, {jinvi}.",
+		"english" : "belief"
+	},
+	"ie" : {
+		"word" : "ie",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: agreement - disagreement.",
+		"notes" : "See also {tugni}.",
+		"english" : "agreement"
+	},
+	"ii" : {
+		"word" : "ii",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: fear - security.",
+		"notes" : "See also {terpa}, {snura}.",
+		"english" : "fear"
+	},
+	"io" : {
+		"word" : "io",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: respect - disrespect.",
+		"notes" : "See also {sinma}.",
+		"english" : "respect"
+	},
+	"iu" : {
+		"word" : "iu",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: love - no love lost - hatred.",
+		"notes" : "See also {prami}.",
+		"english" : "love"
+	},
+	"ja" : {
+		"word" : "ja",
+		"rafsi" : ["jav"],
+		"selmaho" : "JA",
+		"definition" : "logical connective: tanru-internal afterthought or.",
+		"english" : "tanru or"
+	},
+	"ja'a" : {
+		"word" : "ja'a",
+		"selmaho" : "NA",
+		"definition" : "bridi logical affirmer; scope is an entire bridi.",
+		"english" : "bridi affirmer"
+	},
+	"ja'e" : {
+		"word" : "ja'e",
+		"selmaho" : "BAI",
+		"definition" : "jalge modal, 1st place                            resultingly; therefore result ...",
+		"english" : "therefore result"
+	},
+	"ja'i" : {
+		"word" : "ja'i",
+		"selmaho" : "BAI",
+		"definition" : "javni modal, 1st place (by standard 1)            orderly; by rule ...",
+		"english" : "by rule"
+	},
+	"ja'o" : {
+		"word" : "ja'o",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I conclude.",
+		"notes" : "See also {selni'i}, {ni'ikri}.",
+		"english" : "I conclude"
+	},
+	"jai" : {
+		"word" : "jai",
+		"selmaho" : "JAI",
+		"definition" : "convert tense/modal (tagged) place to 1st place; 1st place moves to extra FA place (fai).",
+		"english" : "modal conversion"
+	},
+	"jau" : {
+		"word" : "jau",
+		"selmaho" : "PA2",
+		"definition" : "digit/number: hex digit D (decimal 13) [thirteen].",
+		"english" : "hex digit D"
+	},
+	"je" : {
+		"word" : "je",
+		"rafsi" : ["jev", "jve"],
+		"selmaho" : "JA",
+		"definition" : "logical connective: tanru-internal afterthought and.",
+		"english" : "tanru and"
+	},
+	"je'a" : {
+		"word" : "je'a",
+		"selmaho" : "NAhE",
+		"definition" : "scalar affirmer; denies scalar negation: Indeed!.",
+		"english" : "scalar affirmer"
+	},
+	"je'e" : {
+		"word" : "je'e",
+		"selmaho" : "COI",
+		"definition" : "vocative: roger (ack) - negative acknowledge; used to acknowledge offers and thanks.",
+		"english" : "roger"
+	},
+	"je'i" : {
+		"word" : "je'i",
+		"selmaho" : "JA",
+		"definition" : "logical connective: tanru-internal afterthought conn question.",
+		"english" : "tanru conn ?"
+	},
+	"je'o" : {
+		"word" : "je'o",
+		"selmaho" : "BY1",
+		"definition" : "shift letterals to Hebrew alphabet.",
+		"english" : "Hebrew shift"
+	},
+	"je'u" : {
+		"word" : "je'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: truth - falsity.",
+		"notes" : "See also {jetnu}.",
+		"english" : "truth"
+	},
+	"jei" : {
+		"word" : "jei",
+		"rafsi" : ["jez"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: truth-value abstractor; x1 is truth value of [bridi] under epistemology x2.",
+		"english" : "truth abstract"
+	},
+	"ji" : {
+		"word" : "ji",
+		"selmaho" : "A",
+		"definition" : "logical connective: sumti afterthought connective question.",
+		"english" : "sumti conn ?"
+	},
+	"ji'a" : {
+		"word" : "ji'a",
+		"selmaho" : "UI3b",
+		"definition" : "discursive: additionally.",
+		"notes" : "See also {jmina}.",
+		"english" : "in addition"
+	},
+	"ji'e" : {
+		"word" : "ji'e",
+		"selmaho" : "BAI",
+		"definition" : "jimte modal, 1st place                            limitedly; up to limit ...",
+		"english" : "up to limit"
+	},
+	"ji'i" : {
+		"word" : "ji'i",
+		"selmaho" : "PA4",
+		"definition" : "digit/number: approximately (default the typical value in this context) (number).",
+		"english" : "approximately"
+	},
+	"ji'o" : {
+		"word" : "ji'o",
+		"selmaho" : "BAI",
+		"definition" : "jitro modal, 1st place (control)                  controlledly; under direction of ...",
+		"english" : "under direction of"
+	},
+	"ji'u" : {
+		"word" : "ji'u",
+		"selmaho" : "BAI",
+		"definition" : "jicmu modal, 1st place (assumptions);             given that ...; based on ...",
+		"english" : "based on"
+	},
+	"jo" : {
+		"word" : "jo",
+		"rafsi" : ["jov"],
+		"selmaho" : "JA",
+		"definition" : "logical connective: tanru-internal afterthought biconditional/iff/if-and-only-if.",
+		"english" : "tanru iff"
+	},
+	"jo'a" : {
+		"word" : "jo'a",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: metalinguistic affirmer.",
+		"notes" : "See also {drani}.",
+		"english" : "metalinguistic yes"
+	},
+	"jo'e" : {
+		"word" : "jo'e",
+		"rafsi" : ["jom"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: union of sets.",
+		"english" : "union"
+	},
+	"jo'i" : {
+		"word" : "jo'i",
+		"selmaho" : "JOhI",
+		"definition" : "join mathematical expression (mex) operands into an array.",
+		"english" : "array"
+	},
+	"jo'o" : {
+		"word" : "jo'o",
+		"selmaho" : "BY1",
+		"definition" : "shift letterals to Arabic alphabet.",
+		"english" : "Arabic shift"
+	},
+	"jo'u" : {
+		"word" : "jo'u",
+		"rafsi" : ["jo'u"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: in common with; along with (unmixed).",
+		"english" : "in common with"
+	},
+	"joi" : {
+		"word" : "joi",
+		"rafsi" : ["jol", "joi"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: mixed conjunction; \"and\" meaning \"mixed together\", forming a mass.",
+		"english" : "in a mass with"
+	},
+	"ju" : {
+		"word" : "ju",
+		"rafsi" : ["juv"],
+		"selmaho" : "JA",
+		"definition" : "logical connective: tanru-internal afterthought whether-or-not.",
+		"english" : "tanru whether"
+	},
+	"ju'a" : {
+		"word" : "ju'a",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I state - (default) elliptical/non-specific basis.",
+		"notes" : "See also {xusra}.",
+		"english" : "I state"
+	},
+	"ju'e" : {
+		"word" : "ju'e",
+		"selmaho" : "JOI",
+		"definition" : "vague non-logical connective: analogous to plain \".i\".",
+		"english" : "vague connective"
+	},
+	"ju'i" : {
+		"word" : "ju'i",
+		"selmaho" : "COI",
+		"definition" : "vocative: attention - at ease - ignore me.",
+		"english" : "attention"
+	},
+	"ju'o" : {
+		"word" : "ju'o",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: certainty - uncertainty - impossibility.",
+		"notes" : "See also {birti}, {cumki}.",
+		"english" : "certainty"
+	},
+	"ju'u" : {
+		"word" : "ju'u",
+		"selmaho" : "VUhU2",
+		"definition" : "binary mathematical operator: number base; [a interpreted in the base b].",
+		"english" : "number base"
+	},
+	"jy" : {
+		"word" : "jy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for j.",
+		"english" : "j"
+	},
+	"ka" : {
+		"word" : "ka",
+		"rafsi" : ["kam"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by [bridi].",
+		"english" : "property abstract"
+	},
+	"ka'a" : {
+		"word" : "ka'a",
+		"selmaho" : "BAI",
+		"definition" : "klama modal, 1st place                            gone to by ...",
+		"english" : "gone to by"
+	},
+	"ka'e" : {
+		"word" : "ka'e",
+		"selmaho" : "CAhA",
+		"definition" : "modal aspect: innate capability; possibly unrealized.",
+		"english" : "innately capable of"
+	},
+	"ka'i" : {
+		"word" : "ka'i",
+		"selmaho" : "BAI",
+		"definition" : "krati modal, 1st place                            represented by ...",
+		"english" : "represented by"
+	},
+	"ka'o" : {
+		"word" : "ka'o",
+		"selmaho" : "PA5",
+		"definition" : "digit/number: imaginary i; square root of -1.",
+		"english" : "imaginary i"
+	},
+	"ka'u" : {
+		"word" : "ka'u",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I know by cultural means (myth or custom).",
+		"notes" : "See also {kluju'o}.",
+		"english" : "I know culturally"
+	},
+	"kai" : {
+		"word" : "kai",
+		"selmaho" : "BAI",
+		"definition" : "ckaji modal, 1st place                            characterizing ...",
+		"english" : "characterizing"
+	},
+	"kau" : {
+		"word" : "kau",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: marks word serving as focus of indirect question: \"I know WHO went to the store\".",
+		"english" : "indirect question"
+	},
+	"ke" : {
+		"word" : "ke",
+		"rafsi" : ["kem"],
+		"selmaho" : "KE",
+		"definition" : "start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping.",
+		"notes" : "Cf. {ke'e}, {bo}.",
+		"english" : "start grouping"
+	},
+	"ke'a" : {
+		"word" : "ke'a",
+		"selmaho" : "KOhA7",
+		"definition" : "pro-sumti: relativized sumti (object of relative clause).",
+		"english" : "relativized it"
+	},
+	"ke'e" : {
+		"word" : "ke'e",
+		"rafsi" : ["kep", "ke'e"],
+		"selmaho" : "KEhE",
+		"definition" : "elidable terminator: end of tanru left grouping override (usually elidable).",
+		"english" : "end grouping"
+	},
+	"ke'i" : {
+		"word" : "ke'i",
+		"selmaho" : "GAhO",
+		"definition" : "open interval bracket marker; modifies intervals in non-logical connectives; exclude boundaries.",
+		"english" : "exclusive interval"
+	},
+	"ke'o" : {
+		"word" : "ke'o",
+		"selmaho" : "COI",
+		"definition" : "vocative: please repeat.",
+		"english" : "please repeat"
+	},
+	"ke'u" : {
+		"word" : "ke'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: repeating - continuing.",
+		"notes" : "See also {refbasna}, {krefu}, {rapli}, {velde'a}.",
+		"english" : "repeating"
+	},
+	"kei" : {
+		"word" : "kei",
+		"rafsi" : ["kez"],
+		"selmaho" : "KEI",
+		"definition" : "elidable terminator: end abstraction bridi (often elidable).",
+		"english" : "end abstraction"
+	},
+	"ki" : {
+		"word" : "ki",
+		"selmaho" : "KI",
+		"definition" : "tense/modal: set/use tense default; establishes new open scope space/time/modal reference base.",
+		"english" : "tense default"
+	},
+	"ki'a" : {
+		"word" : "ki'a",
+		"selmaho" : "UI6",
+		"definition" : "attitudinal question: confusion about something said.",
+		"notes" : "See also {cfipu}, {kucli}.",
+		"english" : "textual confusion"
+	},
+	"ki'e" : {
+		"word" : "ki'e",
+		"selmaho" : "COI",
+		"definition" : "vocative: thanks - no thanks to you.",
+		"english" : "thanks"
+	},
+	"ki'i" : {
+		"word" : "ki'i",
+		"selmaho" : "BAI",
+		"definition" : "ckini modal, 1st place (related to)               relatively; as a relation of ...",
+		"english" : "as a relation of"
+	},
+	"ki'o" : {
+		"word" : "ki'o",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: number comma; thousands.",
+		"english" : "number comma"
+	},
+	"ki'u" : {
+		"word" : "ki'u",
+		"selmaho" : "BAI",
+		"definition" : "krinu modal, 1st place (justified by)             justifiably; because of reason ...",
+		"english" : "as"
+	},
+	"ko" : {
+		"word" : "ko",
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: you (imperative); make it true for you, the listener.",
+		"english" : "imperative"
+	},
+	"ko'a" : {
+		"word" : "ko'a",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #1 (specified by goi).",
+		"english" : "it-1"
+	},
+	"ko'e" : {
+		"word" : "ko'e",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #2 (specified by goi).",
+		"english" : "it-2"
+	},
+	"ko'i" : {
+		"word" : "ko'i",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #3 (specified by goi).",
+		"english" : "it-3"
+	},
+	"ko'o" : {
+		"word" : "ko'o",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #4 (specified by goi).",
+		"english" : "it-4"
+	},
+	"ko'u" : {
+		"word" : "ko'u",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: he/she/it/they #5 (specified by goi).",
+		"english" : "it-5"
+	},
+	"koi" : {
+		"word" : "koi",
+		"selmaho" : "BAI",
+		"definition" : "korbi modal, 1st place (bordered by)              bounded by ...",
+		"english" : "bounded by"
+	},
+	"ku" : {
+		"word" : "ku",
+		"selmaho" : "KU",
+		"definition" : "elidable terminator: end description, modal, or negator sumti; often elidable.",
+		"english" : "end sumti"
+	},
+	"ku'a" : {
+		"word" : "ku'a",
+		"rafsi" : ["kuz"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: intersection of sets.",
+		"english" : "intersection"
+	},
+	"ku'e" : {
+		"word" : "ku'e",
+		"selmaho" : "KUhE",
+		"definition" : "elidable terminator: end mathematical (mex) forethought (Polish) expression; often elidable.",
+		"english" : "end mex forethought"
+	},
+	"ku'i" : {
+		"word" : "ku'i",
+		"selmaho" : "UI3b",
+		"definition" : "discursive: however/but/in contrast.",
+		"notes" : "See also {karbi}, {dukti}, {nalpanra}.",
+		"english" : "but"
+	},
+	"ku'o" : {
+		"word" : "ku'o",
+		"selmaho" : "KUhO",
+		"definition" : "elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses.",
+		"english" : "end relative clause"
+	},
+	"ku'u" : {
+		"word" : "ku'u",
+		"selmaho" : "BAI",
+		"definition" : "kulnu modal, 1st place                            in culture ...",
+		"english" : "in culture"
+	},
+	"ky" : {
+		"word" : "ky",
+		"selmaho" : "BY2",
+		"definition" : "letteral for k.",
+		"english" : "k"
+	},
+	"la" : {
+		"word" : "la",
+		"selmaho" : "LA",
+		"definition" : "name descriptor: the one(s) called ... ; takes name or selbri description.",
+		"english" : "that named"
+	},
+	"la'a" : {
+		"word" : "la'a",
+		"selmaho" : "UI3",
+		"definition" : "discursive: probability - improbability.",
+		"notes" : "See also {lakne}.",
+		"english" : "probability"
+	},
+	"la'e" : {
+		"word" : "la'e",
+		"selmaho" : "LAhE",
+		"definition" : "the referent of (indirect pointer); uses the referent of a sumti as the desired sumti.",
+		"english" : "the referent of"
+	},
+	"la'i" : {
+		"word" : "la'i",
+		"selmaho" : "LA",
+		"definition" : "name descriptor: the set of those named ... ; takes name or selbri description.",
+		"english" : "the set of named"
+	},
+	"la'o" : {
+		"word" : "la'o",
+		"selmaho" : "ZOI",
+		"definition" : "delimited non-Lojban name; the resulting quote sumti is treated as a name.",
+		"english" : "the non-Lojban named"
+	},
+	"la'u" : {
+		"word" : "la'u",
+		"selmaho" : "BAI",
+		"definition" : "klani modal, 1st place (amount)                   quantifying ...; being a quantity of ...",
+		"english" : "quantifying"
+	},
+	"lai" : {
+		"word" : "lai",
+		"selmaho" : "LA",
+		"definition" : "name descriptor: the mass of individual(s) named ... ; takes name or selbri description.",
+		"english" : "the mass of named"
+	},
+	"lau" : {
+		"word" : "lau",
+		"selmaho" : "LAU",
+		"definition" : "2-word letteral/shift: punctuation mark or special symbol follows.",
+		"english" : "punctuation mark"
+	},
+	"le" : {
+		"word" : "le",
+		"selmaho" : "LE",
+		"definition" : "non-veridical descriptor: the one(s) described as ...",
+		"english" : "the described"
+	},
+	"le'a" : {
+		"word" : "le'a",
+		"selmaho" : "BAI",
+		"definition" : "klesi modal, 1st place (scalar set)               in/of category ...",
+		"english" : "in category"
+	},
+	"le'e" : {
+		"word" : "le'e",
+		"rafsi" : ["lem"],
+		"selmaho" : "LE",
+		"definition" : "non-veridical descriptor: the stereotype of those described as ...",
+		"english" : "the stereotypical"
+	},
+	"le'i" : {
+		"word" : "le'i",
+		"selmaho" : "LE",
+		"definition" : "non-veridical descriptor: the set of those described as ..., treated as a set.",
+		"english" : "the set described"
+	},
+	"le'o" : {
+		"word" : "le'o",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: aggressive - passive - defensive.",
+		"notes" : "See also {gunta}, {bandu}.",
+		"english" : "aggressive"
+	},
+	"le'u" : {
+		"word" : "le'u",
+		"selmaho" : "LEhU",
+		"definition" : "end quote of questionable or out-of-context text; not elidable.",
+		"english" : "end error quote"
+	},
+	"lei" : {
+		"word" : "lei",
+		"selmaho" : "LE",
+		"definition" : "non-veridical descriptor: the mass of individual(s) described as ...",
+		"english" : "the mass described"
+	},
+	"li" : {
+		"word" : "li",
+		"selmaho" : "LI",
+		"definition" : "the number/evaluated expression; convert number/operand/evaluated math expression to sumti.",
+		"english" : "the number"
+	},
+	"li'a" : {
+		"word" : "li'a",
+		"selmaho" : "UI3",
+		"definition" : "discursive: clearly - obscurely.",
+		"notes" : "See also {klina}.",
+		"english" : "clearly"
+	},
+	"li'e" : {
+		"word" : "li'e",
+		"selmaho" : "BAI",
+		"definition" : "lidne modal, 1st place                            preceded by ...; non-time sequencing.",
+		"english" : "preceded by"
+	},
+	"li'i" : {
+		"word" : "li'i",
+		"rafsi" : ["liz"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: experience abstractor; x1 is x2's experience of [bridi] (participant or observer).",
+		"english" : "experience abstract"
+	},
+	"li'o" : {
+		"word" : "li'o",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: omitted text (quoted material).",
+		"english" : "omitted text"
+	},
+	"li'u" : {
+		"word" : "li'u",
+		"selmaho" : "LIhU",
+		"definition" : "elidable terminator: end grammatical quotation; seldom elidable except at end of text.",
+		"english" : "end quote"
+	},
+	"lo" : {
+		"word" : "lo",
+		"selmaho" : "LE",
+		"definition" : "veridical descriptor: the one(s) that really is(are) ...",
+		"notes" : "Under the xorlo reform, {lo} converts a selbri to a sumti in a rather generic way. In particular, lo broda = {zo'e} noi broda.",
+		"english" : "the really is"
+	},
+	"lo'a" : {
+		"word" : "lo'a",
+		"selmaho" : "BY1",
+		"definition" : "shift letterals to Lojban (Roman) alphabet.",
+		"english" : "Lojban shift"
+	},
+	"lo'e" : {
+		"word" : "lo'e",
+		"rafsi" : ["lom"],
+		"selmaho" : "LE",
+		"definition" : "veridical descriptor: the typical one(s) who really is(are) ...",
+		"english" : "the typical"
+	},
+	"lo'i" : {
+		"word" : "lo'i",
+		"selmaho" : "LE",
+		"definition" : "veridical descriptor: the set of those that really are ..., treated as a set.",
+		"english" : "the set really is"
+	},
+	"lo'o" : {
+		"word" : "lo'o",
+		"selmaho" : "LOhO",
+		"definition" : "elidable terminator: end math express.(mex) sumti; end mex-to-sumti conversion; usually elidable.",
+		"english" : "end mex sumti"
+	},
+	"lo'u" : {
+		"word" : "lo'u",
+		"selmaho" : "LOhU",
+		"definition" : "start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical.",
+		"english" : "error quote"
+	},
+	"loi" : {
+		"word" : "loi",
+		"selmaho" : "LE",
+		"definition" : "veridical descriptor: the mass of individual(s) that is(are) ...",
+		"english" : "the mass really is"
+	},
+	"lu" : {
+		"word" : "lu",
+		"selmaho" : "LU",
+		"definition" : "start grammatical quotation; quoted text should be grammatical on its own.",
+		"english" : "quote"
+	},
+	"lu'a" : {
+		"word" : "lu'a",
+		"selmaho" : "LAhE",
+		"definition" : "the members of the set/components of the mass; converts another description type to individuals.",
+		"english" : "the individuals of"
+	},
+	"lu'e" : {
+		"word" : "lu'e",
+		"selmaho" : "LAhE",
+		"definition" : "the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti.",
+		"english" : "the symbol for"
+	},
+	"lu'i" : {
+		"word" : "lu'i",
+		"selmaho" : "LAhE",
+		"definition" : "the set with members; converts another description type to a set of the members.",
+		"english" : "the set composed of"
+	},
+	"lu'o" : {
+		"word" : "lu'o",
+		"selmaho" : "LAhE",
+		"definition" : "the mass composed of; converts another description type to a mass composed of the members.",
+		"english" : "the mass composed of"
+	},
+	"lu'u" : {
+		"word" : "lu'u",
+		"selmaho" : "LUhU",
+		"definition" : "elidable terminator: end of sumti qualifiers; usually elidable except before a sumti.",
+		"english" : "end sumti qualifiers"
+	},
+	"ly" : {
+		"word" : "ly",
+		"selmaho" : "BY2",
+		"definition" : "letteral for l.",
+		"english" : "l"
+	},
+	"ma" : {
+		"word" : "ma",
+		"selmaho" : "KOhA7",
+		"definition" : "pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank.",
+		"english" : "sumti ?"
+	},
+	"ma'a" : {
+		"word" : "ma'a",
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: me/we the speaker(s)/author(s) & you the listener(s) & others unspecified.",
+		"english" : "we with you"
+	},
+	"ma'e" : {
+		"word" : "ma'e",
+		"selmaho" : "BAI",
+		"definition" : "marji modal, 1st place                            material in object/substance ...",
+		"english" : "material object"
+	},
+	"ma'i" : {
+		"word" : "ma'i",
+		"selmaho" : "BAI",
+		"definition" : "manri modal, 1st place (by standard 2)            in reference frame ...",
+		"english" : "in reference frame"
+	},
+	"ma'o" : {
+		"word" : "ma'o",
+		"selmaho" : "MAhO",
+		"definition" : "convert letteral string or other mathematical expression (mex) operand to mex operator.",
+		"english" : "operand to operator"
+	},
+	"ma'u" : {
+		"word" : "ma'u",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: plus sign; positive number; default any positive.",
+		"english" : "positive number"
+	},
+	"mai" : {
+		"word" : "mai",
+		"selmaho" : "MAI",
+		"definition" : "utterance ordinal suffix; converts a number to an ordinal, such as an item or paragraph number.",
+		"english" : "sentence ordinal"
+	},
+	"mau" : {
+		"word" : "mau",
+		"selmaho" : "BAI",
+		"definition" : "zmadu modal, 1st place (a greater)                exceeded by ... ; usually a sumti modifier.",
+		"english" : "exceeded by"
+	},
+	"me" : {
+		"word" : "me",
+		"selmaho" : "ME",
+		"definition" : "convert sumti to selbri/tanru element; x1 is specific to [sumti] in aspect x2.",
+		"english" : "sumti to selbri"
+	},
+	"me'a" : {
+		"word" : "me'a",
+		"selmaho" : "BAI",
+		"definition" : "mleca modal, 1st place (a lesser)                 undercut by ... ; usually a sumti modifier.",
+		"english" : "undercut by"
+	},
+	"me'e" : {
+		"word" : "me'e",
+		"selmaho" : "BAI",
+		"definition" : "cmene modal, 1st place (requires quote)           with name ...; so-called ...",
+		"english" : "with name"
+	},
+	"me'i" : {
+		"word" : "me'i",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: less than.",
+		"english" : "(No Gloss Word)"
+	},
+	"me'o" : {
+		"word" : "me'o",
+		"selmaho" : "LI",
+		"definition" : "the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti.",
+		"english" : "the mex"
+	},
+	"me'u" : {
+		"word" : "me'u",
+		"selmaho" : "MEhU",
+		"definition" : "elidable terminator: end sumti that was converted to selbri; usually elidable.",
+		"english" : "end sumti to selbri"
+	},
+	"mei" : {
+		"word" : "mei",
+		"rafsi" : ["mem", "mei"],
+		"selmaho" : "MOI",
+		"definition" : "convert number to cardinality selbri; x1 is the mass formed from set x2 whose n member(s) are x3.",
+		"notes" : "[x1 is a mass with N components x3 composing set x2; x2 is an n-tuple\n(x2 is completely specified) (= {selmei} for reordered places); x1 forms\nan n-some; x3 (not necessarily a complete enumeration) are among the\nmembers of x2]; See also {cmima}, {gunma}, cmavo list {moi}.",
+		"english" : "cardinal selbri"
+	},
+	"mi" : {
+		"word" : "mi",
+		"rafsi" : ["mib"],
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative.",
+		"english" : "me"
+	},
+	"mi'a" : {
+		"word" : "mi'a",
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: me/we the speaker(s)/author(s) & others unspecified, but not you, the listener.",
+		"english" : "we, not you"
+	},
+	"mi'e" : {
+		"word" : "mi'e",
+		"selmaho" : "COI",
+		"definition" : "self vocative: self-introduction - denial of identity; identifies speaker.",
+		"english" : "self-introduction"
+	},
+	"mi'i" : {
+		"word" : "mi'i",
+		"selmaho" : "BIhI",
+		"definition" : "non-logical interval connective: ordered components: ... center, ... range surrounding center.",
+		"english" : "center-range"
+	},
+	"mi'o" : {
+		"word" : "mi'o",
+		"selmaho" : "KOhA3",
+		"definition" : "pro-sumti: me/we the speaker(s)/author(s) & you the listener(s).",
+		"english" : "me and you"
+	},
+	"mi'u" : {
+		"word" : "mi'u",
+		"selmaho" : "UI3b",
+		"definition" : "discursive: ditto.",
+		"notes" : "See also {mintu}.",
+		"english" : "ditto"
+	},
+	"mo" : {
+		"word" : "mo",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: bridi/selbri/brivla question.",
+		"english" : "bridi ?"
+	},
+	"mo'a" : {
+		"word" : "mo'a",
+		"rafsi" : ["mob"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: too few; subjective.",
+		"english" : "not enough"
+	},
+	"mo'e" : {
+		"word" : "mo'e",
+		"selmaho" : "MOhE",
+		"definition" : "convert sumti to mex operand; sample use in story arithmetic: [3 apples] + [3 apples] = what.",
+		"english" : "sumti to operand"
+	},
+	"mo'i" : {
+		"word" : "mo'i",
+		"rafsi" : ["mov"],
+		"selmaho" : "MOhI",
+		"definition" : "mark motions in space-time.",
+		"english" : "space motion"
+	},
+	"mo'o" : {
+		"word" : "mo'o",
+		"selmaho" : "MAI",
+		"definition" : "higher-order utterance ordinal suffix; converts a number to ordinal, usually a section/chapter.",
+		"english" : "section ordinal"
+	},
+	"mo'u" : {
+		"word" : "mo'u",
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: at the natural ending point of ...; completive              |    >|<.",
+		"english" : "completive"
+	},
+	"moi" : {
+		"word" : "moi",
+		"rafsi" : ["mom", "moi"],
+		"selmaho" : "MOI",
+		"definition" : "convert number to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3.",
+		"english" : "ordinal selbri"
+	},
+	"mu" : {
+		"word" : "mu",
+		"rafsi" : ["mum"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 5 (digit) [five].",
+		"english" : "5"
+	},
+	"mu'a" : {
+		"word" : "mu'a",
+		"selmaho" : "UI3",
+		"definition" : "discursive: for example - omitting - end examples.",
+		"notes" : "See also {mupli}.",
+		"english" : "for example"
+	},
+	"mu'e" : {
+		"word" : "mu'e",
+		"rafsi" : ["muf"],
+		"selmaho" : "NU1",
+		"definition" : "abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of [bridi].",
+		"english" : "point-event abstract"
+	},
+	"mu'i" : {
+		"word" : "mu'i",
+		"selmaho" : "BAI",
+		"definition" : "mukti modal, 1st place                            because of motive ...",
+		"english" : "because of motive"
+	},
+	"mu'o" : {
+		"word" : "mu'o",
+		"selmaho" : "COI",
+		"definition" : "vocative: over (response OK) - more to come.",
+		"english" : "over"
+	},
+	"mu'u" : {
+		"word" : "mu'u",
+		"selmaho" : "BAI",
+		"definition" : "mupli modal, 1st place                            exemplified by ...",
+		"english" : "exemplified by"
+	},
+	"my" : {
+		"word" : "my",
+		"selmaho" : "BY2",
+		"definition" : "letteral for m.",
+		"english" : "m"
+	},
+	"na" : {
+		"word" : "na",
+		"rafsi" : ["nar"],
+		"selmaho" : "NA",
+		"definition" : "bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds.",
+		"english" : "bridi negator"
+	},
+	"na'a" : {
+		"word" : "na'a",
+		"selmaho" : "BY1",
+		"definition" : "cancel all letteral shifts.",
+		"english" : "cancel shifts"
+	},
+	"na'e" : {
+		"word" : "na'e",
+		"rafsi" : ["nal"],
+		"selmaho" : "NAhE",
+		"definition" : "contrary scalar negator: other than ...; not ...; a scale or set is implied.",
+		"english" : "scalar contrary"
+	},
+	"na'i" : {
+		"word" : "na'i",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: metalinguistic negator.",
+		"notes" : "See also {naldra}, {nalmapti}.",
+		"english" : "metalinguistic not"
+	},
+	"na'o" : {
+		"word" : "na'o",
+		"selmaho" : "TAhE",
+		"definition" : "tense interval modifier: characteristically/typically; tense/modal; defaults as time tense.",
+		"english" : "typically"
+	},
+	"na'u" : {
+		"word" : "na'u",
+		"selmaho" : "NAhU",
+		"definition" : "convert selbri to mex operator; used to create less-used operators using le'avla, lujvo, etc.",
+		"english" : "selbri to operator"
+	},
+	"nai" : {
+		"word" : "nai",
+		"selmaho" : "NAI",
+		"definition" : "attached to cmavo to negate them; various negation-related meanings.",
+		"english" : "negate last word"
+	},
+	"nau" : {
+		"word" : "nau",
+		"selmaho" : "CUhE",
+		"definition" : "tense: refers to current space/time reference absolutely.",
+		"english" : "reference point"
+	},
+	"ne" : {
+		"word" : "ne",
+		"selmaho" : "GOI",
+		"definition" : "non-restrictive relative phrase marker: which incidentally is associated with ...",
+		"english" : "incidental phrase"
+	},
+	"ne'a" : {
+		"word" : "ne'a",
+		"selmaho" : "FAhA3",
+		"definition" : "location tense relation/direction; approximating/next to ...",
+		"english" : "next to"
+	},
+	"ne'i" : {
+		"word" : "ne'i",
+		"selmaho" : "FAhA3",
+		"definition" : "location tense relation/direction; within/inside of/into ...",
+		"english" : "within"
+	},
+	"ne'o" : {
+		"word" : "ne'o",
+		"selmaho" : "VUhU3",
+		"definition" : "unary mathematical operator: factorial; a!.",
+		"english" : "factorial"
+	},
+	"ne'u" : {
+		"word" : "ne'u",
+		"selmaho" : "FAhA1",
+		"definition" : "location tense relation/direction; south of.",
+		"english" : "south of"
+	},
+	"nei" : {
+		"word" : "nei",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: repeats the current bridi.",
+		"english" : "current bridi"
+	},
+	"ni" : {
+		"word" : "ni",
+		"rafsi" : ["nil"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: quantity/amount abstractor; x1 is quantity/amount of [bridi] measured on scale x2.",
+		"english" : "amount abstract"
+	},
+	"ni'a" : {
+		"word" : "ni'a",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; downwards/down from ...",
+		"english" : "below"
+	},
+	"ni'e" : {
+		"word" : "ni'e",
+		"selmaho" : "NIhE",
+		"definition" : "convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. \"herd\" of oxen.",
+		"english" : "selbri to operand"
+	},
+	"ni'i" : {
+		"word" : "ni'i",
+		"selmaho" : "BAI",
+		"definition" : "nibli modal, 1st place                            logically; logically because ...",
+		"english" : "because of logic"
+	},
+	"ni'o" : {
+		"word" : "ni'o",
+		"selmaho" : "NIhO",
+		"definition" : "discursive: paragraph break; introduce new topic.",
+		"english" : "new topic"
+	},
+	"ni'u" : {
+		"word" : "ni'u",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: minus sign; negative number); default any negative.",
+		"english" : "negative number"
+	},
+	"no" : {
+		"word" : "no",
+		"rafsi" : ["non"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 0 (digit) [zero].",
+		"english" : "0"
+	},
+	"no'a" : {
+		"word" : "no'a",
+		"selmaho" : "GOhA",
+		"definition" : "pro-bridi: repeats the bridi in which this one is embedded.",
+		"english" : "next outer bridi"
+	},
+	"no'e" : {
+		"word" : "no'e",
+		"rafsi" : ["nor", "no'e"],
+		"selmaho" : "NAhE",
+		"definition" : "midpoint scalar negator: neutral point between je'a and to'e; \"not really\".",
+		"english" : "scalar midpoint not"
+	},
+	"no'i" : {
+		"word" : "no'i",
+		"selmaho" : "NIhO",
+		"definition" : "discursive: paragraph break; resume previous topic.",
+		"english" : "old topic"
+	},
+	"no'o" : {
+		"word" : "no'o",
+		"selmaho" : "PA5",
+		"definition" : "digit/number: typical/average value.",
+		"english" : "typical value"
+	},
+	"no'u" : {
+		"word" : "no'u",
+		"selmaho" : "GOI",
+		"definition" : "non-restrictive appositive phrase marker: which incidentally is the same thing as ...",
+		"english" : "incidental identity"
+	},
+	"noi" : {
+		"word" : "noi",
+		"selmaho" : "NOI",
+		"definition" : "non-restrictive relative clause; attaches subordinate bridi with incidental information.",
+		"english" : "incidental clause"
+	},
+	"nu" : {
+		"word" : "nu",
+		"rafsi" : ["nun"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: generalized event abstractor; x1 is state/process/achievement/activity of [bridi].",
+		"english" : "event abstract"
+	},
+	"nu'a" : {
+		"word" : "nu'a",
+		"selmaho" : "NUhA",
+		"definition" : "convert mathematical expression (mex) operator to a selbri/tanru component.",
+		"english" : "operator to selbri"
+	},
+	"nu'e" : {
+		"word" : "nu'e",
+		"selmaho" : "COI",
+		"definition" : "vocative: promise - promise release - un-promise.",
+		"english" : "promise"
+	},
+	"nu'i" : {
+		"word" : "nu'i",
+		"selmaho" : "NUhI",
+		"definition" : "start forethought termset construct; marks start of place structure set with logical connection.",
+		"english" : "start fore termset"
+	},
+	"nu'o" : {
+		"word" : "nu'o",
+		"rafsi" : ["nu'o"],
+		"selmaho" : "CAhA",
+		"definition" : "modal aspect: can but has not; unrealized potential.",
+		"english" : "can but has not"
+	},
+	"nu'u" : {
+		"word" : "nu'u",
+		"selmaho" : "NUhU",
+		"definition" : "elidable terminator: end forethought termset; usually elidable except with following sumti.",
+		"english" : "end fore termset"
+	},
+	"ny" : {
+		"word" : "ny",
+		"selmaho" : "BY2",
+		"definition" : "letteral for n.",
+		"english" : "n"
+	},
+	"o" : {
+		"word" : "o",
+		"selmaho" : "A",
+		"definition" : "logical connective: sumti afterthought biconditional/iff/if-and-only-if.",
+		"english" : "sumti iff"
+	},
+	"o'a" : {
+		"word" : "o'a",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: pride - modesty/humility - shame.",
+		"notes" : "See also {jgira}, {cumla}, {ckeji}.",
+		"english" : "pride"
+	},
+	"o'e" : {
+		"word" : "o'e",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: closeness - distance.",
+		"notes" : "See also {cnijbi}, {cnikansa}.",
+		"english" : "closeness"
+	},
+	"o'i" : {
+		"word" : "o'i",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: caution - rashness.",
+		"notes" : "See also {capyrivbi}, {capfanta}, {srerivbi}, {srefanta}, {naldarsi}, {seljde}.",
+		"english" : "caution"
+	},
+	"o'o" : {
+		"word" : "o'o",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: patience - mere tolerance - anger.",
+		"notes" : "See also {fengu}, {to'ersteba}, {de'acni}",
+		"english" : "patience"
+	},
+	"o'u" : {
+		"word" : "o'u",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: relaxation - composure - stress.",
+		"notes" : "See also {surla}, {cnilanxe}, {dunku}.",
+		"english" : "relaxation"
+	},
+	"oi" : {
+		"word" : "oi",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: complaint - pleasure.",
+		"notes" : "See also {pante}, {pluka}, {kufra}.",
+		"english" : "complaint"
+	},
+	"pa" : {
+		"word" : "pa",
+		"rafsi" : ["pav"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 1 (digit) [one].",
+		"english" : "1"
+	},
+	"pa'a" : {
+		"word" : "pa'a",
+		"selmaho" : "BAI",
+		"definition" : "panra modal, 1st place (parallel; shared property) similarly; in addition to ...",
+		"english" : "in addition to"
+	},
+	"pa'e" : {
+		"word" : "pa'e",
+		"selmaho" : "UI3",
+		"definition" : "discursive: justice - prejudice.",
+		"notes" : "See also {tcinydracu'a}, {tcinydrapai}, {vudypai}.",
+		"english" : "justice"
+	},
+	"pa'i" : {
+		"word" : "pa'i",
+		"selmaho" : "VUhU2",
+		"definition" : "binary mathematical operator: ratio; [the ratio of a to b].",
+		"english" : "ratio"
+	},
+	"pa'o" : {
+		"word" : "pa'o",
+		"selmaho" : "FAhA3",
+		"definition" : "location tense relation/direction; transfixing/passing through ...",
+		"english" : "through"
+	},
+	"pa'u" : {
+		"word" : "pa'u",
+		"selmaho" : "BAI",
+		"definition" : "pagbu modal, 1st place                            having component ...",
+		"english" : "having component"
+	},
+	"pai" : {
+		"word" : "pai",
+		"selmaho" : "PA5",
+		"definition" : "digit/number: pi (approximately 3.1416...).",
+		"english" : "pi"
+	},
+	"pau" : {
+		"word" : "pau",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: optional question premarker.",
+		"notes" : "See also {preti}.",
+		"english" : "question follows"
+	},
+	"pe" : {
+		"word" : "pe",
+		"selmaho" : "GOI",
+		"definition" : "restrictive relative phrase marker: which is associated with ...; loosest associative/possessive.",
+		"english" : "restrictive phrase"
+	},
+	"pe'a" : {
+		"word" : "pe'a",
+		"rafsi" : ["pev"],
+		"selmaho" : "UI3c",
+		"definition" : "marks a construct as figurative (non-literal/metaphorical) speech/text.",
+		"english" : "figurative"
+	},
+	"pe'e" : {
+		"word" : "pe'e",
+		"selmaho" : "PEhE",
+		"definition" : "marks the following connective as joining termsets.",
+		"english" : "termset conn mark"
+	},
+	"pe'i" : {
+		"word" : "pe'i",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I opine (subjective claim).",
+		"notes" : "                  See also {jinvi}.",
+		"english" : "I opine"
+	},
+	"pe'o" : {
+		"word" : "pe'o",
+		"selmaho" : "PEhO",
+		"definition" : "forethought flag for mathematical expression (mex) Polish (forethought) operator.",
+		"english" : "fore mex operator"
+	},
+	"pe'u" : {
+		"word" : "pe'u",
+		"selmaho" : "COI",
+		"definition" : "vocative: please.",
+		"english" : "please"
+	},
+	"pei" : {
+		"word" : "pei",
+		"selmaho" : "CAI",
+		"definition" : "attitudinal: attitudinal question; how do you feel about it? with what intensity?.",
+		"english" : "emotion ?"
+	},
+	"pi" : {
+		"word" : "pi",
+		"rafsi" : ["piz"],
+		"selmaho" : "PA3",
+		"definition" : "digit/number: radix (number base) point; default decimal.",
+		"english" : "decimal point"
+	},
+	"pi'a" : {
+		"word" : "pi'a",
+		"selmaho" : "VUhU4",
+		"definition" : "n-ary mathematical operator: operands are vectors to be treated as matrix rows.",
+		"english" : "matrix of rows"
+	},
+	"pi'e" : {
+		"word" : "pi'e",
+		"selmaho" : "PA3",
+		"definition" : "digit/number:separates digits for base >16, not current standard, or variable (e.g. time, date).",
+		"english" : "digit separator"
+	},
+	"pi'i" : {
+		"word" : "pi'i",
+		"selmaho" : "VUhU1",
+		"definition" : "n-ary mathematical operator: times; multiplication operator; [(((a * b) * c) * ...)].",
+		"english" : "times"
+	},
+	"pi'o" : {
+		"word" : "pi'o",
+		"selmaho" : "BAI",
+		"definition" : "pilno modal, 1st place                            used by ...",
+		"english" : "used by"
+	},
+	"pi'u" : {
+		"word" : "pi'u",
+		"rafsi" : ["piv"],
+		"selmaho" : "JOI",
+		"definition" : "non-logical connective: cross product; Cartesian product of sets.",
+		"english" : "cross product"
+	},
+	"po" : {
+		"word" : "po",
+		"selmaho" : "GOI",
+		"definition" : "restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal.",
+		"english" : "is specific to"
+	},
+	"po'e" : {
+		"word" : "po'e",
+		"selmaho" : "GOI",
+		"definition" : "restrictive relative phrase marker: which belongs to ... ; inalienable possession.",
+		"english" : "which belongs to"
+	},
+	"po'i" : {
+		"word" : "po'i",
+		"selmaho" : "BAI",
+		"definition" : "porsi modal, 1st place (in order)                 sequentially; in the sequence ...",
+		"english" : "in the sequence"
+	},
+	"po'o" : {
+		"word" : "po'o",
+		"selmaho" : "UI3b",
+		"definition" : "discursive: uniquely, only, solely: the only relevant case.",
+		"notes" : "See also {pamei}, {mulno}, {frica}.",
+		"english" : "uniquely"
+	},
+	"po'u" : {
+		"word" : "po'u",
+		"selmaho" : "GOI",
+		"definition" : "restrictive appositive phrase marker: which is the same thing as.",
+		"english" : "restrictive identity"
+	},
+	"poi" : {
+		"word" : "poi",
+		"selmaho" : "NOI",
+		"definition" : "restrictive relative clause; attaches subordinate bridi with identifying information to a sumti.",
+		"english" : "restrictive clause"
+	},
+	"pu" : {
+		"word" : "pu",
+		"selmaho" : "PU",
+		"definition" : "time tense relation/direction: did [selbri]; before/prior to [sumti]; default past tense.",
+		"english" : "before"
+	},
+	"pu'a" : {
+		"word" : "pu'a",
+		"selmaho" : "BAI",
+		"definition" : "pluka modal, 1st place                            pleased by ...",
+		"english" : "pleased by"
+	},
+	"pu'e" : {
+		"word" : "pu'e",
+		"selmaho" : "BAI",
+		"definition" : "pruce modal, 1st place (in manner 1)              by process ...",
+		"english" : "by process"
+	},
+	"pu'i" : {
+		"word" : "pu'i",
+		"rafsi" : ["pus"],
+		"selmaho" : "CAhA",
+		"definition" : "modal aspect: can and has; demonstrated potential.",
+		"english" : "can and has"
+	},
+	"pu'o" : {
+		"word" : "pu'o",
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: in anticipation of ...;  until ... ; inchoative         ----|     |.",
+		"english" : "anticipative"
+	},
+	"pu'u" : {
+		"word" : "pu'u",
+		"rafsi" : ["puv"],
+		"selmaho" : "NU1",
+		"definition" : "abstractor: process (event) abstractor; x1 is process of [bridi] proceeding in stages x2.",
+		"english" : "process abstract"
+	},
+	"py" : {
+		"word" : "py",
+		"selmaho" : "BY2",
+		"definition" : "letteral for p.",
+		"english" : "p"
+	},
+	"ra" : {
+		"word" : "ra",
+		"selmaho" : "KOhA5",
+		"definition" : "pro-sumti: a recent sumti before the last one, as determined by back-counting rules.",
+		"english" : "recent sumti"
+	},
+	"ra'a" : {
+		"word" : "ra'a",
+		"selmaho" : "BAI",
+		"definition" : "srana modal, 1st place                            pertained to by ... (generally more specific).",
+		"english" : "pertained to by"
+	},
+	"ra'e" : {
+		"word" : "ra'e",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: repeating digits (of a decimal) follow.",
+		"english" : "repeating decimal"
+	},
+	"ra'i" : {
+		"word" : "ra'i",
+		"selmaho" : "BAI",
+		"definition" : "krasi modal, 1st place                            from source/origin/starting point ...",
+		"english" : "from"
+	},
+	"ra'o" : {
+		"word" : "ra'o",
+		"selmaho" : "RAhO",
+		"definition" : "flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi.",
+		"english" : "pro-assign update"
+	},
+	"ra'u" : {
+		"word" : "ra'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: chiefly - equally - incidentally.",
+		"notes" : "See also {ralju}, {vajni}.",
+		"english" : "chiefly"
+	},
+	"rai" : {
+		"word" : "rai",
+		"selmaho" : "BAI",
+		"definition" : "traji modal, 1st place                            with superlative ...",
+		"english" : "with superlative"
+	},
+	"rau" : {
+		"word" : "rau",
+		"selmaho" : "PA4",
+		"definition" : "digit/number: enough; subjective.",
+		"english" : "enough"
+	},
+	"re" : {
+		"word" : "re",
+		"rafsi" : ["rel"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 2 (digit) [two].",
+		"english" : "two"
+	},
+	"re'a" : {
+		"word" : "re'a",
+		"selmaho" : "VUhU4",
+		"definition" : "unary mathematical operator: matrix transpose/dual; A*.",
+		"english" : "transpose"
+	},
+	"re'e" : {
+		"word" : "re'e",
+		"selmaho" : "UI4",
+		"definition" : "emotion category/modifier: religious/spiritual/worship - sacrilege.",
+		"notes" : "See also {lijda}.",
+		"english" : "spiritual"
+	},
+	"re'i" : {
+		"word" : "re'i",
+		"selmaho" : "COI",
+		"definition" : "vocative: ready to receive - not ready to receive.",
+		"english" : "ready to receive"
+	},
+	"re'o" : {
+		"word" : "re'o",
+		"selmaho" : "FAhA3",
+		"definition" : "location tense relation/direction; adjacent to/touching/contacting ...",
+		"english" : "adjacent to"
+	},
+	"re'u" : {
+		"word" : "re'u",
+		"selmaho" : "ROI",
+		"definition" : "converts number to an objectively quantified ordinal tense interval modifier; defaults to time.",
+		"english" : "ordinal tense"
+	},
+	"rei" : {
+		"word" : "rei",
+		"selmaho" : "PA2",
+		"definition" : "digit/number: hex digit E (decimal 14) [fourteen].",
+		"english" : "hex digit E"
+	},
+	"ri" : {
+		"word" : "ri",
+		"selmaho" : "KOhA5",
+		"definition" : "pro-sumti: the last sumti, as determined by back-counting rules.",
+		"english" : "last sumti"
+	},
+	"ri'a" : {
+		"word" : "ri'a",
+		"selmaho" : "BAI",
+		"definition" : "rinka modal, 1st place (phys./mental)             causal because ...",
+		"english" : "because of cause"
+	},
+	"ri'e" : {
+		"word" : "ri'e",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: release of emotion - emotion restraint.",
+		"notes" : "See also {cniri'u}, {cnicru}.",
+		"english" : "release of emotion"
+	},
+	"ri'i" : {
+		"word" : "ri'i",
+		"selmaho" : "BAI",
+		"definition" : "lifri modal, 1st place patient/passive case tag; happens to...,experienced by...,with passive...",
+		"english" : "experienced by"
+	},
+	"ri'o" : {
+		"word" : "ri'o",
+		"selmaho" : "VUhU4",
+		"definition" : "trinary mathematical operator: [integral of a with respect to b over range c].",
+		"english" : "integral"
+	},
+	"ri'u" : {
+		"word" : "ri'u",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; rightwards/to the right of ...",
+		"english" : "on the right of"
+	},
+	"ro" : {
+		"word" : "ro",
+		"rafsi" : ["rol"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: each, all.",
+		"english" : "each"
+	},
+	"ro'a" : {
+		"word" : "ro'a",
+		"selmaho" : "UI4",
+		"definition" : "emotion category/modifier: social - antisocial.",
+		"notes" : "See also {jikca}.",
+		"english" : "social"
+	},
+	"ro'e" : {
+		"word" : "ro'e",
+		"selmaho" : "UI4",
+		"definition" : "emotion category/modifier: mental - mindless.",
+		"notes" : "See also {menli}.",
+		"english" : "mental"
+	},
+	"ro'i" : {
+		"word" : "ro'i",
+		"selmaho" : "UI4",
+		"definition" : "emotion category/modifier: emotional - denying emotion.",
+		"notes" : "See also {cinmo}.",
+		"english" : "emotional"
+	},
+	"ro'o" : {
+		"word" : "ro'o",
+		"selmaho" : "UI4",
+		"definition" : "emotion category/modifier: physical - denying physical.",
+		"notes" : "See also {xadni}.",
+		"english" : "physical"
+	},
+	"ro'u" : {
+		"word" : "ro'u",
+		"selmaho" : "UI4",
+		"definition" : "emotion category/modifier: sexual - sexual abstinence.",
+		"notes" : "See also {cinse}.",
+		"english" : "sexual"
+	},
+	"roi" : {
+		"word" : "roi",
+		"rafsi" : ["rom", "roi"],
+		"selmaho" : "ROI",
+		"definition" : "converts number to an objectively quantified tense interval modifier; defaults to time tense.",
+		"english" : "quantified tense"
+	},
+	"ru" : {
+		"word" : "ru",
+		"selmaho" : "KOhA5",
+		"definition" : "pro-sumti: a remote past sumti, before all other in-use backcounting sumti.",
+		"english" : "earlier sumti"
+	},
+	"ru'a" : {
+		"word" : "ru'a",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I postulate.",
+		"notes" : "See also {sruma}.",
+		"english" : "I postulate"
+	},
+	"ru'e" : {
+		"word" : "ru'e",
+		"selmaho" : "CAI",
+		"definition" : "attitudinal: weak intensity attitude modifier.",
+		"english" : "weak emotion"
+	},
+	"ru'i" : {
+		"word" : "ru'i",
+		"selmaho" : "TAhE",
+		"definition" : "tense interval modifier: continuously; subjective tense/modal; defaults as time tense.",
+		"english" : "continuously"
+	},
+	"ru'o" : {
+		"word" : "ru'o",
+		"selmaho" : "BY1",
+		"definition" : "shift letterals to Cyrillic alphabet.",
+		"english" : "Cyrillic shift"
+	},
+	"ru'u" : {
+		"word" : "ru'u",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; surrounding/annular ...",
+		"english" : "surrounding"
+	},
+	"ry" : {
+		"word" : "ry",
+		"selmaho" : "BY2",
+		"definition" : "letteral for r.",
+		"english" : "r"
+	},
+	"sa" : {
+		"word" : "sa",
+		"selmaho" : "SA",
+		"definition" : "erase complete or partial utterance; next word shows how much erasing to do.",
+		"english" : "erase utterance"
+	},
+	"sa'a" : {
+		"word" : "sa'a",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: material inserted by editor/narrator (bracketed text).",
+		"notes" : "See also {setca}.",
+		"english" : "editorial insertion"
+	},
+	"sa'e" : {
+		"word" : "sa'e",
+		"selmaho" : "UI3",
+		"definition" : "discursive: precisely speaking - loosely speaking.",
+		"notes" : "See also {satci}, {jibni}.",
+		"english" : "precisely speaking"
+	},
+	"sa'i" : {
+		"word" : "sa'i",
+		"selmaho" : "VUhU4",
+		"definition" : "n-ary mathematical operator: operands are vectors to be treated as matrix columns.",
+		"english" : "matrix of columns"
+	},
+	"sa'o" : {
+		"word" : "sa'o",
+		"selmaho" : "VUhU4",
+		"definition" : "trinary mathematical operator: [derivative of a with respect to b of degree c].",
+		"english" : "derivative"
+	},
+	"sa'u" : {
+		"word" : "sa'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: simply - elaborating.",
+		"notes" : "See also {sampu}, {pluja}.",
+		"english" : "simply speaking"
+	},
+	"sai" : {
+		"word" : "sai",
+		"selmaho" : "CAI",
+		"definition" : "attitudinal: moderate intensity attitude modifier.",
+		"english" : "strong emotion"
+	},
+	"sau" : {
+		"word" : "sau",
+		"selmaho" : "BAI",
+		"definition" : "sarcu modal, 1st place                            requiring ...",
+		"english" : "requiring"
+	},
+	"se" : {
+		"word" : "se",
+		"rafsi" : ["sel"],
+		"selmaho" : "SE",
+		"definition" : "2nd conversion; switch 1st/2nd places.",
+		"english" : "2nd conversion"
+	},
+	"se'a" : {
+		"word" : "se'a",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: self-sufficiency - dependency.",
+		"notes" : "See also {sezysei}, {kantcu}.",
+		"english" : "self-sufficiency"
+	},
+	"se'e" : {
+		"word" : "se'e",
+		"selmaho" : "BY1",
+		"definition" : "following digits code a character (in ASCII, Unicode, etc.).",
+		"english" : "character code"
+	},
+	"se'i" : {
+		"word" : "se'i",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: self-oriented - other-oriented.",
+		"notes" : "See also {sevzi}, {drata}.",
+		"english" : "self-oriented"
+	},
+	"se'o" : {
+		"word" : "se'o",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I know by internal experience (dream, vision, or personal revelation).",
+		"notes" : "See also {senva}.",
+		"english" : "I know internally"
+	},
+	"se'u" : {
+		"word" : "se'u",
+		"selmaho" : "SEhU",
+		"definition" : "elidable terminator: end discursive bridi or mathematical precedence;usually elidable.",
+		"english" : "end discursive"
+	},
+	"sei" : {
+		"word" : "sei",
+		"selmaho" : "SEI",
+		"definition" : "start discursive (metalinguistic) bridi.",
+		"english" : "discursive bridi"
+	},
+	"si" : {
+		"word" : "si",
+		"selmaho" : "SI",
+		"definition" : "erase the last Lojban word, treating non-Lojban text as a single word.",
+		"english" : "erase word"
+	},
+	"si'a" : {
+		"word" : "si'a",
+		"selmaho" : "UI3b",
+		"definition" : "discursive: similarly.",
+		"notes" : "See also {simsa}, {panra}.",
+		"english" : "similarly"
+	},
+	"si'e" : {
+		"word" : "si'e",
+		"selmaho" : "MOI",
+		"definition" : "convert number to portion selbri; x1 is an (n)th portion of mass/totality x2; (cf. gunma).",
+		"english" : "portion selbri"
+	},
+	"si'i" : {
+		"word" : "si'i",
+		"selmaho" : "VUhU4",
+		"definition" : "trinary mathematical operator: [sigma summation of a using variable b over range c].",
+		"english" : "sigma summation"
+	},
+	"si'o" : {
+		"word" : "si'o",
+		"rafsi" : ["siz"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: idea/concept abstractor; x1 is x2's concept of [bridi].",
+		"english" : "concept abstract"
+	},
+	"si'u" : {
+		"word" : "si'u",
+		"selmaho" : "BAI",
+		"definition" : "sidju modal, 1st place (aiding agent)             aided by ...",
+		"english" : "aided by"
+	},
+	"so" : {
+		"word" : "so",
+		"rafsi" : ["soz"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 9 (digit) [nine].",
+		"english" : "9"
+	},
+	"so'a" : {
+		"word" : "so'a",
+		"rafsi" : ["soj"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: almost all (digit/number).",
+		"english" : "almost all"
+	},
+	"so'e" : {
+		"word" : "so'e",
+		"rafsi" : ["sop"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: most.",
+		"english" : "most"
+	},
+	"so'i" : {
+		"word" : "so'i",
+		"rafsi" : ["sor", "so'i"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: many.",
+		"english" : "many"
+	},
+	"so'o" : {
+		"word" : "so'o",
+		"rafsi" : ["sos"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: several.",
+		"english" : "several"
+	},
+	"so'u" : {
+		"word" : "so'u",
+		"rafsi" : ["sot"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: few.",
+		"english" : "few"
+	},
+	"soi" : {
+		"word" : "soi",
+		"selmaho" : "SOI",
+		"definition" : "discursive: reciprocal sumti marker; indicates a reciprocal relationship between sumti.",
+		"english" : "reciprocal sumti"
+	},
+	"su" : {
+		"word" : "su",
+		"selmaho" : "SU",
+		"definition" : "erase to start of discourse or text; drop subject or start over.",
+		"english" : "erase discourse"
+	},
+	"su'a" : {
+		"word" : "su'a",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I generalize - I particularize; discursive: abstractly - concretely.",
+		"notes" : "See also {sucta}, {sucni'i}.",
+		"english" : "I generalize"
+	},
+	"su'e" : {
+		"word" : "su'e",
+		"rafsi" : ["sup", "su'e"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: at most (all); no more than.",
+		"english" : "at most"
+	},
+	"su'i" : {
+		"word" : "su'i",
+		"selmaho" : "VUhU1",
+		"definition" : "n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)].",
+		"english" : "plus"
+	},
+	"su'o" : {
+		"word" : "su'o",
+		"rafsi" : ["suz", "su'o"],
+		"selmaho" : "PA4",
+		"definition" : "digit/number: at least (some); no less than.",
+		"english" : "at least"
+	},
+	"su'u" : {
+		"word" : "su'u",
+		"rafsi" : ["suv"],
+		"selmaho" : "NU",
+		"definition" : "abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstraction of type x2.",
+		"english" : "unspecif abstract"
+	},
+	"sy" : {
+		"word" : "sy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for s.",
+		"english" : "s"
+	},
+	"ta" : {
+		"word" : "ta",
+		"rafsi" : ["taz"],
+		"selmaho" : "KOhA6",
+		"definition" : "pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener.",
+		"english" : "that there"
+	},
+	"ta'a" : {
+		"word" : "ta'a",
+		"selmaho" : "COI",
+		"definition" : "vocative: interruption.",
+		"english" : "interruption"
+	},
+	"ta'e" : {
+		"word" : "ta'e",
+		"selmaho" : "TAhE",
+		"definition" : "tense interval modifier: habitually; subjective tense/modal; defaults as time tense.",
+		"english" : "habitually"
+	},
+	"ta'i" : {
+		"word" : "ta'i",
+		"selmaho" : "BAI",
+		"definition" : "tadji modal, 1st place (in manner 3)              methodically; by method ...",
+		"english" : "by method"
+	},
+	"ta'o" : {
+		"word" : "ta'o",
+		"selmaho" : "UI3",
+		"definition" : "discursive: by the way - returning to main point.",
+		"notes" : "See also {denpa}, {cneterta'a}.",
+		"english" : "by the way"
+	},
+	"ta'u" : {
+		"word" : "ta'u",
+		"selmaho" : "UI3a",
+		"definition" : "discursive: making a tanru - expanding the tanru.",
+		"notes" : "See also {tanru}.",
+		"english" : "making a tanru"
+	},
+	"tai" : {
+		"word" : "tai",
+		"selmaho" : "BAI",
+		"definition" : "tamsmi modal, 1st place (like)/(in manner 2)      resembling ...; sharing ideal form ...",
+		"notes" : "{tamsmi} is x1 resembles x2 sharing ideal form/shape x3 in property x4",
+		"english" : "in form"
+	},
+	"tau" : {
+		"word" : "tau",
+		"selmaho" : "LAU",
+		"definition" : "2-word letteral/shift: change case for next letteral only.",
+		"english" : "shift next lerfu"
+	},
+	"te" : {
+		"word" : "te",
+		"rafsi" : ["ter"],
+		"selmaho" : "SE",
+		"definition" : "3rd conversion; switch 1st/3rd places.",
+		"english" : "3rd conversion"
+	},
+	"te'a" : {
+		"word" : "te'a",
+		"selmaho" : "VUhU2",
+		"definition" : "binary mathematical operator: to the power; exponential; [a to the b power].",
+		"english" : "to the power"
+	},
+	"te'e" : {
+		"word" : "te'e",
+		"selmaho" : "FAhA3",
+		"definition" : "location tense relation/direction; edged by/edging up to ...",
+		"english" : "(No Gloss Word)"
+	},
+	"te'o" : {
+		"word" : "te'o",
+		"selmaho" : "PA5",
+		"definition" : "digit/number: exponential e (approx 2.71828...).",
+		"english" : "exponential e"
+	},
+	"te'u" : {
+		"word" : "te'u",
+		"selmaho" : "TEhU",
+		"definition" : "elidable terminator: end conversion between non-mex and mex; usually elidable.",
+		"english" : "end mex converters"
+	},
+	"tei" : {
+		"word" : "tei",
+		"selmaho" : "TEI",
+		"definition" : "composite letteral follows; used for multi-character letterals.",
+		"english" : "composite lerfu"
+	},
+	"ti" : {
+		"word" : "ti",
+		"rafsi" : ["tif"],
+		"selmaho" : "KOhA6",
+		"definition" : "pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker.",
+		"english" : "this here"
+	},
+	"ti'a" : {
+		"word" : "ti'a",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; rearwards/to the rear of ...",
+		"english" : "behind"
+	},
+	"ti'e" : {
+		"word" : "ti'e",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I hear (hearsay).",
+		"notes" : "See also {tirna}, {sitna}, {tcidu}.",
+		"english" : "I hear"
+	},
+	"ti'i" : {
+		"word" : "ti'i",
+		"selmaho" : "BAI",
+		"definition" : "stidi modal, 1st place                            suggested by ...; proposed by ...",
+		"english" : "suggested by"
+	},
+	"ti'o" : {
+		"word" : "ti'o",
+		"selmaho" : "SEI",
+		"definition" : "mathematical expression (mex) operator precedence (discursive).",
+		"english" : "mex precedence"
+	},
+	"ti'u" : {
+		"word" : "ti'u",
+		"selmaho" : "BAI",
+		"definition" : "tcika modal, 1st place (for letters)              associated with time ... ; attach time stamp.",
+		"english" : "associated with time"
+	},
+	"to" : {
+		"word" : "to",
+		"selmaho" : "TO",
+		"definition" : "left parenthesis; start of parenthetical note which must be grammatical Lojban text.",
+		"english" : "start parenthesis"
+	},
+	"to'a" : {
+		"word" : "to'a",
+		"selmaho" : "BY1",
+		"definition" : "lower-case letteral shift.",
+		"english" : "lower-case shift"
+	},
+	"to'e" : {
+		"word" : "to'e",
+		"rafsi" : ["tol", "to'e"],
+		"selmaho" : "NAhE",
+		"definition" : "polar opposite scalar negator.",
+		"english" : "polar opposite"
+	},
+	"to'i" : {
+		"word" : "to'i",
+		"selmaho" : "TO",
+		"definition" : "open editorial unquote (within a quote); contains grammatical text; mark with editorial insert.",
+		"english" : "editorial unquote"
+	},
+	"to'o" : {
+		"word" : "to'o",
+		"selmaho" : "FAhA4",
+		"definition" : "location tense relation/direction; departing from/directly away from ...",
+		"english" : "away from point"
+	},
+	"to'u" : {
+		"word" : "to'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: in brief - in detail.",
+		"notes" : "See also {tordu}, {clani}, {tcidu}.",
+		"english" : "in brief"
+	},
+	"toi" : {
+		"word" : "toi",
+		"selmaho" : "TOI",
+		"definition" : "elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text.",
+		"english" : "end parenthesis"
+	},
+	"tu" : {
+		"word" : "tu",
+		"rafsi" : ["tuf"],
+		"selmaho" : "KOhA6",
+		"definition" : "pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker&listener.",
+		"english" : "that yonder"
+	},
+	"tu'a" : {
+		"word" : "tu'a",
+		"selmaho" : "LAhE",
+		"definition" : "extracts a concrete sumti from an unspecified abstraction; equivalent to le nu/su'u [sumti] co'e.",
+		"english" : "the bridi implied by"
+	},
+	"tu'e" : {
+		"word" : "tu'e",
+		"selmaho" : "TUhE",
+		"definition" : "start of multiple utterance scope; used for logical/non-logical/ordinal joining of sentences.",
+		"english" : "start text scope"
+	},
+	"tu'i" : {
+		"word" : "tu'i",
+		"selmaho" : "BAI",
+		"definition" : "stuzi modal, 1st place (used to situate letters)  associated with site ... ; label with location.",
+		"english" : "associated with site"
+	},
+	"tu'o" : {
+		"word" : "tu'o",
+		"selmaho" : "PA5",
+		"definition" : "null operand (used in unary mekso operations).",
+		"notes" : "See also {xo'e}.",
+		"english" : "null operand"
+	},
+	"tu'u" : {
+		"word" : "tu'u",
+		"selmaho" : "TUhU",
+		"definition" : "elidable terminator: end multiple utterance scope; seldom elidable.",
+		"english" : "end text scope"
+	},
+	"ty" : {
+		"word" : "ty",
+		"selmaho" : "BY2",
+		"definition" : "letteral for t.",
+		"english" : "t"
+	},
+	"u" : {
+		"word" : "u",
+		"selmaho" : "A",
+		"definition" : "logical connective: sumti afterthought whether-or-not.",
+		"english" : "sumti whether"
+	},
+	"u'a" : {
+		"word" : "u'a",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: gain - loss.",
+		"notes" : "See also {jinga}, {selne'u}, {prali}, {cirko}.",
+		"english" : "gain"
+	},
+	"u'e" : {
+		"word" : "u'e",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: wonder - commonplace.",
+		"notes" : "See also {manci}, {fadni}.",
+		"english" : "wonder"
+	},
+	"u'i" : {
+		"word" : "u'i",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: amusement - weariness.",
+		"notes" : "See also {selzdi}, {selxajmi}, {xalbo}.",
+		"english" : "amusement"
+	},
+	"u'o" : {
+		"word" : "u'o",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: courage - timidity - cowardice.",
+		"notes" : "See also {virnu}.",
+		"english" : "courage"
+	},
+	"u'u" : {
+		"word" : "u'u",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: repentance - lack of regret - innocence.",
+		"notes" : "See also {xenru}, {zugycni}.",
+		"english" : "repentance"
+	},
+	"ua" : {
+		"word" : "ua",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: discovery - confusion/searching.",
+		"notes" : "See also {facki}, {cfipu}, {sisku}.",
+		"english" : "discovery"
+	},
+	"ue" : {
+		"word" : "ue",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: surprise - not really surprised - expectation.",
+		"notes" : "See also {spaji}.",
+		"english" : "surprise"
+	},
+	"ui" : {
+		"word" : "ui",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: happiness - unhappiness.",
+		"notes" : "See also {gleki}.",
+		"english" : "sadness"
+	},
+	"uo" : {
+		"word" : "uo",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: completion - incompleteness.",
+		"notes" : "See also {mulno}, {mansa}, {fanmo}, {snada}.",
+		"english" : "completion"
+	},
+	"uu" : {
+		"word" : "uu",
+		"selmaho" : "UI1",
+		"definition" : "attitudinal: pity - cruelty.",
+		"notes" : "See also {kecti}.",
+		"english" : "pity"
+	},
+	"va" : {
+		"word" : "va",
+		"rafsi" : ["vaz"],
+		"selmaho" : "VA",
+		"definition" : "location tense distance: near to ... ; there at ...; a medium/small distance from ...",
+		"english" : "there at"
+	},
+	"va'a" : {
+		"word" : "va'a",
+		"selmaho" : "VUhU3",
+		"definition" : "unary mathematical operator: additive inverse; [- a].",
+		"english" : "additive inverse"
+	},
+	"va'e" : {
+		"word" : "va'e",
+		"selmaho" : "MOI",
+		"definition" : "convert number to scalar selbri; x1 is at (n)th position on scale x2.",
+		"english" : "scalar selbri"
+	},
+	"va'i" : {
+		"word" : "va'i",
+		"selmaho" : "UI3",
+		"definition" : "discursive: in other words - in the same words.",
+		"notes" : "See also {cneselsku}.",
+		"english" : "in other words"
+	},
+	"va'o" : {
+		"word" : "va'o",
+		"selmaho" : "BAI",
+		"definition" : "vanbi modal, 1st place (conditions 1)             under conditions ...; in environment ...",
+		"english" : "under conditions"
+	},
+	"va'u" : {
+		"word" : "va'u",
+		"selmaho" : "BAI",
+		"definition" : "xamgu modal, 1st place beneficiary case tag complement  benefiting from ...",
+		"english" : "benefiting from"
+	},
+	"vai" : {
+		"word" : "vai",
+		"selmaho" : "PA2",
+		"definition" : "digit/number: hex digit F (decimal 15) [fifteen].",
+		"english" : "hex digit F"
+	},
+	"vau" : {
+		"word" : "vau",
+		"selmaho" : "VAU",
+		"definition" : "elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti.",
+		"english" : "end simple bridi"
+	},
+	"ve" : {
+		"word" : "ve",
+		"rafsi" : ["vel"],
+		"selmaho" : "SE",
+		"definition" : "4th conversion; switch 1st/4th places.",
+		"english" : "4th conversion"
+	},
+	"ve'a" : {
+		"word" : "ve'a",
+		"selmaho" : "VEhA",
+		"definition" : "location tense interval: a small/medium region of space.",
+		"english" : "small space interval"
+	},
+	"ve'e" : {
+		"word" : "ve'e",
+		"rafsi" : ["ve'e"],
+		"selmaho" : "VEhA",
+		"definition" : "location tense interval: the whole of space.",
+		"english" : "whole space interval"
+	},
+	"ve'i" : {
+		"word" : "ve'i",
+		"selmaho" : "VEhA",
+		"definition" : "location tense interval: a tiny region of space.",
+		"english" : "tiny space interval"
+	},
+	"ve'o" : {
+		"word" : "ve'o",
+		"selmaho" : "VEhO",
+		"definition" : "right mathematical bracket.",
+		"english" : "right bracket"
+	},
+	"ve'u" : {
+		"word" : "ve'u",
+		"selmaho" : "VEhA",
+		"definition" : "location tense interval: a large region of space.",
+		"english" : "big space interval"
+	},
+	"vei" : {
+		"word" : "vei",
+		"selmaho" : "VEI",
+		"definition" : "left mathematical bracket.",
+		"english" : "left bracket"
+	},
+	"vi" : {
+		"word" : "vi",
+		"rafsi" : ["viz"],
+		"selmaho" : "VA",
+		"definition" : "location tense distance: here at ... ; at or a very short/tiny distance from ...",
+		"english" : "here"
+	},
+	"vi'a" : {
+		"word" : "vi'a",
+		"selmaho" : "VIhA",
+		"definition" : "dimensionality of space interval tense: 2-space interval; throughout an area.",
+		"english" : "2-space interval"
+	},
+	"vi'e" : {
+		"word" : "vi'e",
+		"selmaho" : "VIhA",
+		"definition" : "dimensionality of space interval tense: 4-space interval; throughout a spacetime.",
+		"english" : "4-space interval"
+	},
+	"vi'i" : {
+		"word" : "vi'i",
+		"selmaho" : "VIhA",
+		"definition" : "dimensionality of space interval tense: 1-space interval; along a line.",
+		"english" : "1-space interval"
+	},
+	"vi'o" : {
+		"word" : "vi'o",
+		"selmaho" : "COI",
+		"definition" : "vocative: wilco (ack and will comply).",
+		"english" : "wilco"
+	},
+	"vi'u" : {
+		"word" : "vi'u",
+		"selmaho" : "VIhA",
+		"definition" : "dimensionality of space interval tense: 3-space interval; throughout a space.",
+		"english" : "3-space interval"
+	},
+	"vo" : {
+		"word" : "vo",
+		"rafsi" : ["von"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 4 (digit) [four].",
+		"english" : "4"
+	},
+	"vo'a" : {
+		"word" : "vo'a",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: repeats 1st place of main bridi of this sentence.",
+		"english" : "x1 it"
+	},
+	"vo'e" : {
+		"word" : "vo'e",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: repeats 2nd place of main bridi of this sentence.",
+		"english" : "x2 it"
+	},
+	"vo'i" : {
+		"word" : "vo'i",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: repeats 3rd place of main bridi of this sentence.",
+		"english" : "x3 it"
+	},
+	"vo'o" : {
+		"word" : "vo'o",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: repeats 4th place of main bridi of this sentence.",
+		"english" : "x4 it"
+	},
+	"vo'u" : {
+		"word" : "vo'u",
+		"selmaho" : "KOhA4",
+		"definition" : "pro-sumti: repeats 5th place of main bridi of this sentence.",
+		"english" : "x5 it"
+	},
+	"voi" : {
+		"word" : "voi",
+		"selmaho" : "NOI",
+		"definition" : "non-veridical restrictive clause used to form complicated le-like descriptions using \"ke'a\".",
+		"english" : "descriptive clause"
+	},
+	"vu" : {
+		"word" : "vu",
+		"rafsi" : ["vuz"],
+		"selmaho" : "VA",
+		"definition" : "location tense distance: far from ... ; yonder at ... ; a long distance from ...",
+		"english" : "yonder at"
+	},
+	"vu'a" : {
+		"word" : "vu'a",
+		"selmaho" : "FAhA1",
+		"definition" : "location tense relation/direction; west of.",
+		"english" : "west of"
+	},
+	"vu'e" : {
+		"word" : "vu'e",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: virtue - sin.",
+		"notes" : "See also {vrude}, {zungi}.",
+		"english" : "virtue"
+	},
+	"vu'i" : {
+		"word" : "vu'i",
+		"selmaho" : "LAhE",
+		"definition" : "sumti qualifier: the sequence made from set or composed of elements/components; order is vague.",
+		"english" : "the sequence of"
+	},
+	"vu'o" : {
+		"word" : "vu'o",
+		"selmaho" : "VUhO",
+		"definition" : "joins relative clause/phrase to complete complex or logically connected sumti in afterthought.",
+		"english" : "long scope relative"
+	},
+	"vu'u" : {
+		"word" : "vu'u",
+		"selmaho" : "VUhU1",
+		"definition" : "n-ary mathematical operator: minus; subtraction operator; [(((a - b) - c) - ...)].",
+		"english" : "minus"
+	},
+	"vy" : {
+		"word" : "vy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for v.",
+		"english" : "v"
+	},
+	"xa" : {
+		"word" : "xa",
+		"rafsi" : ["xav"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 6 (digit) [six].",
+		"english" : "6"
+	},
+	"xe" : {
+		"word" : "xe",
+		"rafsi" : ["xel"],
+		"selmaho" : "SE",
+		"definition" : "5th conversion; switch 1st/5th places.",
+		"english" : "5th conversion"
+	},
+	"xi" : {
+		"word" : "xi",
+		"selmaho" : "XI",
+		"definition" : "subscript; attaches a numer of letteral string following as a subscript onto grammar structures.",
+		"english" : "subscript"
+	},
+	"xo" : {
+		"word" : "xo",
+		"selmaho" : "PA5",
+		"definition" : "digit/number: number/digit/lerfu question.",
+		"english" : "number ?"
+	},
+	"xu" : {
+		"word" : "xu",
+		"selmaho" : "UI6",
+		"definition" : "discursive: true-false question.",
+		"english" : "true-false ?"
+	},
+	"xy" : {
+		"word" : "xy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for x.",
+		"english" : "x"
+	},
+	"y" : {
+		"word" : "y",
+		"selmaho" : "Y",
+		"definition" : "hesitation noise; maintains the floor while speaker decides what to say next.",
+		"english" : "hesitation"
+	},
+	"y'y" : {
+		"word" : "y'y",
+		"selmaho" : "BY2",
+		"definition" : "letteral for '.",
+		"english" : "'"
+	},
+	"za" : {
+		"word" : "za",
+		"selmaho" : "ZI",
+		"definition" : "time tense distance: medium distance in time.",
+		"english" : "medium time"
+	},
+	"za'a" : {
+		"word" : "za'a",
+		"selmaho" : "UI2",
+		"definition" : "evidential: I observe.",
+		"notes" : "See also {zgana}, {lanli}.",
+		"english" : "I observe"
+	},
+	"za'e" : {
+		"word" : "za'e",
+		"selmaho" : "BAhE",
+		"definition" : "forethought nonce-word indicator; indicates next word is nonce-creation and may be nonstandard.",
+		"english" : "nonce-word next"
+	},
+	"za'i" : {
+		"word" : "za'i",
+		"rafsi" : ["zaz"],
+		"selmaho" : "NU1",
+		"definition" : "abstractor: state (event) abstractor; x1 is continuous state of [bridi] being true.",
+		"english" : "state abstract"
+	},
+	"za'o" : {
+		"word" : "za'o",
+		"rafsi" : ["za'o"],
+		"selmaho" : "ZAhO",
+		"definition" : "interval event contour: continuing too long after natural end of ...; superfective  |     ---->.",
+		"english" : "superfective"
+	},
+	"za'u" : {
+		"word" : "za'u",
+		"selmaho" : "PA3",
+		"definition" : "digit/number: greater than.",
+		"english" : "greater than"
+	},
+	"zai" : {
+		"word" : "zai",
+		"selmaho" : "LAU",
+		"definition" : "2-word letteral/shift: alternate alphabet selector follows.",
+		"english" : "select alphabet"
+	},
+	"zau" : {
+		"word" : "zau",
+		"selmaho" : "BAI",
+		"definition" : "zanru modal, 1st place                            approved by ...",
+		"english" : "approved by"
+	},
+	"ze" : {
+		"word" : "ze",
+		"rafsi" : ["zel"],
+		"selmaho" : "PA1",
+		"definition" : "digit/number: 7 (digit) [seven].",
+		"english" : "7"
+	},
+	"ze'a" : {
+		"word" : "ze'a",
+		"selmaho" : "ZEhA",
+		"definition" : "time tense interval: a medium length of time.",
+		"english" : "medium time interval"
+	},
+	"ze'e" : {
+		"word" : "ze'e",
+		"rafsi" : ["ze'e"],
+		"selmaho" : "ZEhA",
+		"definition" : "time tense interval: the whole of time.",
+		"english" : "whole time interval"
+	},
+	"ze'i" : {
+		"word" : "ze'i",
+		"selmaho" : "ZEhA",
+		"definition" : "time tense interval: an instantaneous/tiny/short amount of time.",
+		"english" : "short time interval"
+	},
+	"ze'o" : {
+		"word" : "ze'o",
+		"rafsi" : ["zev", "ze'o"],
+		"selmaho" : "FAhA4",
+		"definition" : "location tense relation/direction; beyond/outward/receding from ...",
+		"english" : "outward"
+	},
+	"ze'u" : {
+		"word" : "ze'u",
+		"selmaho" : "ZEhA",
+		"definition" : "time tense interval: a long amount of time.",
+		"english" : "long time interval"
+	},
+	"zei" : {
+		"word" : "zei",
+		"selmaho" : "ZEI",
+		"definition" : "joins preceding and following words into a lujvo.",
+		"english" : "lujvo glue"
+	},
+	"zi" : {
+		"word" : "zi",
+		"selmaho" : "ZI",
+		"definition" : "time tense distance: instantaneous-to-short distance in time.",
+		"english" : "short time"
+	},
+	"zi'e" : {
+		"word" : "zi'e",
+		"selmaho" : "ZIhE",
+		"definition" : "joins relative clauses which apply to the same sumti.",
+		"english" : "rel clause joiner"
+	},
+	"zi'o" : {
+		"word" : "zi'o",
+		"rafsi" : ["zil"],
+		"selmaho" : "KOhA7",
+		"definition" : "pro-sumti: fills a sumti place, deleting it from selbri place structure;changes selbri semantics.",
+		"english" : "nonexistent it"
+	},
+	"zo" : {
+		"word" : "zo",
+		"selmaho" : "ZO",
+		"definition" : "quote next word only; quotes a single Lojban word (not a cmavo compound or tanru).",
+		"english" : "1-word quote"
+	},
+	"zo'a" : {
+		"word" : "zo'a",
+		"rafsi" : ["zon", "zo'a"],
+		"selmaho" : "FAhA4",
+		"definition" : "location tense relation/direction; tangential to/passing by ...",
+		"english" : "tangential to"
+	},
+	"zo'e" : {
+		"word" : "zo'e",
+		"selmaho" : "KOhA7",
+		"definition" : "pro-sumti: an elliptical/unspecified value; has some value which makes bridi true.",
+		"english" : "unspecif it"
+	},
+	"zo'i" : {
+		"word" : "zo'i",
+		"rafsi" : ["zor", "zo'i"],
+		"selmaho" : "FAhA4",
+		"definition" : "location tense relation/direction; nearer than .../inward/approaching from ...",
+		"english" : "inward"
+	},
+	"zo'o" : {
+		"word" : "zo'o",
+		"selmaho" : "UI5",
+		"definition" : "attitudinal modifier: humorously - dully - seriously.",
+		"notes" : "See also {xajmi}, {junri}.",
+		"english" : "humorously"
+	},
+	"zo'u" : {
+		"word" : "zo'u",
+		"selmaho" : "ZOhU",
+		"definition" : "marks end of logical prenex quantifiers/topic identification and start of sentence bridi.",
+		"english" : "end prenex"
+	},
+	"zoi" : {
+		"word" : "zoi",
+		"selmaho" : "ZOI",
+		"definition" : "delimited non-Lojban quotation; the result treated as a block of text.",
+		"english" : "non-Lojban quote"
+	},
+	"zu" : {
+		"word" : "zu",
+		"selmaho" : "ZI",
+		"definition" : "time tense distance: long distance in time.",
+		"english" : "long time"
+	},
+	"zu'a" : {
+		"word" : "zu'a",
+		"selmaho" : "FAhA2",
+		"definition" : "location tense relation/direction; leftwards/to the left of ...",
+		"english" : "on the left of"
+	},
+	"zu'e" : {
+		"word" : "zu'e",
+		"selmaho" : "BAI",
+		"definition" : "zukte modal, 1st place (purposed agent)           with goal-seeking actor ...",
+		"english" : "with actor"
+	},
+	"zu'i" : {
+		"word" : "zu'i",
+		"selmaho" : "KOhA7",
+		"definition" : "pro-sumti: the typical sumti value for this place in this relationship; affects truth value.",
+		"english" : "typical it"
+	},
+	"zu'o" : {
+		"word" : "zu'o",
+		"rafsi" : ["zum"],
+		"selmaho" : "NU1",
+		"definition" : "abstractor: activity (event) abstractor; x1 is abstract activity of [bridi] composed of x2.",
+		"english" : "activity abstract"
+	},
+	"zu'u" : {
+		"word" : "zu'u",
+		"selmaho" : "UI3",
+		"definition" : "discursive: on the one hand - on the other hand.",
+		"notes" : "See also {karbi}, {frica}, {dukti}",
+		"english" : "on the one hand"
+	},
+	"zy" : {
+		"word" : "zy",
+		"selmaho" : "BY2",
+		"definition" : "letteral for z.",
+		"english" : "z"
+	}
+}
