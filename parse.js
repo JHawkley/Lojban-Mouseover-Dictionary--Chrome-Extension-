@@ -26,7 +26,7 @@ function formToRegex(form, head, tail) {
                     .replace(/[Vv]/g, '<V>')
                     .replace(/[h']/g, '<h>')
                     .replace(/[Yy]/g, '<y>')
-                    .replace(/<C>/g, "['abcdefgijklmnoprstuvxyz]")
+                    .replace(/<C>/g, "[bcdfgjklmnprstvxyz]")
                     .replace(/<V>/g, "[aeiou]")
                     .replace(/<h>/g, "[']")
                     .replace(/<y>/g, "[y]")
