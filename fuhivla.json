@@ -9,7 +9,7 @@
 		"word" : "abniena",
 		"definition" : "x1 is Guaraní in aspect x2.",
 		"notes" : "see also {niengatu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"agbakate" : {
 		"word" : "agbakate",
@@ -116,13 +116,13 @@
 	"angeli" : {
 		"word" : "angeli",
 		"definition" : "x1 is an angel.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"angila" : {
 		"word" : "angila",
 		"definition" : "x1 is an eel of species x2.",
 		"notes" : "syn. {sincykaifi'e}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"anji" : {
 		"word" : "anji",
@@ -185,7 +185,7 @@
 	"avgusto" : {
 		"word" : "avgusto",
 		"definition" : "x1 is August in year x2 on calendar x3",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"axlte" : {
 		"word" : "axlte",
@@ -196,7 +196,7 @@
 		"word" : "bajriga",
 		"definition" : "x1 is a budgerigar (Melopsittacus undulatus) of breed x2",
 		"notes" : "Cf. {melpsita}, {cipni}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"banbu'enu" : {
 		"word" : "banbu'enu",
@@ -238,13 +238,13 @@
 		"word" : "bangenugu",
 		"definition" : "x1 is the language with ISO 639-3 code ''eng'' (English).",
 		"notes" : "Cf. {bangenugu}, {gliglibau}, {merbau}, {xinglibau}, {kadnyglibau}, {sralybau}, {kisyglibau}, {nanfi'oglibau}, {bangrnaidjiria}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"bangepu'o" : {
 		"word" : "bangepu'o",
 		"definition" : "x1 is the language with ISO 639-3 code ''epo'' (Esperanto).",
 		"notes" : "Cf. {esperanton}, {spranto}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"banginudu" : {
 		"word" : "banginudu",
@@ -280,7 +280,7 @@
 		"word" : "bangrtalia",
 		"definition" : "x1 is the Italian language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
 		"notes" : "Cf. {italian}, {bangu}, {bangitu'a}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"bangrtcosena" : {
 		"word" : "bangrtcosena",
@@ -304,7 +304,7 @@
 		"word" : "bangrxangu",
 		"definition" : "x1 is the Korean language used by x2 to express/communicate x3 (si'o/du'u, not quote).",
 		"notes" : "Cf. {bangu}, {bangrgogurio}, {gugdrgogurio}, {xangulu}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"bangrxanguke" : {
 		"word" : "bangrxanguke",
@@ -328,7 +328,7 @@
 		"word" : "bangurudu",
 		"definition" : "x1 is the language with ISO 639-3 code ''urd'' (Urdu).",
 		"notes" : "Cf. {xurbau}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"banje'u'e" : {
 		"word" : "banje'u'e",
@@ -340,13 +340,13 @@
 		"word" : "banjubu'o",
 		"definition" : "x1 is the language with ISO 639-3 code ''jbo'' (Lojban).",
 		"notes" : "Cf. {lojban}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"banjupunu" : {
 		"word" : "banjupunu",
 		"definition" : "x1 is the language with ISO 639-3 code ''jpn'' (Japanese).",
 		"notes" : "Cf. {ponbau}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"banku'anu" : {
 		"word" : "banku'anu",
@@ -363,7 +363,7 @@
 		"word" : "banpu'olu",
 		"definition" : "x1 is the language with ISO 639-3 code ''pol'' (Polish).",
 		"notes" : "Cf. {bangrpolska}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"banpu'oru" : {
 		"word" : "banpu'oru",
@@ -375,7 +375,7 @@
 		"word" : "banru'usu",
 		"definition" : "x1 is the language with ISO 639-3 code ''rus'' (Russian).",
 		"notes" : "Cf. {rukybau}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"bansupu'a" : {
 		"word" : "bansupu'a",
@@ -393,7 +393,7 @@
 		"word" : "banxe'inu",
 		"definition" : "x1 is the language with ISO 639-3 code ''hin'' (Hindi).",
 		"notes" : "Cf. {xinbau}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"baurgusuve" : {
 		"word" : "baurgusuve",
@@ -410,7 +410,7 @@
 		"word" : "birkoku",
 		"definition" : "x1 is an apricot of variety x2.",
 		"notes" : "see also {flaume}, {ricrceraso}, {ricrprunu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"bolgaro" : {
 		"word" : "bolgaro",
@@ -444,7 +444,7 @@
 	"campania" : {
 		"word" : "campania",
 		"definition" : "x1 is a champagne made from grapes x2.",
-		"notes" : "Cf. {vanju}, {fomvanju}, {risyvanju}, {xalka}, {koinka}.  For sparkling wines without an AOC designation, use {fomvanju}.",
+		"notes" : "Cf. {vanju}, {fomvanju}, {risyvanju}, {xalka}, {koinka}. For sparkling wines without an AOC designation, use {fomvanju}.",
 		"english" : "champagne"
 	},
 	"catnrpepiskopo" : {
@@ -473,7 +473,7 @@
 	"cidjrburito" : {
 		"word" : "cidjrburito",
 		"definition" : "x1 is a burrito/Mexican dish of ingredients wrapped in a tortilla including ingredients x2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"cidjrkusku" : {
 		"word" : "cidjrkusku",
@@ -484,7 +484,7 @@
 		"word" : "cidjrpitsa",
 		"definition" : "x1 is a pizza with topping/ingredients x2.",
 		"notes" : "Cf. {cidja}, {iptsa}, {pitnanba}, {nabypalne}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"cidjrxametsa" : {
 		"word" : "cidjrxametsa",
@@ -567,7 +567,7 @@
 		"word" : "cipnrsikonia",
 		"definition" : "x1 is a stork of species/type x2",
 		"notes" : "Genus Ciconia",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"cipnrxuazine" : {
 		"word" : "cipnrxuazine",
@@ -607,7 +607,7 @@
 		"word" : "crenzue",
 		"definition" : "x1 practices/exercises/drills/trains in/for action/event/performance x2",
 		"notes" : "This is a zi'evla made from crezenzu'e",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"danseke" : {
 		"word" : "danseke",
@@ -750,7 +750,7 @@
 		"word" : "falkoni",
 		"definition" : "x1 is a falcon (genus 'falco').",
 		"notes" : "see {cipnrfalko}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"fi'ikca" : {
 		"word" : "fi'ikca",
@@ -772,13 +772,13 @@
 		"word" : "finprvandeli",
 		"definition" : "x1 is a candirú of species/variety x2.",
 		"notes" : "syn. {kandiru}, {pincyfi'e}; see also {latfi'e}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"finprxipoglosu" : {
 		"word" : "finprxipoglosu",
 		"definition" : "x1 is a halibut of species x2.",
 		"notes" : "syn. {polgosu}; see also {flundero}, {cucyzbefi'e}, {mlafi'e}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"fiorso" : {
 		"word" : "fiorso",
@@ -796,7 +796,7 @@
 		"word" : "flaume",
 		"definition" : "x1 is a plum of variety x2.",
 		"notes" : "see also {persika}, {rutrprunu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"flundero" : {
 		"word" : "flundero",
@@ -835,7 +835,7 @@
 	"frebuari" : {
 		"word" : "frebuari",
 		"definition" : "x1 is February in year x2 on calendar x3",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"frufengalu" : {
 		"word" : "frufengalu",
@@ -845,7 +845,7 @@
 	"furfuru" : {
 		"word" : "furfuru",
 		"definition" : "x1 is dandruff in/on x2 caused by x3.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gamguata" : {
 		"word" : "gamguata",
@@ -868,13 +868,13 @@
 		"word" : "glauka",
 		"definition" : "x1 is an owl of species x2.",
 		"notes" : "see also {cipni}, {cipnrstrigi}, {cipnrtito}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gombesa" : {
 		"word" : "gombesa",
 		"definition" : "x1 is a gombessa (coelacanth) of species x2.",
 		"notes" : "see {finpe}, {finprkoilakanto}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gredile" : {
 		"word" : "gredile",
@@ -891,43 +891,43 @@
 		"word" : "gugde'aru",
 		"definition" : "x1 is the country with the code ISO-3166 AR (Argentina) for people x2. ",
 		"notes" : "Cf. {getygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'e'u" : {
 		"word" : "gugde'e'u",
 		"definition" : "x1 is the country with the code ISO-3166 EU (European Union) for people x2.",
 		"notes" : "EU is an exceptionally reserved ISO-3166 code. Cf. {rongunma}, {ropno}, {rontu'a}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'egu" : {
 		"word" : "gugde'egu",
 		"definition" : "x1 is the country with the code ISO-3166 EG (Egypt) for people x2. ",
 		"notes" : "Cf. {misrygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'esu" : {
 		"word" : "gugde'esu",
 		"definition" : "x1 is the country with the code ISO-3166 ES (Spain) for people x2. ",
 		"notes" : "Cf. {sangu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'idu" : {
 		"word" : "gugde'idu",
 		"definition" : "x1 is the country with the code ISO-3166 ID (Indonesia) for people x2.",
 		"notes" : "Cf. {bidgu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'ike" : {
 		"word" : "gugde'ike",
 		"definition" : "x1 is the country with the code ISO-3166 IQ (Iraq) for people x2.",
 		"notes" : "Cf. {raksygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'ilu" : {
 		"word" : "gugde'ilu",
 		"definition" : "x1 is the country with the code ISO-3166 IL (Israel) for people x2. ",
 		"notes" : "Cf. {brogu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'inu" : {
 		"word" : "gugde'inu",
@@ -939,19 +939,19 @@
 		"word" : "gugde'iru",
 		"definition" : "x1 is the country with the code ISO-3166 IR (Iran, Islamic Republic Of) for people x2. ",
 		"notes" : "Cf. {gugdrxirana}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'itu" : {
 		"word" : "gugde'itu",
 		"definition" : "x1 is the country with the code ISO-3166 IT (Italy) for people x2.",
 		"notes" : "Ch. {italian}, {gugdrtalia}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'u'a" : {
 		"word" : "gugde'u'a",
 		"definition" : "x1 is the country with the code ISO-3166 UA (Ukraine) for people x2. ",
 		"notes" : "Cf. {vurgu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugde'usu" : {
 		"word" : "gugde'usu",
@@ -963,43 +963,43 @@
 		"word" : "gugdebudu",
 		"definition" : "x1 is the country with the code ISO-3166 ''BD'' (Bangladesh) for people x2.",
 		"notes" : "Cf. {gugde}, {begygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdeburu" : {
 		"word" : "gugdeburu",
 		"definition" : "x1 is the country with the code ISO-3166 BR (Brazil) for people x2. ",
 		"notes" : "Cf. {razgu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdecu'a" : {
 		"word" : "gugdecu'a",
 		"definition" : "x1 is the country with the code ISO-3166 CA (Canada) for people x2. ",
 		"notes" : "Cf. {kadnygu'e}, {KEnydys}, {kenyDAS}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdecunu" : {
 		"word" : "gugdecunu",
 		"definition" : "x1 is the country with the code ISO-3166 CN (China) for people x2. ",
 		"notes" : "Cf. {jugygu'e}, {djunguos}, {xa'anzu}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdecuxe" : {
 		"word" : "gugdecuxe",
 		"definition" : "x1 is the country with the code ISO-3166 ''CH'' (Switzerland) for people x2.",
 		"notes" : "Cf. {gugdrxelvo}, {xelvet}, {xelvetik}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdedu'e" : {
 		"word" : "gugdedu'e",
 		"definition" : "x1 is the country with the code ISO-3166 DE (Germany) for people x2. ",
 		"notes" : "Cf. {dotygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdefuru" : {
 		"word" : "gugdefuru",
 		"definition" : "x1 is the country with the code ISO-3166 FR (France) for people x2. ",
 		"notes" : "Cf. {fasygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdegubu" : {
 		"word" : "gugdegubu",
@@ -1011,13 +1011,13 @@
 		"word" : "gugdeguru",
 		"definition" : "x1 is the country with the code ISO-3166 GR (Greece) for people x2. ",
 		"notes" : "Cf. {xesygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdejupu" : {
 		"word" : "gugdejupu",
 		"definition" : "x1 is the country with the code ISO-3166 JP (Japan) for people x2. ",
 		"notes" : "Cf. {pongu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdekupu" : {
 		"word" : "gugdekupu",
@@ -1035,25 +1035,25 @@
 		"word" : "gugdemuxu",
 		"definition" : "x1 is the country with the code ISO-3166 MX (Mexico) for people x2. ",
 		"notes" : "Cf. {mexygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdenugu" : {
 		"word" : "gugdenugu",
 		"definition" : "x1 is the country with the code ISO-3166 NG (Nigeria) for people x2. ",
 		"notes" : "Cf. {gugdrnaidjiria}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdepuku" : {
 		"word" : "gugdepuku",
 		"definition" : "x1 is the country with the code ISO-3166 ''PK'' (Pakistan) for people x2.",
 		"notes" : "Cf. {kisygu'e}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdepulu" : {
 		"word" : "gugdepulu",
 		"definition" : "x1 is the country with the code ISO-3166 PL (Poland) for people x2. ",
 		"notes" : "Cf. {gugdrpolska}, {polskas}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugderu'u" : {
 		"word" : "gugderu'u",
@@ -1065,13 +1065,13 @@
 		"word" : "gugdesu'u",
 		"definition" : "x1 is the country with the code ISO-3166 SU (USSR) for people x2.",
 		"notes" : "SU is a ISO-3166 code exceptionally reserved from June 2008. Cf. {sofygu'e}, {softo}, {sesre}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdeturu" : {
 		"word" : "gugdeturu",
 		"definition" : "x1 is the country with the code ISO-3166 TR (Turkey) for people x2. ",
 		"notes" : "Cf. {gugdrturkie}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdetuve" : {
 		"word" : "gugdetuve",
@@ -1106,13 +1106,13 @@
 		"word" : "gugdrpolska",
 		"definition" : "x1 is Poland.",
 		"notes" : "Cf. {polskas}, {gugdepulu}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdrtcosena" : {
 		"word" : "gugdrtcosena",
 		"definition" : "x1 is North Korea.",
 		"notes" : "Cf. {gugdekupu}, {gugdrgogurio}, {gugdrxanguke}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"gugdrturkie" : {
 		"word" : "gugdrturkie",
@@ -1193,7 +1193,7 @@
 		"word" : "itlgu'e",
 		"definition" : "x1 is Italy.",
 		"notes" : "See {itlo}, {gugde'itu}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"itlo" : {
 		"word" : "itlo",
@@ -1229,19 +1229,19 @@
 		"word" : "jbopomofo",
 		"definition" : "x1 is a jbopomofo orthography (bopomofo orthography adapted for lojban)",
 		"notes" : "Cf. {ciska}, {lerfu}, la .{tenguar}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"jerjelino" : {
 		"word" : "jerjelino",
 		"definition" : "x1 is sesame of species/variety x2.",
 		"notes" : "syn. {simsimu}, {xonxoli}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"jgitrgitara" : {
 		"word" : "jgitrgitara",
 		"definition" : "x1 is guitar with plectrum x2.",
 		"notes" : "Cf. {jgita}, {jgitrsita}, {jgitrpipa}, {zgica'a}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"jgitrnikelarpa" : {
 		"word" : "jgitrnikelarpa",
@@ -1262,13 +1262,13 @@
 	},
 	"jgitrviolino" : {
 		"word" : "jgitrviolino",
-		"definition" : "x$_1$ is violin/fiddle/ with bow x2.      ",
+		"definition" : "x$_1$ is violin/fiddle/ with bow x2. ",
 		"notes" : "Cf. {jgita}, {jgitrxu}, {mosyjgita}, {zgica'a}.",
 		"english" : "violin"
 	},
 	"jgitrxu" : {
 		"word" : "jgitrxu",
-		"definition" : "x$_1$ is an erhu with bow x2.      ",
+		"definition" : "x$_1$ is an erhu with bow x2. ",
 		"notes" : "Cf. {jgita}, {jgitrviolino}, {jgitrpipa}, {mosyjgita}, {zgica'a}.",
 		"english" : "erhu"
 	},
@@ -1282,7 +1282,7 @@
 		"word" : "jinmrberilo",
 		"definition" : "x1 is beryllium.",
 		"notes" : "see also {jinme}, {xukmi}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"jinmrniobi" : {
 		"word" : "jinmrniobi",
@@ -1308,7 +1308,7 @@
 	"jinmrxafni" : {
 		"word" : "jinmrxafni",
 		"definition" : "x1 is hafnium.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"junkace" : {
 		"word" : "junkace",
@@ -1410,13 +1410,13 @@
 		"word" : "klanrbeli",
 		"definition" : "x1 measures x2 bels on scale x3 (si'o).",
 		"notes" : "One bel is equal to 10 decibels. Cf. {klani}, {sance}, {cladu}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"klanrdjuli" : {
 		"word" : "klanrdjuli",
 		"definition" : "g1 is g2 joule(s) of energy (default is 1) by standard g3.",
 		"notes" : "Cf. {djaule}, {klanrniut,ni}, {klanrxuati}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"klanrfaradi" : {
 		"word" : "klanrfaradi",
@@ -1452,7 +1452,7 @@
 		"word" : "klanrxenri",
 		"definition" : "g1 is g2 henry/henries of inductance (default is 1) by standard g3.",
 		"notes" : "Cf. {enri}, {klanrvolta}, {xampo}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"klanrxertsi" : {
 		"word" : "klanrxertsi",
@@ -1493,7 +1493,7 @@
 		"word" : "koblrsinapi",
 		"definition" : "x1 is mustard of species/variety x2.",
 		"notes" : "especially mustard greens; see also {spatrsinapi}, {tsijrsinapi}, {sansrmustardo}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"koinka" : {
 		"word" : "koinka",
@@ -1523,7 +1523,7 @@
 		"word" : "konceto",
 		"definition" : "x1 is concerto number x2 in key x3 composed by x4 performed by/at x5( event).",
 		"notes" : "Cf. {zgike}, {nolzgi}, {konceto zei pagbu}, {pipnrpaino zei konceto}, {jgitrviolino zei konceto}, {simfoni}, {zgifi'i}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"kondomo" : {
 		"word" : "kondomo",
@@ -1539,7 +1539,7 @@
 		"word" : "konjaku",
 		"definition" : "x1 is konjac of species/variety x2.",
 		"notes" : "see also {samcrtaro}, {samcu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"kotledona" : {
 		"word" : "kotledona",
@@ -1577,13 +1577,13 @@
 		"word" : "kro'oke",
 		"definition" : "x1 croquets x2's ball.",
 		"notes" : "Cf. {kelcrkroke}, {krokete}, {bolci}, {mruli}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"krokete" : {
 		"word" : "krokete",
 		"definition" : "x1 plays croquet against x2 in competition x3 for prize/title x4.",
 		"notes" : "Cf. {kelcrkroke}, {kroke}, {kriketi}, {ga'arboijvi}, {bolci}, {mruli}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"krokodilo" : {
 		"word" : "krokodilo",
@@ -1616,7 +1616,7 @@
 		"word" : "kulnrturkie",
 		"definition" : "x1 is Turkish/pertains to Turkish culture in aspect x2.",
 		"notes" : "Cf. {kulnrturko}, {bangrturkie}, {tu'urki}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"kulnrturko" : {
 		"word" : "kulnrturko",
@@ -1677,7 +1677,7 @@
 	"kusnkusu" : {
 		"word" : "kusnkusu",
 		"definition" : "x1 is a quantity of couscous of ingredients including x2",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"lartodektu" : {
 		"word" : "lartodektu",
@@ -1710,7 +1710,7 @@
 		"word" : "lindari",
 		"definition" : "x1 measures x2 lindars in social context x3.",
 		"notes" : "The lindar is a measure of social inappropriatenes. One Lindar roughly equals the average social inappropriateness of {lindar} (a Lojban central community member).\n\nOne centiLindar = Mentally laughing at something childish / lavatoriously humorous.\nFive centiLindars = Chuckling out loud at something when it isn't appropriate (i.e. \"I'll be working under you for the duration of this project.\").\nOne Lindar = Doing something completely socially inappropriate.\nOne and a half lds. = Being offensive enough to get in trouble and / or get reprimanded.\nTwo lds. = Sufficient to get punched in the face on the spot.\nThree lds. = Sufficient to get stabbed.\nFour lds. = Sufficient to be a target of assassination.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"linlani" : {
 		"word" : "linlani",
@@ -1842,7 +1842,7 @@
 	"miksini" : {
 		"word" : "miksini",
 		"definition" : "m1 is a hagfish of species m2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"miptera" : {
 		"word" : "miptera",
@@ -1880,23 +1880,23 @@
 	"namcrgogolo" : {
 		"word" : "namcrgogolo",
 		"definition" : "x1 is a googol [$10^{100}$] of x2 in dimension/aspect x3 (default units).",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"namcrgogolplexu" : {
 		"word" : "namcrgogolplexu",
 		"definition" : "x1 is a googolplex [$10^{googol}$] of x2 in dimension/aspect x3 (default units).",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"nanbrmatsa" : {
 		"word" : "nanbrmatsa",
 		"definition" : "x1 is a matzo made from grain x2.",
 		"notes" : "see {fomcau}, {nanba}, {fomymledi}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"nargile" : {
 		"word" : "nargile",
 		"definition" : "x1 is a nargileh/hookah for smoking x2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"nargrkaju" : {
 		"word" : "nargrkaju",
@@ -1980,7 +1980,7 @@
 		"word" : "omso",
 		"definition" : "g1 is g2 ohm(s) of electrical impedance/resistance (default is 1) by standard g3.",
 		"notes" : "Cf. {klanrxomi}, {xampo}, {klanrvolta}, {klanrxuati}, {klanrzimenzi}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"orka" : {
 		"word" : "orka",
@@ -2003,7 +2003,7 @@
 		"word" : "oxtapodi",
 		"definition" : "x1 is an octopus of species x2.",
 		"notes" : "See also {tu'urbirka}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"palsita" : {
 		"word" : "palsita",
@@ -2043,7 +2043,7 @@
 		"word" : "persika",
 		"definition" : "x1 is a peach of variety x2",
 		"notes" : "see also {flaume}, {rutrprunu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"persimo" : {
 		"word" : "persimo",
@@ -2100,7 +2100,7 @@
 		"word" : "pokme'oni",
 		"definition" : "x1 is a Pokémon/Pocket Monster of species x2.",
 		"notes" : "Cf. {daskycizda'u}, {crida}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"polgosu" : {
 		"word" : "polgosu",
@@ -2112,7 +2112,7 @@
 		"word" : "prokioni",
 		"definition" : "x1 is a racoon of species/breed x2.",
 		"notes" : "Cf. {mlatu}, {gerku}, {lorxu}, {cribe}, {labno}, {mabru}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"protoni" : {
 		"word" : "protoni",
@@ -2135,7 +2135,7 @@
 		"word" : "ramdana",
 		"definition" : "x1 is the Ramadan/Ramazan of year x2.",
 		"notes" : "Cf. {ramadan}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"rangutano" : {
 		"word" : "rangutano",
@@ -2175,41 +2175,41 @@
 		"word" : "ricrprunu",
 		"definition" : "x1 is a plum/peach/cherry/apricot/sloe tree of species/variety x2.",
 		"notes" : "see also {rutrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {rozgu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"ru'urcunuje" : {
 		"word" : "ru'urcunuje",
-		"definition" : "x1 is measured in currency with code ISO-4217  ''CNY'' (China, Yuan Renminbi) as x2 (number).",
+		"definition" : "x1 is measured in currency with code ISO-4217 ''CNY'' (China, Yuan Renminbi) as x2 (number).",
 		"notes" : "Cf. {rupnu}.",
 		"english" : "yuan"
 	},
 	"ru'urcuxefu" : {
 		"word" : "ru'urcuxefu",
-		"definition" : "x1 is measured in currency with code ISO-4217  ''CHF'' (Switzerland, Francs) as x2 (number).",
+		"definition" : "x1 is measured in currency with code ISO-4217 ''CHF'' (Switzerland, Francs) as x2 (number).",
 		"notes" : "Cf. {rupnu}.",
 		"english" : "Franc"
 	},
 	"ru'urgubupu" : {
 		"word" : "ru'urgubupu",
-		"definition" : "x1 is measured in currency with code ISO-4217  ''GBP'' (United Kingdom, Pounds) as x2 (number).",
+		"definition" : "x1 is measured in currency with code ISO-4217 ''GBP'' (United Kingdom, Pounds) as x2 (number).",
 		"notes" : "Cf. {rupnu}.",
 		"english" : "GBP"
 	},
 	"ru'urjupuje" : {
 		"word" : "ru'urjupuje",
-		"definition" : "x1 is measured in currency with code ISO-4217  ''JPY'' (Japan, Yen) as x2 (number).",
+		"definition" : "x1 is measured in currency with code ISO-4217 ''JPY'' (Japan, Yen) as x2 (number).",
 		"notes" : "Cf. {rupnu}.",
 		"english" : "yen"
 	},
 	"rupne'uru" : {
 		"word" : "rupne'uru",
-		"definition" : "x1 is measured in currency with code ISO-4217  ''EUR'' (Euro Member Countries, Euro) as x2 (number).",
+		"definition" : "x1 is measured in currency with code ISO-4217 ''EUR'' (Euro Member Countries, Euro) as x2 (number).",
 		"notes" : "Cf. {rupnu}.",
 		"english" : "Euro"
 	},
 	"rupnusudu" : {
 		"word" : "rupnusudu",
-		"definition" : "x1 is measured in currency with code ISO-4217  ''USD'' (United States of America, Dollars) as x2 (number).",
+		"definition" : "x1 is measured in currency with code ISO-4217 ''USD'' (United States of America, Dollars) as x2 (number).",
 		"notes" : "Cf. {rupnu}.",
 		"english" : "dollar"
 	},
@@ -2222,7 +2222,7 @@
 	"rutrkoko" : {
 		"word" : "rutrkoko",
 		"definition" : "x1 is a coconut of variety/cultivar x2",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"rutrmalpigi" : {
 		"word" : "rutrmalpigi",
@@ -2239,13 +2239,13 @@
 		"word" : "rutrpaupau",
 		"definition" : "x1 is a papaya [Carica papaya] fruit of species/variety x2",
 		"notes" : "Cf. {grute}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"rutrprunu" : {
 		"word" : "rutrprunu",
 		"definition" : "x1 is a plum/peach/cherry/apricot/sloe of species/variety x2.",
 		"notes" : "see also {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {rozgu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"sailce" : {
 		"word" : "sailce",
@@ -2262,7 +2262,7 @@
 		"word" : "samcrkasava",
 		"definition" : "x1 is cassava of species/variety x2.",
 		"notes" : "syn. {mandioka}; see also {samcu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"samcrniame" : {
 		"word" : "samcrniame",
@@ -2379,7 +2379,7 @@
 		"word" : "spatrbasiliko",
 		"definition" : "x1 is basil of variety x2.",
 		"notes" : "syn. {alba'aka}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"spatrdauko" : {
 		"word" : "spatrdauko",
@@ -2397,18 +2397,18 @@
 		"word" : "spatrleoxari",
 		"definition" : "x1 is a water chestnut (plant) of species/variety x2.",
 		"notes" : "see also {stagrleoxari}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"spatrnakardiace" : {
 		"word" : "spatrnakardiace",
 		"definition" : "x1 is a cashew/mango/poison ivy/sumac of genus/species x2; x1 belongs to the Anacardiaceae.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"spatrpiperi" : {
 		"word" : "spatrpiperi",
 		"definition" : "x1 is pepper (''Piper'') of species/variety x2.",
 		"notes" : "see also {kapsiku}, {tsaprpiperi}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"spatrxamameli" : {
 		"word" : "spatrxamameli",
@@ -2419,13 +2419,13 @@
 		"word" : "spatrxapio",
 		"definition" : "x1 is a celery plant of species/variety x2.",
 		"notes" : "Cf. {ampigravle}, {gejrdauko}, {najgenja}, {rulsantyspa}, {stagi}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"spe'ato" : {
 		"word" : "spe'ato",
 		"definition" : "x1 reflects Esperanto culture/nationality/language in aspect x2.",
 		"notes" : "Cf. {pa'arbau}. No corresponding nation exists at the moment.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"sperlanu" : {
 		"word" : "sperlanu",
@@ -2443,7 +2443,7 @@
 		"word" : "spranto",
 		"definition" : "x1 reflects Esperanto language/culture/community in aspect x2.",
 		"notes" : "Cf. {esperanton}, {bangepu'o}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"stagnrafanu" : {
 		"word" : "stagnrafanu",
@@ -2499,7 +2499,7 @@
 	},
 	"taifnu" : {
 		"word" : "taifnu",
-		"definition" : "b1=c1 is a typhoon/hurricane/cyclone moving from direction b2 at speed b3 rotating around centre /eye c2 with rotational  direction c3.",
+		"definition" : "b1=c1 is a typhoon/hurricane/cyclone moving from direction b2 at speed b3 rotating around centre /eye c2 with rotational direction c3.",
 		"notes" : "Cf. {carbi'e}, {vilti'a}.",
 		"english" : "typhoon"
 	},
@@ -2511,7 +2511,7 @@
 	"tarksako" : {
 		"word" : "tarksako",
 		"definition" : "x1 is dandelion of species x2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"tarsire" : {
 		"word" : "tarsire",
@@ -2522,7 +2522,7 @@
 	"taxfrbikini" : {
 		"word" : "taxfrbikini",
 		"definition" : "x1 is a bikin/two piece skimpy woman's garment of material x2 consisting of top x3 and bottom x4",
-		"notes" : "Can be used in the sense of swimwear, or coordinated underwear, or even skimpy outerwear.  The key aspects are two piece, for women,  and covering little more than the breasts and crotch.",
+		"notes" : "Can be used in the sense of swimwear, or coordinated underwear, or even skimpy outerwear. The key aspects are two piece, for women, and covering little more than the breasts and crotch.",
 		"english" : "bikini top"
 	},
 	"tca'anka" : {
@@ -2593,7 +2593,7 @@
 		"word" : "tirxrponka",
 		"definition" : "x1 is a jaguar of species/breed with coat markings x2.",
 		"notes" : "Cf. {tirxu}, {tirxrpardu}, {mlatu}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"tokpona" : {
 		"word" : "tokpona",
@@ -2633,7 +2633,7 @@
 		"word" : "trixexo",
 		"definition" : "x1 is a manatee of species x2.",
 		"notes" : "variant {trixexu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"trixexu" : {
 		"word" : "trixexu",
@@ -2649,7 +2649,7 @@
 	"tropaiolo" : {
 		"word" : "tropaiolo",
 		"definition" : "x1 is a nasturtium of species x2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"trueno" : {
 		"word" : "trueno",
@@ -2729,7 +2729,7 @@
 	"uitki" : {
 		"word" : "uitki",
 		"definition" : "x1 is a wiki/collaborative web site with subject/theme/content x2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"ulmu" : {
 		"word" : "ulmu",
@@ -2746,7 +2746,7 @@
 	"vandula" : {
 		"word" : "vandula",
 		"definition" : "x1 is lavender of species/variety x2.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"varnila" : {
 		"word" : "varnila",
@@ -2781,14 +2781,14 @@
 	},
 	"vlalikei" : {
 		"word" : "vlalikei",
-		"definition" : "x1 [mass/sequence] plays the Lojban word chaining game (vlalinkei) with ruleset x2 and winner x3 with resulting sentence x4 against world champion x6 for fabulous cash prize x7 and endorsement deal(s) x8 groupies x9 (except they probably go earlier), played at time x10$ at location x11$ and honorific title x12$ breaking record(s) x13$ with mindless spectators x14$ taking time x15$ [amount] containing most frequently used word x16$ (zo) and not using perfectly good words x17$ (zo) displaying new strategy/trick x18$ supervised by x19$ with referee x20$ and used message transmission system x21$ time limit per move x22$ shortest move of the game x23$ broadcast on TV network(s) x24$ with Neilson ratings x25$ supplanting previously most watched show x26$ winning new fans  x27$ who formerly played x28$ which is inferior for reasons x29$ by standard x30$ with banned words x31$ with words winning additional points x32$ with climax of suspense x33$ and best comeback x34$",
+		"definition" : "x1 [mass/sequence] plays the Lojban word chaining game (vlalinkei) with ruleset x2 and winner x3 with resulting sentence x4 against world champion x6 for fabulous cash prize x7 and endorsement deal(s) x8 groupies x9 (except they probably go earlier), played at time x10$ at location x11$ and honorific title x12$ breaking record(s) x13$ with mindless spectators x14$ taking time x15$ [amount] containing most frequently used word x16$ (zo) and not using perfectly good words x17$ (zo) displaying new strategy/trick x18$ supervised by x19$ with referee x20$ and used message transmission system x21$ time limit per move x22$ shortest move of the game x23$ broadcast on TV network(s) x24$ with Neilson ratings x25$ supplanting previously most watched show x26$ winning new fans x27$ who formerly played x28$ which is inferior for reasons x29$ by standard x30$ with banned words x31$ with words winning additional points x32$ with climax of suspense x33$ and best comeback x34$",
 		"english" : "vlalinkei"
 	},
 	"vo'otka" : {
 		"word" : "vo'otka",
 		"definition" : "x1 is a vodka distilled from x2.",
 		"notes" : "Cf. {xalka}, {jikru}, {birje}, {vanju}, {uiski}, {campania}, {vanjyjikru}, {koinka}.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"vombatu" : {
 		"word" : "vombatu",
@@ -2849,7 +2849,7 @@
 		"word" : "xilbate",
 		"definition" : "x1 is a gibbon of species x2.",
 		"notes" : "cf. {smani}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"xilbati" : {
 		"word" : "xilbati",
@@ -2878,7 +2878,7 @@
 		"word" : "xonxoli",
 		"definition" : "x1 is sesame of species/variety x2.",
 		"notes" : "syn. {jerjelino}, {simsimu}",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"xorjina" : {
 		"word" : "xorjina",
@@ -2888,7 +2888,7 @@
 	"xrisrbiblia" : {
 		"word" : "xrisrbiblia",
 		"definition" : "x1 is the Christian Bible of Christian denomination x2",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"xrulnranunkulu" : {
 		"word" : "xrulnranunkulu",

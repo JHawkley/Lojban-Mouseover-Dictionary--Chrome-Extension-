@@ -76,13 +76,13 @@
 	"ba'i" : {
 		"word" : "ba'i",
 		"selmaho" : "BAI",
-		"definition" : "basti modal, 1st place                            replaced by ...",
+		"definition" : "basti modal, 1st place replaced by ...",
 		"english" : "replaced by"
 	},
 	"ba'o" : {
 		"word" : "ba'o",
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: in the aftermath of ...; since ...; perfective              |     |----.",
+		"definition" : "interval event contour: in the aftermath of ...; since ...; perfective |  |----.",
 		"english" : "perfective"
 	},
 	"ba'u" : {
@@ -95,13 +95,13 @@
 	"bai" : {
 		"word" : "bai",
 		"selmaho" : "BAI",
-		"definition" : "bapli modal, 1st place (forced by)                forcedly; compelled by force ...",
+		"definition" : "bapli modal, 1st place (forced by) forcedly; compelled by force ...",
 		"english" : "compelled by"
 	},
 	"bau" : {
 		"word" : "bau",
 		"selmaho" : "BAI",
-		"definition" : "bangu modal, 1st place                            in language ...",
+		"definition" : "bangu modal, 1st place in language ...",
 		"english" : "in language"
 	},
 	"be" : {
@@ -125,7 +125,7 @@
 	"be'i" : {
 		"word" : "be'i",
 		"selmaho" : "BAI",
-		"definition" : "benji modal, 1st place (sender)                   sent by ...",
+		"definition" : "benji modal, 1st place (sender)  sent by ...",
 		"english" : "sent by"
 	},
 	"be'o" : {
@@ -261,13 +261,13 @@
 	"ca'i" : {
 		"word" : "ca'i",
 		"selmaho" : "BAI",
-		"definition" : "catni modal, 1st place                            by authority of ...",
+		"definition" : "catni modal, 1st place by authority of ...",
 		"english" : "by authority of"
 	},
 	"ca'o" : {
 		"word" : "ca'o",
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: during ...; continuative                                    |-----|.",
+		"definition" : "interval event contour: during ...; continuative |-----|.",
 		"english" : "while"
 	},
 	"ca'u" : {
@@ -285,7 +285,7 @@
 	"cau" : {
 		"word" : "cau",
 		"selmaho" : "BAI",
-		"definition" : "claxu modal, 1st place                            lacked by ...",
+		"definition" : "claxu modal, 1st place lacked by ...",
 		"english" : "lacked by"
 	},
 	"ce" : {
@@ -343,7 +343,7 @@
 	"ci'e" : {
 		"word" : "ci'e",
 		"selmaho" : "BAI",
-		"definition" : "ciste modal, 1st place used in scalar negation    in system/context ...",
+		"definition" : "ciste modal, 1st place used in scalar negation in system/context ...",
 		"english" : "in system"
 	},
 	"ci'i" : {
@@ -355,13 +355,13 @@
 	"ci'o" : {
 		"word" : "ci'o",
 		"selmaho" : "BAI",
-		"definition" : "cinmo modal, 1st place                            emotionally felt by ...",
+		"definition" : "cinmo modal, 1st place emotionally felt by ...",
 		"english" : "emotionally felt by"
 	},
 	"ci'u" : {
 		"word" : "ci'u",
 		"selmaho" : "BAI",
-		"definition" : "ckilu modal, 1st place                            on the scale ...",
+		"definition" : "ckilu modal, 1st place on the scale ...",
 		"english" : "on the scale"
 	},
 	"co" : {
@@ -375,7 +375,7 @@
 		"word" : "co'a",
 		"rafsi" : ["co'a"],
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: at the starting point of ...; initiative                   >|<    |.",
+		"definition" : "interval event contour: at the starting point of ...; initiative  >|< |.",
 		"english" : "initiative"
 	},
 	"co'e" : {
@@ -388,7 +388,7 @@
 	"co'i" : {
 		"word" : "co'i",
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: at the instantaneous point of ...; achievative; point event   >|<.",
+		"definition" : "interval event contour: at the instantaneous point of ...; achievative; point event  >|<.",
 		"english" : "achievative"
 	},
 	"co'o" : {
@@ -401,7 +401,7 @@
 		"word" : "co'u",
 		"rafsi" : ["co'u"],
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: at the ending point of ... even if not done; cessative      |  >< |.",
+		"definition" : "interval event contour: at the ending point of ... even if not done; cessative | >< |.",
 		"english" : "cessative"
 	},
 	"coi" : {
@@ -419,7 +419,7 @@
 	"cu'a" : {
 		"word" : "cu'a",
 		"selmaho" : "VUhU3",
-		"definition" : "unary mathematical operator: absolute value/norm  |a|.",
+		"definition" : "unary mathematical operator: absolute value/norm |a|.",
 		"english" : "absolute value"
 	},
 	"cu'e" : {
@@ -443,7 +443,7 @@
 	"cu'u" : {
 		"word" : "cu'u",
 		"selmaho" : "BAI",
-		"definition" : "cusku modal, 1st place (attribution/quotation)    as said by source ...; used for quotation.",
+		"definition" : "cusku modal, 1st place (attribution/quotation) as said by source ...; used for quotation.",
 		"english" : "as said by"
 	},
 	"cy" : {
@@ -525,7 +525,7 @@
 	"de'i" : {
 		"word" : "de'i",
 		"selmaho" : "BAI",
-		"definition" : "detri modal, 1st place (for letters)              dated ... ; attaches date stamp.",
+		"definition" : "detri modal, 1st place (for letters) dated ... ; attaches date stamp.",
 		"english" : "dated"
 	},
 	"de'o" : {
@@ -573,7 +573,7 @@
 	"di'o" : {
 		"word" : "di'o",
 		"selmaho" : "BAI",
-		"definition" : "diklo modal, 1st place                            at the locus of ...",
+		"definition" : "diklo modal, 1st place at the locus of ...",
 		"english" : "at the locus of"
 	},
 	"di'u" : {
@@ -648,13 +648,13 @@
 	"du'i" : {
 		"word" : "du'i",
 		"selmaho" : "BAI",
-		"definition" : "dunli modal, 1st place (equalled by)              equally; as much as ...",
+		"definition" : "dunli modal, 1st place (equalled by) equally; as much as ...",
 		"english" : "as much as"
 	},
 	"du'o" : {
 		"word" : "du'o",
 		"selmaho" : "BAI",
-		"definition" : "djuno modal, 1st place (info source)            authoritatively; according to ...; known by ...",
+		"definition" : "djuno modal, 1st place (info source) authoritatively; according to ...; known by ...",
 		"english" : "according to"
 	},
 	"du'u" : {
@@ -733,7 +733,7 @@
 	"fa'e" : {
 		"word" : "fa'e",
 		"selmaho" : "BAI",
-		"definition" : "fatne modal, 1st place                            backwards; reverse of ...",
+		"definition" : "fatne modal, 1st place backwards; reverse of ...",
 		"english" : "reverse of"
 	},
 	"fa'i" : {
@@ -763,7 +763,7 @@
 	"fau" : {
 		"word" : "fau",
 		"selmaho" : "BAI",
-		"definition" : "fasnu modal, 1st place (non-causal)               in the event of ...",
+		"definition" : "fasnu modal, 1st place (non-causal)  in the event of ...",
 		"english" : "in the event of"
 	},
 	"fe" : {
@@ -823,7 +823,7 @@
 	"fi'e" : {
 		"word" : "fi'e",
 		"selmaho" : "BAI",
-		"definition" : "finti modal, 1st place (creator)                  created by ...",
+		"definition" : "finti modal, 1st place (creator) created by ...",
 		"english" : "created by"
 	},
 	"fi'i" : {
@@ -941,7 +941,7 @@
 	"ga'a" : {
 		"word" : "ga'a",
 		"selmaho" : "BAI",
-		"definition" : "zgana modal, 1st place                            to observer ... ; witnessed by ...",
+		"definition" : "zgana modal, 1st place to observer ... ; witnessed by ...",
 		"english" : "to observer"
 	},
 	"ga'e" : {
@@ -978,7 +978,7 @@
 	"gau" : {
 		"word" : "gau",
 		"selmaho" : "BAI",
-		"definition" : "gasnu modal, 1st place agent/actor case tag       with active agent ...",
+		"definition" : "gasnu modal, 1st place agent/actor case tag  with active agent ...",
 		"english" : "with active agent"
 	},
 	"ge" : {
@@ -1235,13 +1235,13 @@
 	"ja'e" : {
 		"word" : "ja'e",
 		"selmaho" : "BAI",
-		"definition" : "jalge modal, 1st place                            resultingly; therefore result ...",
+		"definition" : "jalge modal, 1st place resultingly; therefore result ...",
 		"english" : "therefore result"
 	},
 	"ja'i" : {
 		"word" : "ja'i",
 		"selmaho" : "BAI",
-		"definition" : "javni modal, 1st place (by standard 1)            orderly; by rule ...",
+		"definition" : "javni modal, 1st place (by standard 1) orderly; by rule ...",
 		"english" : "by rule"
 	},
 	"ja'o" : {
@@ -1324,7 +1324,7 @@
 	"ji'e" : {
 		"word" : "ji'e",
 		"selmaho" : "BAI",
-		"definition" : "jimte modal, 1st place                            limitedly; up to limit ...",
+		"definition" : "jimte modal, 1st place limitedly; up to limit ...",
 		"english" : "up to limit"
 	},
 	"ji'i" : {
@@ -1336,13 +1336,13 @@
 	"ji'o" : {
 		"word" : "ji'o",
 		"selmaho" : "BAI",
-		"definition" : "jitro modal, 1st place (control)                  controlledly; under direction of ...",
+		"definition" : "jitro modal, 1st place (control) controlledly; under direction of ...",
 		"english" : "under direction of"
 	},
 	"ji'u" : {
 		"word" : "ji'u",
 		"selmaho" : "BAI",
-		"definition" : "jicmu modal, 1st place (assumptions);             given that ...; based on ...",
+		"definition" : "jicmu modal, 1st place (assumptions);  given that ...; based on ...",
 		"english" : "based on"
 	},
 	"jo" : {
@@ -1447,7 +1447,7 @@
 	"ka'a" : {
 		"word" : "ka'a",
 		"selmaho" : "BAI",
-		"definition" : "klama modal, 1st place                            gone to by ...",
+		"definition" : "klama modal, 1st place gone to by ...",
 		"english" : "gone to by"
 	},
 	"ka'e" : {
@@ -1459,7 +1459,7 @@
 	"ka'i" : {
 		"word" : "ka'i",
 		"selmaho" : "BAI",
-		"definition" : "krati modal, 1st place                            represented by ...",
+		"definition" : "krati modal, 1st place represented by ...",
 		"english" : "represented by"
 	},
 	"ka'o" : {
@@ -1478,7 +1478,7 @@
 	"kai" : {
 		"word" : "kai",
 		"selmaho" : "BAI",
-		"definition" : "ckaji modal, 1st place                            characterizing ...",
+		"definition" : "ckaji modal, 1st place characterizing ...",
 		"english" : "characterizing"
 	},
 	"kau" : {
@@ -1556,7 +1556,7 @@
 	"ki'i" : {
 		"word" : "ki'i",
 		"selmaho" : "BAI",
-		"definition" : "ckini modal, 1st place (related to)               relatively; as a relation of ...",
+		"definition" : "ckini modal, 1st place (related to)  relatively; as a relation of ...",
 		"english" : "as a relation of"
 	},
 	"ki'o" : {
@@ -1568,7 +1568,7 @@
 	"ki'u" : {
 		"word" : "ki'u",
 		"selmaho" : "BAI",
-		"definition" : "krinu modal, 1st place (justified by)             justifiably; because of reason ...",
+		"definition" : "krinu modal, 1st place (justified by)  justifiably; because of reason ...",
 		"english" : "as"
 	},
 	"ko" : {
@@ -1610,7 +1610,7 @@
 	"koi" : {
 		"word" : "koi",
 		"selmaho" : "BAI",
-		"definition" : "korbi modal, 1st place (bordered by)              bounded by ...",
+		"definition" : "korbi modal, 1st place (bordered by) bounded by ...",
 		"english" : "bounded by"
 	},
 	"ku" : {
@@ -1648,7 +1648,7 @@
 	"ku'u" : {
 		"word" : "ku'u",
 		"selmaho" : "BAI",
-		"definition" : "kulnu modal, 1st place                            in culture ...",
+		"definition" : "kulnu modal, 1st place in culture ...",
 		"english" : "in culture"
 	},
 	"ky" : {
@@ -1691,7 +1691,7 @@
 	"la'u" : {
 		"word" : "la'u",
 		"selmaho" : "BAI",
-		"definition" : "klani modal, 1st place (amount)                   quantifying ...; being a quantity of ...",
+		"definition" : "klani modal, 1st place (amount)  quantifying ...; being a quantity of ...",
 		"english" : "quantifying"
 	},
 	"lai" : {
@@ -1715,7 +1715,7 @@
 	"le'a" : {
 		"word" : "le'a",
 		"selmaho" : "BAI",
-		"definition" : "klesi modal, 1st place (scalar set)               in/of category ...",
+		"definition" : "klesi modal, 1st place (scalar set)  in/of category ...",
 		"english" : "in category"
 	},
 	"le'e" : {
@@ -1766,7 +1766,7 @@
 	"li'e" : {
 		"word" : "li'e",
 		"selmaho" : "BAI",
-		"definition" : "lidne modal, 1st place                            preceded by ...; non-time sequencing.",
+		"definition" : "lidne modal, 1st place preceded by ...; non-time sequencing.",
 		"english" : "preceded by"
 	},
 	"li'i" : {
@@ -1889,13 +1889,13 @@
 	"ma'e" : {
 		"word" : "ma'e",
 		"selmaho" : "BAI",
-		"definition" : "marji modal, 1st place                            material in object/substance ...",
+		"definition" : "marji modal, 1st place material in object/substance ...",
 		"english" : "material object"
 	},
 	"ma'i" : {
 		"word" : "ma'i",
 		"selmaho" : "BAI",
-		"definition" : "manri modal, 1st place (by standard 2)            in reference frame ...",
+		"definition" : "manri modal, 1st place (by standard 2) in reference frame ...",
 		"english" : "in reference frame"
 	},
 	"ma'o" : {
@@ -1919,7 +1919,7 @@
 	"mau" : {
 		"word" : "mau",
 		"selmaho" : "BAI",
-		"definition" : "zmadu modal, 1st place (a greater)                exceeded by ... ; usually a sumti modifier.",
+		"definition" : "zmadu modal, 1st place (a greater) exceeded by ... ; usually a sumti modifier.",
 		"english" : "exceeded by"
 	},
 	"me" : {
@@ -1931,20 +1931,20 @@
 	"me'a" : {
 		"word" : "me'a",
 		"selmaho" : "BAI",
-		"definition" : "mleca modal, 1st place (a lesser)                 undercut by ... ; usually a sumti modifier.",
+		"definition" : "mleca modal, 1st place (a lesser)  undercut by ... ; usually a sumti modifier.",
 		"english" : "undercut by"
 	},
 	"me'e" : {
 		"word" : "me'e",
 		"selmaho" : "BAI",
-		"definition" : "cmene modal, 1st place (requires quote)           with name ...; so-called ...",
+		"definition" : "cmene modal, 1st place (requires quote)  with name ...; so-called ...",
 		"english" : "with name"
 	},
 	"me'i" : {
 		"word" : "me'i",
 		"selmaho" : "PA3",
 		"definition" : "digit/number: less than.",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"me'o" : {
 		"word" : "me'o",
@@ -2039,7 +2039,7 @@
 	"mo'u" : {
 		"word" : "mo'u",
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: at the natural ending point of ...; completive              |    >|<.",
+		"definition" : "interval event contour: at the natural ending point of ...; completive | >|<.",
 		"english" : "completive"
 	},
 	"moi" : {
@@ -2073,7 +2073,7 @@
 	"mu'i" : {
 		"word" : "mu'i",
 		"selmaho" : "BAI",
-		"definition" : "mukti modal, 1st place                            because of motive ...",
+		"definition" : "mukti modal, 1st place because of motive ...",
 		"english" : "because of motive"
 	},
 	"mu'o" : {
@@ -2085,7 +2085,7 @@
 	"mu'u" : {
 		"word" : "mu'u",
 		"selmaho" : "BAI",
-		"definition" : "mupli modal, 1st place                            exemplified by ...",
+		"definition" : "mupli modal, 1st place exemplified by ...",
 		"english" : "exemplified by"
 	},
 	"my" : {
@@ -2203,7 +2203,7 @@
 	"ni'i" : {
 		"word" : "ni'i",
 		"selmaho" : "BAI",
-		"definition" : "nibli modal, 1st place                            logically; logically because ...",
+		"definition" : "nibli modal, 1st place logically; logically because ...",
 		"english" : "because of logic"
 	},
 	"ni'o" : {
@@ -2389,7 +2389,7 @@
 	"pa'u" : {
 		"word" : "pa'u",
 		"selmaho" : "BAI",
-		"definition" : "pagbu modal, 1st place                            having component ...",
+		"definition" : "pagbu modal, 1st place having component ...",
 		"english" : "having component"
 	},
 	"pai" : {
@@ -2428,7 +2428,7 @@
 		"word" : "pe'i",
 		"selmaho" : "UI2",
 		"definition" : "evidential: I opine (subjective claim).",
-		"notes" : "                  See also {jinvi}.",
+		"notes" : " See also {jinvi}.",
 		"english" : "I opine"
 	},
 	"pe'o" : {
@@ -2477,7 +2477,7 @@
 	"pi'o" : {
 		"word" : "pi'o",
 		"selmaho" : "BAI",
-		"definition" : "pilno modal, 1st place                            used by ...",
+		"definition" : "pilno modal, 1st place used by ...",
 		"english" : "used by"
 	},
 	"pi'u" : {
@@ -2502,7 +2502,7 @@
 	"po'i" : {
 		"word" : "po'i",
 		"selmaho" : "BAI",
-		"definition" : "porsi modal, 1st place (in order)                 sequentially; in the sequence ...",
+		"definition" : "porsi modal, 1st place (in order)  sequentially; in the sequence ...",
 		"english" : "in the sequence"
 	},
 	"po'o" : {
@@ -2533,13 +2533,13 @@
 	"pu'a" : {
 		"word" : "pu'a",
 		"selmaho" : "BAI",
-		"definition" : "pluka modal, 1st place                            pleased by ...",
+		"definition" : "pluka modal, 1st place pleased by ...",
 		"english" : "pleased by"
 	},
 	"pu'e" : {
 		"word" : "pu'e",
 		"selmaho" : "BAI",
-		"definition" : "pruce modal, 1st place (in manner 1)              by process ...",
+		"definition" : "pruce modal, 1st place (in manner 1) by process ...",
 		"english" : "by process"
 	},
 	"pu'i" : {
@@ -2552,7 +2552,7 @@
 	"pu'o" : {
 		"word" : "pu'o",
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: in anticipation of ...;  until ... ; inchoative         ----|     |.",
+		"definition" : "interval event contour: in anticipation of ...; until ... ; inchoative  ----|  |.",
 		"english" : "anticipative"
 	},
 	"pu'u" : {
@@ -2577,7 +2577,7 @@
 	"ra'a" : {
 		"word" : "ra'a",
 		"selmaho" : "BAI",
-		"definition" : "srana modal, 1st place                            pertained to by ... (generally more specific).",
+		"definition" : "srana modal, 1st place pertained to by ... (generally more specific).",
 		"english" : "pertained to by"
 	},
 	"ra'e" : {
@@ -2589,7 +2589,7 @@
 	"ra'i" : {
 		"word" : "ra'i",
 		"selmaho" : "BAI",
-		"definition" : "krasi modal, 1st place                            from source/origin/starting point ...",
+		"definition" : "krasi modal, 1st place from source/origin/starting point ...",
 		"english" : "from"
 	},
 	"ra'o" : {
@@ -2608,7 +2608,7 @@
 	"rai" : {
 		"word" : "rai",
 		"selmaho" : "BAI",
-		"definition" : "traji modal, 1st place                            with superlative ...",
+		"definition" : "traji modal, 1st place with superlative ...",
 		"english" : "with superlative"
 	},
 	"rau" : {
@@ -2670,7 +2670,7 @@
 	"ri'a" : {
 		"word" : "ri'a",
 		"selmaho" : "BAI",
-		"definition" : "rinka modal, 1st place (phys./mental)             causal because ...",
+		"definition" : "rinka modal, 1st place (phys./mental)  causal because ...",
 		"english" : "because of cause"
 	},
 	"ri'e" : {
@@ -2838,7 +2838,7 @@
 	"sau" : {
 		"word" : "sau",
 		"selmaho" : "BAI",
-		"definition" : "sarcu modal, 1st place                            requiring ...",
+		"definition" : "sarcu modal, 1st place requiring ...",
 		"english" : "requiring"
 	},
 	"se" : {
@@ -2922,7 +2922,7 @@
 	"si'u" : {
 		"word" : "si'u",
 		"selmaho" : "BAI",
-		"definition" : "sidju modal, 1st place (aiding agent)             aided by ...",
+		"definition" : "sidju modal, 1st place (aiding agent)  aided by ...",
 		"english" : "aided by"
 	},
 	"so" : {
@@ -3041,7 +3041,7 @@
 	"ta'i" : {
 		"word" : "ta'i",
 		"selmaho" : "BAI",
-		"definition" : "tadji modal, 1st place (in manner 3)              methodically; by method ...",
+		"definition" : "tadji modal, 1st place (in manner 3) methodically; by method ...",
 		"english" : "by method"
 	},
 	"ta'o" : {
@@ -3061,7 +3061,7 @@
 	"tai" : {
 		"word" : "tai",
 		"selmaho" : "BAI",
-		"definition" : "tamsmi modal, 1st place (like)/(in manner 2)      resembling ...; sharing ideal form ...",
+		"definition" : "tamsmi modal, 1st place (like)/(in manner 2) resembling ...; sharing ideal form ...",
 		"notes" : "{tamsmi} is x1 resembles x2 sharing ideal form/shape x3 in property x4",
 		"english" : "in form"
 	},
@@ -3088,7 +3088,7 @@
 		"word" : "te'e",
 		"selmaho" : "FAhA3",
 		"definition" : "location tense relation/direction; edged by/edging up to ...",
-		"english" : "(No Gloss Word)"
+		"english" : "(no gloss word)"
 	},
 	"te'o" : {
 		"word" : "te'o",
@@ -3131,7 +3131,7 @@
 	"ti'i" : {
 		"word" : "ti'i",
 		"selmaho" : "BAI",
-		"definition" : "stidi modal, 1st place                            suggested by ...; proposed by ...",
+		"definition" : "stidi modal, 1st place suggested by ...; proposed by ...",
 		"english" : "suggested by"
 	},
 	"ti'o" : {
@@ -3143,7 +3143,7 @@
 	"ti'u" : {
 		"word" : "ti'u",
 		"selmaho" : "BAI",
-		"definition" : "tcika modal, 1st place (for letters)              associated with time ... ; attach time stamp.",
+		"definition" : "tcika modal, 1st place (for letters) associated with time ... ; attach time stamp.",
 		"english" : "associated with time"
 	},
 	"to" : {
@@ -3212,7 +3212,7 @@
 	"tu'i" : {
 		"word" : "tu'i",
 		"selmaho" : "BAI",
-		"definition" : "stuzi modal, 1st place (used to situate letters)  associated with site ... ; label with location.",
+		"definition" : "stuzi modal, 1st place (used to situate letters) associated with site ... ; label with location.",
 		"english" : "associated with site"
 	},
 	"tu'o" : {
@@ -3339,13 +3339,13 @@
 	"va'o" : {
 		"word" : "va'o",
 		"selmaho" : "BAI",
-		"definition" : "vanbi modal, 1st place (conditions 1)             under conditions ...; in environment ...",
+		"definition" : "vanbi modal, 1st place (conditions 1)  under conditions ...; in environment ...",
 		"english" : "under conditions"
 	},
 	"va'u" : {
 		"word" : "va'u",
 		"selmaho" : "BAI",
-		"definition" : "xamgu modal, 1st place beneficiary case tag complement  benefiting from ...",
+		"definition" : "xamgu modal, 1st place beneficiary case tag complement benefiting from ...",
 		"english" : "benefiting from"
 	},
 	"vai" : {
@@ -3608,7 +3608,7 @@
 		"word" : "za'o",
 		"rafsi" : ["za'o"],
 		"selmaho" : "ZAhO",
-		"definition" : "interval event contour: continuing too long after natural end of ...; superfective  |     ---->.",
+		"definition" : "interval event contour: continuing too long after natural end of ...; superfective |  ---->.",
 		"english" : "superfective"
 	},
 	"za'u" : {
@@ -3626,7 +3626,7 @@
 	"zau" : {
 		"word" : "zau",
 		"selmaho" : "BAI",
-		"definition" : "zanru modal, 1st place                            approved by ...",
+		"definition" : "zanru modal, 1st place approved by ...",
 		"english" : "approved by"
 	},
 	"ze" : {
@@ -3753,7 +3753,7 @@
 	"zu'e" : {
 		"word" : "zu'e",
 		"selmaho" : "BAI",
-		"definition" : "zukte modal, 1st place (purposed agent)           with goal-seeking actor ...",
+		"definition" : "zukte modal, 1st place (purposed agent)  with goal-seeking actor ...",
 		"english" : "with actor"
 	},
 	"zu'i" : {
