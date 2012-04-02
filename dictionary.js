@@ -99,7 +99,7 @@ lDict = (function() {
       };
       doRafsi = function() {
         var key, list, raf, retVal, value, _i, _j, _len, _len2, _ref, _ref2, _ref3;
-        if (gismulist == null) return null;
+        if (!((cmavolist != null) && (gismulist != null))) return null;
         retVal = {};
         _ref = [cmavolist, gismulist];
         for (_i = 0, _len = _ref.length; _i < _len; _i++) {
@@ -211,11 +211,11 @@ class lDict
             else
               newEntry[node.nodeName] = node.textContent
           y = dictionary.evaluate "/dictionary/direction[@from='English']/nlword[@valsi=#{xpathStringLiteral newEntry.word}]/@word", dictionary, null, 9
-          newEntry.english = if y.singleNodeValue? then y.singleNodeValue.value else '(No Gloss Word)'
+          newEntry.english = if y.singleNodeValue? then y.singleNodeValue.value else '(no gloss word)'
           retVal[newEntry.word] = newEntry
         return retVal
       doRafsi = () ->
-        return null unless gismulist?
+        return null unless cmavolist? and gismulist?
         retVal = {}
         for list in [cmavolist, gismulist]
           for own key, value of list when value.rafsi?.length > 0
