@@ -26,7 +26,7 @@ function formToRegex(form, head, tail) {
                     .replace(/[Vv]/g, '<V>')
                     .replace(/[h']/g, '<h>')
                     .replace(/[Yy]/g, '<y>')
-                    .replace(/<C>/g, "[bcdfgjklmnprstvxyz]")
+                    .replace(/<C>/g, "[bcdfgjklmnprstvxz]")
                     .replace(/<V>/g, "[aeiou]")
                     .replace(/<h>/g, "[']")
                     .replace(/<y>/g, "[y]")
@@ -65,7 +65,9 @@ lojregex.cmavoSeq = formToRegex(lojregex.cmavoForms, '^', '+$');
 // match each cmavo in a sequence
 lojregex.cmavoSplitter = formToRegex(lojregex.cmavoForms, '', '');
 //
-lojregex.rafsiSplitter = formToRegex(lojregex.rafsiForms, '', '');
+lojregex.rafsiSeq = formToRegex('(?:CVhV|CVV|CCV|CVCY?)+(?:CVCCV|CCVCV)?', '^', '$');
+//
+lojregex.rafsiSplitter = formToRegex('CVCCV$|CCVCV$|CVhV|CVV|CCV|CVC', '', '');
                            
 
 function query(text) {
@@ -76,19 +78,20 @@ function query(text) {
         //return { result: [['gismu']], select: 1 };
         return { result:[lookupGismu(text)], select: 1 };
     }
-    else if (text.match(lojregex.cmavoSeq)) {
+    if (text.match(lojregex.cmavoSeq)) {
         return { select: 1,
                  result: ( text
                            .match(lojregex.cmavoSplitter)
                            .map(lookupCmavo)
                          )
                };
-        // TODO: else luvjo, else rafsi sequence...
     }
     var result = lookupLujvo(text);
     if (result != null) return { result: [result], select: 1 };
-    result = lookupRafsi(text);
-    if (result != null) return { result: result, select: 1 };
+    if (text.match(lojregex.rafsiSeq)) {
+        result = lookupRafsi(text);
+        if (result != null) return { result: result, select: 1 };
+    }
     return { result: [['cannot', 'lex', 'the', 'selection']], select: 1 };
 }
 
@@ -128,7 +131,11 @@ function cleanArray(actual){
 }
 
 function lookupRafsi(text) {
-    var doLookup = function(str) { return lookupAny(str, lojbanDictionary.rafsi); }
+    var doLookup = function(str) {
+        if (str.length == 5)
+            return lookupAny(str, lojbanDictionary.gismu);
+        return lookupAny(str, lojbanDictionary.rafsi);
+    }
     var match = text.match(lojregex.rafsiSplitter);
     if (match == null) return null;
     var retVal = cleanArray(match.map(doLookup));
