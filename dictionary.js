@@ -92,30 +92,34 @@ lDict = (function() {
             }
           }
           y = dictionary.evaluate("/dictionary/direction[@from='English']/nlword[@valsi=" + (xpathStringLiteral(newEntry.word)) + "]/@word", dictionary, null, 9);
-          newEntry.english = y.singleNodeValue != null ? y.singleNodeValue.value : '(No Gloss Word)';
+          newEntry.english = y.singleNodeValue != null ? y.singleNodeValue.value : '(no gloss word)';
           retVal[newEntry.word] = newEntry;
         }
         return retVal;
       };
       doRafsi = function() {
-        var key, raf, retVal, value, _i, _len, _ref, _ref2;
+        var key, list, raf, retVal, value, _i, _j, _len, _len2, _ref, _ref2, _ref3;
         if (gismulist == null) return null;
         retVal = {};
-        for (key in gismulist) {
-          if (!__hasProp.call(gismulist, key)) continue;
-          value = gismulist[key];
-          if (((_ref = value.rafsi) != null ? _ref.length : void 0) > 0) {
-            _ref2 = value.rafsi;
-            for (_i = 0, _len = _ref2.length; _i < _len; _i++) {
-              raf = _ref2[_i];
-              retVal[raf] = value.word;
+        _ref = [cmavolist, gismulist];
+        for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+          list = _ref[_i];
+          for (key in list) {
+            if (!__hasProp.call(list, key)) continue;
+            value = list[key];
+            if (((_ref2 = value.rafsi) != null ? _ref2.length : void 0) > 0) {
+              _ref3 = value.rafsi;
+              for (_j = 0, _len2 = _ref3.length; _j < _len2; _j++) {
+                raf = _ref3[_j];
+                retVal[raf] = value;
+              }
             }
           }
         }
         return retVal;
       };
       source = function() {
-        if (_source == null) _source = readXml('/lojban-english-xml-export.xml');
+        if (_source == null) _source = readXml('lojban-english-xml-export.xml');
         return _source;
       };
       if (cmavolist == null) cmavolist = parse(source(), 'cmavo');
@@ -146,9 +150,7 @@ lDict = (function() {
   };
 
   lDict.prototype.rafsi = function(word) {
-    if ((rafsilist[word] != null) && (gismulist[rafsilist[word]] != null)) {
-      return gismulist[rafsilist[word]];
-    }
+    if (rafsilist[word] != null) return rafsilist[word];
     return null;
   };
 
@@ -215,12 +217,13 @@ class lDict
       doRafsi = () ->
         return null unless gismulist?
         retVal = {}
-        for own key, value of gismulist when value.rafsi?.length > 0
-          retVal[raf] = value.word for raf in value.rafsi
+        for list in [cmavolist, gismulist]
+          for own key, value of list when value.rafsi?.length > 0
+            retVal[raf] = value for raf in value.rafsi
         return retVal
       source = () ->
-        _source = readXml '/lojban-english-xml-export.xml' unless _source?
-         return _source
+        _source = readXml 'lojban-english-xml-export.xml' unless _source?
+        return _source
       cmavolist = parse source(), 'cmavo' unless cmavolist?
       gismulist = parse source(), 'gismu' unless gismulist?
       lujvolist = parse source(), 'lujvo' unless lujvolist?
@@ -244,7 +247,7 @@ class lDict
     return null
   
   rafsi: (word) ->
-    return gismulist[rafsilist[word]] if rafsilist[word]? and gismulist[rafsilist[word]]?
+    return rafsilist[word] if rafsilist[word]?
     return null
 window.LojbanDictionary = lDict
 */
